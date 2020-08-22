@@ -1,22 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>eduQuant</title>
+    <title>eduquant</title>
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>eduQuant</description>
+    <description>eduquant</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Pieter van den Berg</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>eduQuant</title>
+      <title>eduquant</title>
       <link>/</link>
     </image>
     
     <item>
       <title>Target Audience</title>
-      <link>/courses/example/example1/</link>
+      <link>/courses/irb-advanced/target-audience/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/example/example1/</guid>
+      <guid>/courses/irb-advanced/target-audience/</guid>
+      <description>&lt;p&gt;The course is intended for&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Senior IRB model developers and model validators seeking to gain a deeper understanding of regulation and IRB modelling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Target Audience</title>
+      <link>/courses/irb-basic/target-audience/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/irb-basic/target-audience/</guid>
       <description>&lt;p&gt;The course is intended for&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Junior/medior IRB model developers and model validators seeking to gain a solid basis for their work&lt;/li&gt;
@@ -27,27 +40,53 @@
     </item>
     
     <item>
-      <title>Outline</title>
-      <link>/courses/example/example2/</link>
+      <title>First topic</title>
+      <link>/courses/irb-advanced/topic1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/example/example2/</guid>
+      <guid>/courses/irb-advanced/topic1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outline</title>
+      <link>/courses/irb-advanced/outline/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/irb-advanced/outline/</guid>
+      <description>&lt;p&gt;The following topics will be treated during this course.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Outline</title>
+      <link>/courses/irb-basic/outline/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/irb-basic/outline/</guid>
       <description>&lt;p&gt;The following topics will be treated during this course.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PD</title>
-      <link>/courses/example/topic1/</link>
+      <link>/courses/irb-basic/topic1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/example/topic1/</guid>
+      <guid>/courses/irb-basic/topic1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LGD</title>
-      <link>/courses/example/topic2/</link>
+      <link>/courses/irb-basic/topic2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/example/topic2/</guid>
+      <guid>/courses/irb-basic/topic2/</guid>
+      <description>&lt;p&gt;The following topics will be treated during this course.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Second Topic</title>
+      <link>/courses/irb-advanced/topic2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/irb-advanced/topic2/</guid>
       <description>&lt;p&gt;The following topics will be treated during this course.&lt;/p&gt;
 </description>
     </item>

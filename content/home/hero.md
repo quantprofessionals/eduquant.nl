@@ -3,8 +3,8 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
-
+weight = 1  # Order that this section will appear.
+# height = "200px"
 title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
@@ -17,7 +17,7 @@ hero_media = "hero_logo.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#666A86"
+  #color = "#666A86"
   
   # Background gradient.
   # gradient_start = "#666A86"
@@ -51,10 +51,8 @@ hero_media = "hero_logo.png"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
+## Quant education
 
-Offering basic and advanced courses for risk and finance quants. 
+Train your risk quants for compliance and innovation.
 
-* regulation
-* internal models
-* credit risk
 
