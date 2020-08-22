@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Quant education"
+title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "hero_logo.png"
@@ -51,7 +51,10 @@ hero_media = "hero_logo.png"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**Quant Specialist Courses**
- 
-Advanced courses on specialist topics by domain experts.
+
+Offering basic and advanced courses for risk and finance quants on 
+
+* regulation
+* internal models
+* credit risk
 
