@@ -7173,6 +7173,9 @@ body {
     margin-top: 50px;
     /* Offset body content by navbar height. */ } }
 
+body.no-navbar {
+  margin-top: 0 !important; }
+
 .max-width-640 {
   max-width: 640px; }
 
@@ -7192,6 +7195,9 @@ p {
 ul, ol, dl {
   margin-top: 0;
   margin-bottom: 1rem; }
+
+li > p {
+  margin-bottom: 0; }
 
 ul.task-list {
   list-style: none; }
@@ -7251,11 +7257,23 @@ a:hover,
 a:focus {
   color: #795548; }
 
+.dark a,
+.dark h3.article-title a:hover {
+  color: #795548; }
+
+.dark a:hover,
+.dark a:focus {
+  color: #795548; }
+
 img,
 video {
   height: auto;
   max-width: 100%;
   display: block; }
+
+audio {
+  width: 100%;
+  margin-bottom: 20px; }
 
 video {
   width: 100%;
@@ -7286,12 +7304,12 @@ pre,
 code {
   font-family: "Cutive Mono", monospace;
   color: #c7254e;
-  background-color: #f9f2f4; }
+  /* Match bg of default highlight theme. */
+  background-color: #f8f8f8; }
 
 pre {
   margin: 0 0 1rem 0;
-  background-color: #f8f8f8;
-  /* Match default highlight theme. */
+  /* Match bg of default highlight theme. */
   border-color: #f8f8f8;
   font-size: 0.7rem;
   border-radius: 4px; }
@@ -7498,7 +7516,7 @@ a.badge:hover {
 .btn {
   padding: .5rem;
   font-size: .8rem;
-  line-height: .5;
+  line-height: .9;
   border-radius: .3rem; }
 
 .btn-links .btn {
@@ -7645,6 +7663,36 @@ div.alert a {
   background-color: #fff5f7;
   border-color: #ff3860; }
 
+.svg-icon {
+  display: inline-flex;
+  align-self: center; }
+
+.svg-icon {
+  height: 0.9em;
+  width: 0.9em; }
+
+.svg-icon.svg-baseline {
+  bottom: 0.1em;
+  line-height: 1;
+  position: relative; }
+
+.footer-license-icons {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+  height: auto;
+  width: auto;
+  font-size: 0;
+  text-decoration: none; }
+
+.footer-license-icons img {
+  display: inline-flex;
+  margin-right: 8px;
+  height: 22px;
+  vertical-align: text-bottom; }
+
 /*************************************************
  *  Navigation bar
  **************************************************/
@@ -7683,12 +7731,23 @@ div.alert a {
   .navbar .dropdown-menu {
     font-size: 16.17px; }
   .navbar .dropdown-item.active,
-  .navbar .i18n-active {
+  .navbar .dropdown-item-active {
     font-weight: bold;
     color: white !important; }
 
 .dark .navbar {
+  background: #282a36;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(255, 255, 255, 0.11); }
+  .dark .navbar .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 0.85); }
+    .dark .navbar .navbar-nav .nav-link.active, .dark .navbar .navbar-nav .nav-link:hover, .dark .navbar .navbar-nav .nav-link:focus {
+      color: white; }
+    .dark .navbar .navbar-nav .nav-link.active {
+      font-weight: bold !important;
+      color: rgba(255, 255, 255, 0.8) !important; }
+  .dark .navbar .dropdown-item.active,
+  .dark .navbar .dropdown-item-active {
+    color: rgba(255, 255, 255, 0.8) !important; }
 
 .navbar-toggler {
   border: 0 !important;
@@ -7703,13 +7762,15 @@ div.alert a {
 @media (max-width: 991.98px) {
   /* Match breakpoint for i18n dropdown in navbar.html. */
   .i18n-dropdown .nav-link::after {
-    content: none; }
-  .i18n-dropdown .dropdown-menu {
-    /* Use style from uncollapsable dropdowns to prevent dropdown going off page. */
-    position: absolute;
-    /* Below style from .dropdown-menu-right to prevent dropdown going off page. */
-    right: 0;
-    left: auto; } }
+    content: none; } }
+
+.i18n-dropdown .dropdown-menu,
+.theme-dropdown .dropdown-menu {
+  /* Use style from uncollapsable dropdowns to prevent dropdown going off page. */
+  position: absolute;
+  /* Below style from .dropdown-menu-right to prevent dropdown going off page. */
+  right: 0;
+  left: auto; }
 
 /*
 .navbar .collapse {
@@ -7735,6 +7796,9 @@ div.alert a {
 #navbar-main .main-menu-item ul li .nav-link {
   color: rgba(255, 255, 255, 0.6); }
 
+.dark #navbar-main .main-menu-item ul li .nav-link {
+  color: white; }
+
 @media (max-width: 991.98px) {
   .navbar-brand-mobile-wrapper {
     position: absolute;
@@ -7757,6 +7821,8 @@ div.alert a {
     width: 100%;
     background-color: #795548;
     text-align: center !important; }
+  .dark .navbar-collapse {
+    background-color: #282a36; }
   #navbar-main .main-menu-item .nav-item {
     padding: 10px 15px !important; }
   #navbar-main .main-menu-item .nav-item .nav-link {
@@ -7783,9 +7849,17 @@ ul.nav-icons li.nav-item a.nav-link {
   color: rgba(255, 255, 255, 0.6) !important;
   z-index: 1032; }
 
+.dark .dropdown-menu {
+  background-color: #282a36 !important;
+  color: white !important; }
+
 .dropdown-item {
   background-color: #795548 !important;
   color: rgba(255, 255, 255, 0.6) !important; }
+
+.dark .dropdown-item {
+  background-color: #282a36 !important;
+  color: white !important; }
 
 /*************************************************
  *  Card component
@@ -7808,6 +7882,11 @@ ul.nav-icons li.nav-item a.nav-link {
   background: #282a36;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
   border: 1px solid #44475a; }
+
+/* In page listings, display the linked summaries as normal text except for the hover cursor. */
+a.summary-link {
+  color: unset;
+  text-decoration: none; }
 
 .card {
   margin-bottom: 1.5rem;
@@ -7904,7 +7983,7 @@ ul.nav-icons li.nav-item a.nav-link {
   z-index: -99; }
 
 .dark .search-results {
-  background-color: #282a36; }
+  background-color: #23252f; }
 
 .searching {
   overflow: hidden; }
@@ -7937,7 +8016,7 @@ ul.nav-icons li.nav-item a.nav-link {
   padding-bottom: 1rem; }
 
 .dark .search-header {
-  background-color: #282a36; }
+  background-color: #23252f; }
 
 .search-header h1 {
   margin: 0;
@@ -8002,18 +8081,14 @@ ul.nav-icons li.nav-item a.nav-link {
 /* DARK themed components. */
 /* Algolia search input */
 .dark .ais-search-box--input {
-  background-color: #282a36; }
+  background-color: #23252f; }
 
 .dark #search-query {
-  background-color: #282a36; }
+  background-color: #23252f; }
 
 /*************************************************
  *  Page content
  **************************************************/
-article {
-  animation: intro 0.3s both;
-  animation-delay: 0.15s; }
-
 .article-container {
   max-width: 760px;
   padding: 0 20px 0 20px;
@@ -8107,6 +8182,11 @@ article .article-metadata {
 .article-metadata a:hover {
   color: #795548; }
 
+.article-metadata .author-notes {
+  cursor: help;
+  vertical-align: super;
+  font-size: 0.7em; }
+
 .article-categories {
   white-space: nowrap;
   /* Keep category icon on same line as category links, otherwise context lost. */ }
@@ -8118,6 +8198,18 @@ article .article-metadata {
 
 .middot-divider::after {
   content: '\00B7'; }
+
+.article-style {
+  overflow-x: hidden;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  -ms-word-break: break-all;
+  word-break: break-all;
+  word-break: break-word;
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto; }
 
 .article-style img,
 .article-style video {
@@ -8339,6 +8431,7 @@ ul.share li:hover i {
     opacity: 1; } }
 
 .home-section {
+  position: relative;
   background-color: #e2d4d0;
   padding: 110px 0 110px 0;
   animation: intro 0.3s both;
@@ -8886,6 +8979,7 @@ ul.ul-edu li .description p.institution {
   background-color: transparent; }
 
 .docs-sidebar .docs-toc-item.active a,
+.docs-sidebar .docs-toc-item a.active,
 .docs-sidebar .nav > .active:hover > a,
 .docs-sidebar .nav > .active > a {
   font-weight: bold;
@@ -9015,7 +9109,7 @@ body.dark,
 .dark .form-control,
 .dark .form-control:focus {
   color: #f8f8f2;
-  background: #282a36; }
+  background: #23252f; }
 
 .dark .form-control {
   background-color: #44475a; }
@@ -9039,7 +9133,7 @@ body.dark,
   background-color: #44475a; }
 
 .dark pre {
-  background-color: #44475a;
+  /* Match `pre` bg color above. */
   border-color: #44475a; }
 
 .dark .markup-quote {
@@ -9121,3 +9215,9 @@ div.mermaid {
   width: 100%;
   text-align: center;
   margin-bottom: 1rem; }
+
+/*************************************************
+ *  Style for right to left (RTL) languages.
+ **************************************************/
+html[dir="rtl"] body {
+  text-align: right; }

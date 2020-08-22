@@ -52,7 +52,7 @@ hero_media = "hero_logo.png"
 +++
 
 
-Offering basic and advanced courses for risk and finance quants on 
+Offering basic and advanced courses for risk and finance quants. 
 
 * regulation
 * internal models

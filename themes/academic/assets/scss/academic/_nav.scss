@@ -59,9 +59,9 @@
     font-size: #{$sta-font-size-small}px;
   }
 
-  // Note: dedicated `i18n-active` class to prevent ScrollSpy removing `active` class from language chooser.
+  // Note: dedicated `dropdown-item-active` class to prevent ScrollSpy removing `active` class from language chooser.
   .dropdown-item.active,
-  .i18n-active {
+  .dropdown-item-active {
     font-weight: bold;
     color: $sta-menu-text-active !important;
   }
@@ -69,7 +69,28 @@
 }
 
 .dark .navbar {
+  background: $sta-dark-menu-primary;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(255, 255, 255, .11);
+  .navbar-nav {
+    .nav-link {
+      color: rgba($sta-dark-menu-text, .85);
+
+      &.active,
+      &:hover,
+      &:focus {
+        color: $sta-dark-menu-text;
+      }
+
+      &.active {
+        font-weight: bold !important;
+        color: $sta-dark-menu-text-active !important;
+      }
+    }
+  }
+  .dropdown-item.active,
+  .dropdown-item-active {
+    color: $sta-dark-menu-text-active !important;
+  }
 }
 
 // Remove Bootstrap's border from Toggle button.
@@ -86,15 +107,19 @@
 
 @include media-breakpoint-down(md) {  /* Match breakpoint for i18n dropdown in navbar.html. */
   .i18n-dropdown .nav-link::after {
+    // Remove dropdown arrow on small devices (when language name isn't displayed).
     content: none;
   }
-  .i18n-dropdown .dropdown-menu {
-    /* Use style from uncollapsable dropdowns to prevent dropdown going off page. */
-    position: absolute;
-    /* Below style from .dropdown-menu-right to prevent dropdown going off page. */
-    right: 0;
-    left: auto;
-  }
+}
+
+// Prevent language and theme selectors rendering off page.
+.i18n-dropdown .dropdown-menu,
+.theme-dropdown .dropdown-menu {
+  /* Use style from uncollapsable dropdowns to prevent dropdown going off page. */
+  position: absolute;
+  /* Below style from .dropdown-menu-right to prevent dropdown going off page. */
+  right: 0;
+  left: auto;
 }
 
 // Allow user to horizontally scroll.
@@ -132,6 +157,10 @@
   color: $sta-menu-text;
 }
 
+.dark #navbar-main .main-menu-item ul li .nav-link {
+  color: $sta-dark-menu-text;
+}
+
 @include media-breakpoint-down(md) {
   // Used in conjunction with mobile .navbar-brand to center logo on mobile.
   .navbar-brand-mobile-wrapper {
@@ -161,6 +190,9 @@
     width: 100%;
     background-color: $sta-menu-primary;
     text-align: center !important;
+  }
+  .dark .navbar-collapse {
+    background-color: $sta-dark-menu-primary;
   }
   #navbar-main .main-menu-item .nav-item {
     padding: 10px 15px !important;
@@ -196,7 +228,17 @@ ul.nav-icons li.nav-item a.nav-link {
   z-index: 1032;  // I18n dropdown over mobile expanded menu.
 }
 
+.dark .dropdown-menu {
+  background-color: $sta-dark-menu-primary !important;
+  color: $sta-dark-menu-text !important;
+}
+
 .dropdown-item {
   background-color: $sta-menu-primary !important;
   color: $sta-menu-text !important;
+}
+
+.dark .dropdown-item {
+  background-color: $sta-dark-menu-primary !important;
+  color: $sta-dark-menu-text !important;
 }
