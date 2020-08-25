@@ -1,8 +1,17 @@
-This is a [hugo](http://gohugo.io/) [academic](https://sourcethemes.com/academic) created by [hugodown](http://hugodown.r-lib.org/).
+# Readme
 
-## Basic operation
+These are the hugo sources and resulting webpage for [eduquant.nl](https://eduquant.nl).
 
-* Preview the site with `hugodown::hugo_start()`; it will automatically
-  update (navigating to the latest change) as you modify `content/`.
+Usage:
 
-* Create a new post bundle with `hugodown::use_post('post/short-title')`.
+ 1. clone the repository to a folder on your computer, e.g. ~/eduquant.nl
+ 1. checkout a (new) branch other than master to work on `git checkout my_branch`
+ 1. Install [hugo](http://gohugo.io)
+ 1. In a terminal, build the website with `hugo` from (e.g.) ~/eduquant.nl and serve it locally for previewing with `hugo server`.
+ 1. To add a course, start with copying an existing folder in `content/curriculum/` and edit it.
+ 2. To edit (for example) the tags, look in `content/home/curriculum.md`
+ 3. To edit the title, look in `content/home/hero.md`
+ 4. For more info on the widgets / layout / theme etc see [academic](https://sourcethemes.com/academic/)
+ 5. When you are happy with your newly added courses, push your changes to origin and make a merge request.
+ 6. Changes merged on `master` will be automatically built with hugo and appear online.
+
