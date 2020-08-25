@@ -25,7 +25,7 @@ hero_media = "hero_logo.png"
   
   # Background image.
   image = "background.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_darken = 0.8  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
@@ -53,6 +53,6 @@ hero_media = "hero_logo.png"
 
 ## Quant education
 
-Train your risk quants for compliance and innovation.
+Specialist courses on regulation, risk model development and validation.  
 
 

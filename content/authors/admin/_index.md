@@ -1,6 +1,7 @@
 ---
 # Display name
-name: Pieter van den Berg
+title: Pieter van den Berg, PhD
+
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +11,8 @@ authors:
 superuser: true
 
 # Role/position
-role: Wildcard
+role: Founder
+
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +20,12 @@ organizations:
   url: "https://berg-sp.eu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Regtech enthusiast, former supervisor specialist, particle physicist.
+bio: Highly experienced quant risk consultant, former supervisor and policy advisor.
 
 interests:
-- Statistical Inference
-- Regulation
-- Banking
+# - Statistical Inference
+# - Regulation
+# - Credit Risk
 
 # education:
 #   courses:
@@ -61,13 +63,12 @@ interests:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "pvdberg@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# - Researchers
-# - Visitors
+user_groups:
+ - Founders
 ---
 
 
