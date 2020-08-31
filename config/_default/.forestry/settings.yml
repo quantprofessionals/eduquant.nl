@@ -5,15 +5,10 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: content
-  label: Content
-  create: all
-  match: "**/*"
-- type: directory
-  path: config/_default/content
+  path: ontent
   label: Pages
   create: all
-  match: "*"
+  match: "**/*"
 upload_dir: static/media
 public_path: "/media"
 front_matter_path: ''
