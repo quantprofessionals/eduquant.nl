@@ -14,7 +14,7 @@ sections:
   label: Pages
   create: all
   match: "*"
-upload_dir: config/_default/static/media
+upload_dir: static/media
 public_path: "/media"
 front_matter_path: ''
 use_front_matter_path: false
