@@ -40,7 +40,7 @@ hero_media = "hero_logo.png"
   url = "#contact"
   label = "Contact Us"
   icon_pack = "fas"
-  icon = "download"
+  icon = "mailbox"
   
 # [cta_alt]
 #   url = "https://sourcethemes.com/academic/"

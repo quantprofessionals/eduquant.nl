@@ -1,0 +1,48 @@
+{{ $item := .item }}
+{{ $widget := .widget }}
+
+{{ $link := .link }}
+{{ $target := .target }}
+
+{{/* Get summary. */}}
+{{ $summary := "" }}
+{{ if $item.Params.summary }}
+  {{ $summary = $item.Params.summary | markdownify | emojify }}
+{{ else if .Params.abstract }}
+  {{ $summary = .Params.abstract | markdownify | emojify | truncate (site.Params.abstract_length | default 135) }}
+{{ else if $item.Summary }}
+  {{ $summary = $item.Summary }}
+{{ end }}
+
+{{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
+{{ $js_tag_classes := delimit (apply (apply $item.Params.tags "replace" "." " " "-") "printf" "js-id-%s" ".") " " }}
+
+
+<div class="project-card project-item isotope-item {{ $js_tag_classes | safeHTMLAttr }}">
+  <div class="card p-0 border-none rounded-2 hover-shadow h-100">
+    {{ with $resource }}
+    {{ $image := .Resize (printf "550x q90 %s") }}
+    <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="card-image hover-overlay">
+      <div class="embed-responsive embed-responsive-3by4">
+        <img src="{{ $image.RelPermalink }}" alt="" class="img-responsive">
+    </div>
+
+    </a>
+    {{ end }}
+    <!-- <div class="card-body"> -->
+      <ul class="list-inline mb-0 pt-2 pr-2 pl-2 pb-0 text-muted">
+        <li class="list-inline-item"><i class="fas fa-calendar"></i> {{ $item.Params.Duration }}</li>
+        <li class="list-inline-item"><i class="fas fa-bookmark"></i> {{ $item.Params.Category }}</li>
+      </ul>
+      <div class="card-text mt-0 pb-2 pr-2 pl-2 pt-0">
+        <h6><a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title | markdownify | emojify }}</a></h6>
+        {{ with $summary }}
+        <div class="article-style mb-2">
+          <p>{{ . }}</p>
+        </div>
+        {{ end }}
+      </div>
+      <a href="{{ .Permalink }}" class="btn btn-primary btn-block">  <i class="fas fa-hands-helping"></i>{{ "Apply now"}}</a>
+    <!-- </div> -->
+  </div>
+</div>

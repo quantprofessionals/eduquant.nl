@@ -4,11 +4,14 @@ summary: Gain a solid basis and overview of IRB regulation and supervisory guida
 tags:
 - Basic
 - Regulation
+Category: IRB
 date: "2016-04-27T00:00:00Z"
 toc: true
-
 image:
   focal_point: Smart
+duration : "3 days"
+weekly : "03 hours"
+fee : "From: $699"
 ---
 
 
