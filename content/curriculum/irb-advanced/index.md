@@ -13,7 +13,7 @@ image:
 
 duration : "3 days"
 weekly : "03 hours"
-fee : "From: $699"
+fee : "2.699"
 ---
 
 

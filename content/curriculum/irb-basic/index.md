@@ -11,7 +11,7 @@ image:
   focal_point: Smart
 duration : "3 days"
 weekly : "03 hours"
-fee : "From: $699"
+fee : "1.599"
 ---
 
 
