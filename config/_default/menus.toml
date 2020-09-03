@@ -8,6 +8,12 @@
   url = "#people"
   weight = 10
 
+
+[[main]]
+  name = "Why Us"
+  url = "slides/pitchdeck"
+  weight = 12
+
 [[main]]
   name = "Courses"
   url = "#curriculum"

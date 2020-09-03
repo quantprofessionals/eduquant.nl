@@ -55,7 +55,7 @@ pygmentsUseClasses = true
     [markup.goldmark.renderer]
       unsafe = true  # Enable user to embed HTML snippets in Markdown content.
   [markup.highlight]
-    codeFences = true
+    codeFences = false
   [markup.tableOfContents]
     startLevel = 2
     endLevel = 3
@@ -65,9 +65,9 @@ pygmentsUseClasses = true
   quality = 90
   anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
 
-# Taxonomies.
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
-  author = "authors"
+# Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular across Academic.
+[permalinks]
+  authors = "/author/:slug/"
+  tags = "/tag/:slug/"
+  categories = "/category/:slug/"
+  publication_types = "/publication-type/:slug/"
