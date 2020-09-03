@@ -1,6 +1,3 @@
-[submodule "hugo-academic"]
-	path = hugo-academic
-	url = git@github.com:gcushen/hugo-academic
 [submodule "themes/academic"]
 	path = themes/academic
-	url = https://github.com/quantprofessionals/hugo-academic
+	url = git@github.com:quantprofessionals/hugo-academic
