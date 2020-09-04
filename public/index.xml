@@ -11,7 +11,95 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using
 &lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further talk details can easily be added to this page using &lt;em>Markdown&lt;/em> and $\rm \LaTeX$ math code.&lt;/p></description></item><item><title>Slides</title><link>/slides/pitchdeck/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>/slides/pitchdeck/</guid><description>&lt;h1 id="create-slides-in-markdown-with-academic">Create slides in Markdown with Academic&lt;/h1>
+&lt;p>Further talk details can easily be added to this page using &lt;em>Markdown&lt;/em> and $\rm \LaTeX$ math code.&lt;/p></description></item><item><title>IRB Deep-dive</title><link>/curriculum/irb-advanced/</link><pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate><guid>/curriculum/irb-advanced/</guid><description>&lt;h2 id="learning-goals">Learning Goals&lt;/h2>
+&lt;p>ALorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
+&lt;h2 id="target-audience">Target Audience&lt;/h2>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
+&lt;h2 id="prerequisites">Prerequisites&lt;/h2>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
+&lt;h2 id="format">Format&lt;/h2>
+&lt;p>The course will be taught through a combination of&lt;/p>
+&lt;ul>
+&lt;li>lectures (online and offline)&lt;/li>
+&lt;li>ongoing, interactive quizzes&lt;/li>
+&lt;li>break-out sessions with challenging case studies&lt;/li>
+&lt;/ul>
+&lt;h2 id="date-and-duration">Date and duration&lt;/h2>
+&lt;p>This course will take place over the course of 3 days in January, 2021.&lt;/p>
+&lt;a href="/#contact" target="_blank" class="btn btn-primary">
+&lt;i class="fa fa-download">&lt;/i>
+Apply Now
+&lt;/a></description></item><item><title>Low-default portfolios</title><link>/curriculum/low-default-portfolios/</link><pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate><guid>/curriculum/low-default-portfolios/</guid><description>&lt;h2 id="contents">Contents&lt;/h2>
+&lt;p>Applying internal ratings based approaches for low-default portfolios comes with a specific set of additional challenges, because of the nature of the obligors, type of lending activities, complexity of recovery processes and credit risk cyclicality.&lt;/p>
+&lt;p>Typical challenges, which will be discussed during the course, are&lt;/p>
+&lt;ul>
+&lt;li>estimating PDs, cyclicality adjustments and MoC values where the number and rate of defaults is low or zero&lt;/li>
+&lt;li>dealing with material sources of uncertainty and the estimation of a margin of conservatism&lt;/li>
+&lt;li>demonstrating compliance where both in the rating assignment process and model design and estimation there is a dominating reliance on expert judgement&lt;/li>
+&lt;li>identification of an economic downturn for globally distributed portfolios or exposures across industry sectors&lt;/li>
+&lt;/ul>
+&lt;p>The term &lt;em>low-default portfolio&lt;/em> typically denotes credit exposures to large corporates, financial institutions and sovereigns, but these issues can be relevant for other types of exposures as well, for example&lt;/p>
+&lt;ul>
+&lt;li>specialized lending and project finance&lt;/li>
+&lt;li>low-risk niche lending activities&lt;/li>
+&lt;li>smaller portfolios&lt;/li>
+&lt;/ul>
+&lt;p>The exact course contents are adapted based on a survey under participants 4-6 weeks before start of the course.&lt;/p>
+&lt;h2 id="learning-goals">Learning Goals&lt;/h2>
+&lt;p>After completing the course, participants will&lt;/p>
+&lt;ul>
+&lt;li>be familiar with the specific challenges in modelling and validating minimum capital requirements for &lt;strong>low-default portfolio&lt;/strong> rating systems&lt;/li>
+&lt;li>know the specific &lt;strong>regulatory requirements&lt;/strong> relevant for these rating systems, in particular for expert-based models, shadow rating models and models covering global portfolios&lt;/li>
+&lt;li>be able to identify and challenge &lt;strong>key decisions&lt;/strong> in the IRB modelling process for these portfolios&lt;/li>
+&lt;li>understand the &lt;strong>view of the regulator and supervisory expectations&lt;/strong>&lt;/li>
+&lt;li>have a broad view of the impact of &lt;strong>new regulation&lt;/strong> and Basel IV on these portfolios&lt;/li>
+&lt;li>grasp the concepts of and requirements for &lt;strong>specific modelling techniques&lt;/strong> (for example, use of external data, Bayesian inference, Pluto-Tasche) and know how to apply and challenge these&lt;/li>
+&lt;/ul>
+&lt;h2 id="target-audience">Target Audience&lt;/h2>
+&lt;p>The course is intended for&lt;/p>
+&lt;ul>
+&lt;li>IRB model developers and team leads with a specific interest in low-default portfolio IRB models&lt;/li>
+&lt;li>Model validators and team leads with similar interests&lt;/li>
+&lt;li>Supervisors and policy advisors wishing to gain insight in the challenges of applying regulation for LDP&lt;/li>
+&lt;li>Credit risk managers wishing to enhance their understanding of IRB modelling for LDP&lt;/li>
+&lt;/ul>
+&lt;h2 id="prerequisites">Prerequisites&lt;/h2>
+&lt;p>Participants are advised to come equipped with a broad understanding of credit risk modelling and IRB regulation.&lt;/p>
+&lt;h2 id="format">Format&lt;/h2>
+&lt;p>The course will be taught through a combination of&lt;/p>
+&lt;ul>
+&lt;li>lectures (online and offline)&lt;/li>
+&lt;li>ongoing, interactive quizzes&lt;/li>
+&lt;li>break-out sessions with challenging case studies&lt;/li>
+&lt;/ul>
+&lt;h2 id="date-and-duration">Date and duration&lt;/h2>
+&lt;p>This course will take place over the course of 3 days in February, 2021.&lt;/p>
+&lt;a href="/#contact" target="_blank" class="btn btn-primary">
+&lt;i class="fa fa-download">&lt;/i>
+Apply Now
+&lt;/a></description></item><item><title>Understand IRB regulation</title><link>/curriculum/irb-basic/</link><pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate><guid>/curriculum/irb-basic/</guid><description>&lt;h2 id="learning-goals">Learning Goals&lt;/h2>
+&lt;p>ALorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
+&lt;h2 id="target-audience">Target Audience&lt;/h2>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
+&lt;h2 id="prerequisites">Prerequisites&lt;/h2>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
+&lt;h2 id="format">Format&lt;/h2>
+&lt;p>The course will be taught through a combination of&lt;/p>
+&lt;ul>
+&lt;li>lectures (online and offline)&lt;/li>
+&lt;li>ongoing, interactive quizzes&lt;/li>
+&lt;li>break-out sessions with challenging case studies&lt;/li>
+&lt;/ul>
+&lt;h2 id="date-and-duration">Date and duration&lt;/h2>
+&lt;p>This course will take place over the course of 3 days in January, 2021.&lt;/p>
+&lt;a href="/#contact" target="_blank" class="btn btn-primary">
+&lt;i class="fa fa-download">&lt;/i>
+Apply Now
+&lt;/a></description></item><item><title>Slides</title><link>/slides/pitchdeck/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>/slides/pitchdeck/</guid><description>&lt;h1 id="create-slides-in-markdown-with-academic">Create slides in Markdown with Academic&lt;/h1>
 &lt;p>
 &lt;a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic&lt;/a> |
 &lt;a href="https://sourcethemes.com/academic/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
@@ -140,34 +228,4 @@ color: navy;
 &lt;section data-noprocess data-auto-animate>
 &lt;h1>Auto&lt;/h1>
 &lt;h1>Animate&lt;/h1>
-&lt;/section></description></item><item><title>IRB Deep-dive</title><link>/curriculum/irb-advanced/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>/curriculum/irb-advanced/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
-&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
-&lt;h2 id="target-audience">Target Audience&lt;/h2>
-&lt;p>The course is intended for&lt;/p>
-&lt;ul>
-&lt;li>Senior IRB model developers and model validators seeking to gain a deeper understanding of regulation and IRB modelling&lt;/li>
-&lt;li>Supervisors and policy advisors wishing to gain insight in the challenges of applying regulation&lt;/li>
-&lt;/ul>
-&lt;h2 id="prerequisites">Prerequisites&lt;/h2>
-&lt;p>Participants are advised to come equipped with a broad understanding of IRB regulation.&lt;/p>
-&lt;h2 id="duration">Duration&lt;/h2>
-&lt;p>This course will take place over the course of 2 days.&lt;/p>
-&lt;a href="/#contact" target="_blank" class="btn btn-primary">
-&lt;i class="fa fa-download">&lt;/i>
-Apply Now
-&lt;/a></description></item><item><title>Understand IRB regulation</title><link>/curriculum/irb-basic/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>/curriculum/irb-basic/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
-&lt;p>This course provides the participant with a solid basis in understanding the regulation concerning the internal rating based approach for calculating capital requirements and the practical implications of Basel 3, the CRR, underlying technical standards and guidelines and supervisory expectations.&lt;/p>
-&lt;h2 id="target-audience">Target Audience&lt;/h2>
-&lt;p>The course is intended for&lt;/p>
-&lt;ul>
-&lt;li>Starting IRB model developers and model validators seeking to gain a solid basis for their work&lt;/li>
-&lt;li>Senior model developers seeking to refresh their knowledge and bring it up-to-date with current regulation and best practices&lt;/li>
-&lt;/ul>
-&lt;h2 id="prerequisites">Prerequisites&lt;/h2>
-&lt;p>There are no prerequisites&lt;/p>
-&lt;h2 id="duration">Duration&lt;/h2>
-&lt;p>This course will take place over the course of 3 days.&lt;/p>
-&lt;a href="/#contact" target="_blank" class="btn btn-primary">
-&lt;i class="fa fa-download">&lt;/i>
-Apply Now
-&lt;/a></description></item></channel></rss>
+&lt;/section></description></item></channel></rss>

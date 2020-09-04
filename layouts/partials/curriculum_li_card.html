@@ -7,7 +7,7 @@
 {{/* Get summary. */}}
 {{ $summary := "" }}
 {{ if $item.Params.summary }}
-  {{ $summary = $item.Params.summary | markdownify | emojify }}
+  {{ $summary = $item.Params.summary | markdownify | emojify | truncate (site.Params.summaryLength | default 135)}}
 {{ else if .Params.abstract }}
   {{ $summary = .Params.abstract | markdownify | emojify | truncate (site.Params.abstract_length | default 135) }}
 {{ else if $item.Summary }}
@@ -21,7 +21,7 @@
 <div class="project-card project-item isotope-item {{ $js_tag_classes | safeHTMLAttr }}">
   <div class="card p-0 border-none rounded-2 hover-shadow h-100">
     {{ with $resource }}
-    {{ $image := .Resize (printf "550x q90 %s") }}
+    {{ $image := .Fill (printf "550x400 %s") }}
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="card-image hover-overlay">
       <div class="embed-responsive embed-responsive-3by4">
         <img src="{{ $image.RelPermalink }}" alt="" class="img-responsive">

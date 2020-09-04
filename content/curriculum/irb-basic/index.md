@@ -5,34 +5,47 @@ tags:
 - Basic
 - Regulation
 Category: IRB
-date: "2016-04-27T00:00:00Z"
+date: "2020-09-04T00:00:00Z"
 toc: true
 image:
-  focal_point: Smart
+  caption: ""
+  focal_point: "Smart"
+  preview_only: true
 duration : "3 days"
 weekly : "03 hours"
 fee : "1.599"
 ---
 
 
-## Summary
 
-This course provides the participant with a solid basis in understanding the regulation concerning the internal rating based approach for calculating capital requirements and the practical implications of Basel 3, the CRR, underlying technical standards and guidelines and supervisory expectations.
+## Learning Goals
+
+ALorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
+
+## Contents
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 ## Target Audience
 
-The course is intended for 
-
-* Starting IRB model developers and model validators seeking to gain a solid basis for their work
-* Senior model developers seeking to refresh their knowledge and bring it up-to-date with current regulation and best practices
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 ## Prerequisites
 
-There are no prerequisites
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
-## Duration
+## Format
 
-This course will take place over the course of 3 days.
+The course will be taught through a combination of 
+
+ * lectures (online and offline)
+ * ongoing, interactive quizzes
+ * break-out sessions with challenging case studies
+ 
+## Date and duration
+
+This course will take place over the course of 3 days in January, 2021.
 
 
 {{% button href= "/#contact" icon="fa fa-download" %}}Apply Now{{% /button %}}
