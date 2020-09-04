@@ -1,16 +1,201 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Courses | eduquant</title>
-    <link>/courses/</link>
-      <atom:link href="/courses/index.xml" rel="self" type="application/rss+xml" />
-    <description>Courses</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Pieter van den Berg</copyright><lastBuildDate>Sun, 05 May 2019 00:00:00 +0100</lastBuildDate>
-    <image>
-      <url>/media/logo.png</url>
-      <title>Courses</title>
-      <link>/courses/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Courses | eduquant</title><link>/courses/</link><atom:link href="/courses/index.xml" rel="self" type="application/rss+xml"/><description>Courses</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Pieter van den Berg</copyright><lastBuildDate>Fri, 04 Sep 2020 00:00:00 +0000</lastBuildDate><image><url>/media/logo.png</url><title>Courses</title><link>/courses/</link></image><item><title>Credit Risk Model Validation</title><link>/courses/credit-risk-model-validation/</link><pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate><guid>/courses/credit-risk-model-validation/</guid><description>
+&lt;a href="/#contact" target="_blank" class="btn btn-primary">
+&lt;i class="fa fa-download">&lt;/i>
+Apply Now
+&lt;/a>
+&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>Model validation, the independent and effective challenge of risk model development, is a cornerstone of model risk control at larger and more mature financial institutions. The model validator must learn to question the credit risk model parameters, audit the decision making process and understand the trade-offs of the resulting model design choices. They need to understand the broader context of their inquiries and translate these into a sound advice to executive management. In addition, they need to understand regulation and internal policies, and the expectations of supervisors.
+In this course, students learn how to validate credit risk models in the context of Basel III, the CRR with underlying regulatory technical standards and guidelines, as well as supervisory expectations. In this course, participants will study statistical foundations of model validation in combination with practical guidance for applying these, as well as more technical aspects of verifying the correctness and reproducibility results. The knowledge will be applied in several real-life case studies and exercises.&lt;/p>
+&lt;p>The exact course contents are adapted based on a survey under participants 4-6 weeks before start of the course.&lt;/p>
+&lt;h2 id="learning-goals">Learning Goals&lt;/h2>
+&lt;p>After completing the course, participants will&lt;/p>
+&lt;ul>
+&lt;li>be able to find, understand and interpret regulatory requirements for banks using internal models, and translate these into specific assessments&lt;/li>
+&lt;li>know and reflect on the role and responsibilities of the model validation function within the bank&lt;/li>
+&lt;li>learn to question decision making processes and verify the reproducibility and correctness of results&lt;/li>
+&lt;li>understand and use procedures for statistical testing, benchmarking and the use of challenger models&lt;/li>
+&lt;li>learn to use specific statistical tests to challenge key decisions in modelling probability of default (PD), loss given default (LGD), and exposure at default (EAD) models&lt;/li>
+&lt;/ul>
+&lt;h2 id="target-audience">Target Audience&lt;/h2>
+&lt;p>The course is intended for&lt;/p>
+&lt;ul>
+&lt;li>IRB model validators with little or no prior experience in the field&lt;/li>
+&lt;li>Specialist supervisors wishing to gain insight in internal model validation&lt;/li>
+&lt;/ul>
+&lt;h2 id="prerequisites">Prerequisites&lt;/h2>
+&lt;p>Prior basic knowledge of statistical testing and modeling is strongly advised. Some experience in programming with &lt;code>python&lt;/code> or a statistcal computing language may be helpful for the case studies, but is not required.&lt;/p>
+&lt;h2 id="format">Format&lt;/h2>
+&lt;p>The course will be taught through a combination of&lt;/p>
+&lt;ul>
+&lt;li>lectures (online and offline)&lt;/li>
+&lt;li>ongoing, interactive quizzes&lt;/li>
+&lt;li>break-out sessions with challenging case studies and hands-on workshops&lt;/li>
+&lt;/ul>
+&lt;h2 id="date-and-duration">Date and duration&lt;/h2>
+&lt;p>This course will take place over the course of 3 days in February, 2021.&lt;/p>
+&lt;h2 id="course-outline">Course Outline&lt;/h2></description></item><item><title>Downturn LGD &amp; CCF</title><link>/courses/downturn-lgd/</link><pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate><guid>/courses/downturn-lgd/</guid><description>
+&lt;a href="/#contact" target="_blank" class="btn btn-primary">
+&lt;i class="fa fa-download">&lt;/i>
+Apply Now
+&lt;/a>
+&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>History has witnessed severe economic crises with an impact on financial institutions worldwide. Examples are the Asian Financial Crisis, Dot.com bubble, Global Financial Crisis, Sovereign Debt Crisis and the COVID-19 pandemic. The European Capital requirements regulation (CRR) requires financial institutions that adopt the Advanced Internal Ratings Based Approach (A-IRB) models to use Loss Given Default (LGD) estimates that are appropriate for an economic downturn if those are more conservative than the long-run average LGD. A similar requirement is imposed by the regulation for Credit Conversion Factors.&lt;/p>
+&lt;p>This deep-dive course provides context of regulatory requirements for identifying economic downturn periods and of those for estimating the downturn LGD and CCF risk parameters. Key challenges met by model developers when applying the regulatory requirements concerning economic downturn are treated in detail, for example&lt;/p>
+&lt;ul>
+&lt;li>When are economic indicators deemed relevant for identifying an economic downturn?&lt;/li>
+&lt;li>How should one determine what is considered to be an economic downturn period?&lt;/li>
+&lt;li>Which of the approaches identified in regulation should be followed for quantifying Downturn LGDs?&lt;/li>
+&lt;li>How can the volatility of capital requirements be limited if LGD estimates are sensitive to economic conditions?&lt;/li>
+&lt;li>How should the downturn LGD for in-default exposures be modelled and what is the relation to the EL$_{\text{BE}}$?&lt;/li>
+&lt;li>What are the main drivers of model risk for Downturn LGD and CCF estimates, and which Margin of Conservatism items should be considered for Downturn quantification purposes?&lt;/li>
+&lt;/ul>
+&lt;p>The exact course contents are adapted based on a survey under participants 4-6 weeks before start of the course.&lt;/p>
+&lt;h2 id="learning-goals">Learning Goals&lt;/h2>
+&lt;p>After completing the course, the participants will be able to identify downturn periods by gaining knowledge on the following topics:&lt;/p>
+&lt;ul>
+&lt;li>Selection of relevant economic indicators&lt;/li>
+&lt;li>Considerations with regard to geography and sectors&lt;/li>
+&lt;li>Choice of historical period, frequency of the data and implications&lt;/li>
+&lt;li>Guidance for transformations of economic indicators&lt;/li>
+&lt;li>Co-movement of economic indicators&lt;/li>
+&lt;li>Identification of adjacent peaks and troughs&lt;/li>
+&lt;li>Pitfalls in the downturn period identification&lt;/li>
+&lt;/ul>
+&lt;p>Furthermore, participants will be able to quantify Downturn LGD by gaining knowledge on the following topics:&lt;/p>
+&lt;ul>
+&lt;li>Three main Downturn quantification approaches:
+&lt;ul>
+&lt;li>Type 1 - Observed impact approach&lt;/li>
+&lt;li>Type 2 - Extrapolation/haircut approach&lt;/li>
+&lt;li>Type 3 - Flexible approach with minimum add-ons&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Treatment of incomplete recovery cases in Downturn estimates&lt;/li>
+&lt;li>Accounting for LGD estimates that are unduly sensitive to the economic cycle&lt;/li>
+&lt;li>Backtesting Downturn estimates&lt;/li>
+&lt;li>Regulatory challenger model&lt;/li>
+&lt;li>Choosing a final relevant Downturn period&lt;/li>
+&lt;li>When to use Downturn LGD estimates in the calculation of capital requirements&lt;/li>
+&lt;li>Pitfalls in the downturn LGD quantification&lt;/li>
+&lt;/ul>
+&lt;p>Participants will also gain knowledge of the following topics:&lt;/p>
+&lt;ul>
+&lt;li>Margin of Conservatism for Downturn&lt;/li>
+&lt;li>Quantification of Downturn CCF&lt;/li>
+&lt;li>Key process steps in Downturn quantification&lt;/li>
+&lt;li>Focus points during Model Validation&lt;/li>
+&lt;li>Relation between Downturn requirements and related requirements for LGD and PD.&lt;/li>
+&lt;/ul>
+&lt;h2 id="target-audience">Target Audience&lt;/h2>
+&lt;p>The course is intended for:&lt;/p>
+&lt;ul>
+&lt;li>IRB model developers and team leads with a specific interest in economic downturn IRB modelling.&lt;/li>
+&lt;li>Model validators and team leads with similar interests.&lt;/li>
+&lt;li>Supervisors and policy advisors wishing to gain insight in the challenges of applying regulation with regard to economic downturn.&lt;/li>
+&lt;li>Credit risk managers wishing to enhance their understanding of Downturn LGD modelling&lt;/li>
+&lt;/ul>
+&lt;h2 id="prerequisites">Prerequisites&lt;/h2>
+&lt;p>Participants are advised to come equipped with aasic understanding of:&lt;/p>
+&lt;ul>
+&lt;li>the calculation of capital requirements&lt;/li>
+&lt;li>relevant regulation for A-IRB&lt;/li>
+&lt;li>modelling the LGD and EAD/CCF risk parameters.&lt;/li>
+&lt;/ul>
+&lt;h2 id="format">Format&lt;/h2>
+&lt;p>The course will be taught through a combination of&lt;/p>
+&lt;ul>
+&lt;li>lectures (online and offline)&lt;/li>
+&lt;li>ongoing, interactive quizzes&lt;/li>
+&lt;li>break-out sessions with challenging case studies and interactive workshops&lt;/li>
+&lt;/ul>
+&lt;h2 id="date-and-duration">Date and duration&lt;/h2>
+&lt;p>This course will take place over the course of 3 days in February, 2021.&lt;/p></description></item><item><title>IRB Deep-dive</title><link>/courses/irb-advanced/</link><pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate><guid>/courses/irb-advanced/</guid><description>&lt;h2 id="learning-goals">Learning Goals&lt;/h2>
+&lt;p>ALorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
+&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
+&lt;h2 id="target-audience">Target Audience&lt;/h2>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
+&lt;h2 id="prerequisites">Prerequisites&lt;/h2>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
+&lt;h2 id="format">Format&lt;/h2>
+&lt;p>The course will be taught through a combination of&lt;/p>
+&lt;ul>
+&lt;li>lectures (online and offline)&lt;/li>
+&lt;li>ongoing, interactive quizzes&lt;/li>
+&lt;li>break-out sessions with challenging case studies&lt;/li>
+&lt;/ul>
+&lt;h2 id="date-and-duration">Date and duration&lt;/h2>
+&lt;p>This course will take place over the course of 3 days in January, 2021.&lt;/p>
+&lt;a href="/#contact" target="_blank" class="btn btn-primary">
+&lt;i class="fa fa-download">&lt;/i>
+Apply Now
+&lt;/a></description></item><item><title>Low-default portfolios</title><link>/courses/low-default-portfolios/</link><pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate><guid>/courses/low-default-portfolios/</guid><description>
+&lt;a href="/#contact" target="_blank" class="btn btn-primary">
+&lt;i class="fa fa-download">&lt;/i>
+Apply Now
+&lt;/a>
+&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>Applying internal ratings based approaches for low-default portfolios comes with a specific set of additional challenges, because of the nature of the obligors, type of lending activities, complexity of recovery processes and credit risk cyclicality.&lt;/p>
+&lt;p>Typical challenges, which will be discussed during the course, are&lt;/p>
+&lt;ul>
+&lt;li>estimating PDs, cyclicality adjustments and MoC values where the number and rate of defaults is low or zero&lt;/li>
+&lt;li>dealing with material sources of uncertainty and the estimation of a margin of conservatism&lt;/li>
+&lt;li>demonstrating compliance where both in the rating assignment process and model design and estimation there is a dominating reliance on expert judgement&lt;/li>
+&lt;li>identification of an economic downturn for globally distributed portfolios or exposures across industry sectors&lt;/li>
+&lt;/ul>
+&lt;p>The term &lt;em>low-default portfolio&lt;/em> typically denotes credit exposures to large corporates, financial institutions and sovereigns, but these issues can be relevant for other types of exposures as well, for example&lt;/p>
+&lt;ul>
+&lt;li>specialized lending and project finance&lt;/li>
+&lt;li>low-risk niche lending activities&lt;/li>
+&lt;li>smaller portfolios&lt;/li>
+&lt;/ul>
+&lt;p>The exact course contents are adapted based on a survey under participants 4-6 weeks before start of the course.&lt;/p>
+&lt;h2 id="learning-goals">Learning Goals&lt;/h2>
+&lt;p>After completing the course, participants will&lt;/p>
+&lt;ul>
+&lt;li>be familiar with the specific challenges in modelling and validating minimum capital requirements for &lt;strong>low-default portfolio&lt;/strong> rating systems&lt;/li>
+&lt;li>know the specific &lt;strong>regulatory requirements&lt;/strong> relevant for these rating systems, in particular for expert-based models, shadow rating models and models covering global portfolios&lt;/li>
+&lt;li>be able to identify and challenge &lt;strong>key decisions&lt;/strong> in the IRB modelling process for these portfolios&lt;/li>
+&lt;li>understand the &lt;strong>view of the regulator and supervisory expectations&lt;/strong>&lt;/li>
+&lt;li>have a broad view of the impact of &lt;strong>new regulation&lt;/strong> and Basel IV on these portfolios&lt;/li>
+&lt;li>grasp the concepts of and requirements for &lt;strong>specific modelling techniques&lt;/strong> (for example, use of external data, Bayesian inference, Pluto-Tasche) and know how to apply and challenge these&lt;/li>
+&lt;/ul>
+&lt;h2 id="target-audience">Target Audience&lt;/h2>
+&lt;p>The course is intended for&lt;/p>
+&lt;ul>
+&lt;li>IRB model developers and team leads with a specific interest in low-default portfolio IRB models&lt;/li>
+&lt;li>Model validators and team leads with similar interests&lt;/li>
+&lt;li>Supervisors and policy advisors wishing to gain insight in the challenges of applying regulation for LDP&lt;/li>
+&lt;li>Credit risk managers wishing to enhance their understanding of IRB modelling for LDP&lt;/li>
+&lt;/ul>
+&lt;h2 id="prerequisites">Prerequisites&lt;/h2>
+&lt;p>Participants are advised to come equipped with a broad understanding of credit risk modelling and IRB regulation.&lt;/p>
+&lt;h2 id="format">Format&lt;/h2>
+&lt;p>The course will be taught through a combination of&lt;/p>
+&lt;ul>
+&lt;li>lectures (online and offline)&lt;/li>
+&lt;li>ongoing, interactive quizzes&lt;/li>
+&lt;li>break-out sessions with challenging case studies&lt;/li>
+&lt;/ul>
+&lt;h2 id="date-and-duration">Date and duration&lt;/h2>
+&lt;p>This course will take place over the course of 3 days in February, 2021.&lt;/p></description></item><item><title>Understand IRB regulation</title><link>/courses/irb-basic/</link><pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate><guid>/courses/irb-basic/</guid><description>&lt;h2 id="learning-goals">Learning Goals&lt;/h2>
+&lt;p>ALorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
+&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
+&lt;h2 id="target-audience">Target Audience&lt;/h2>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
+&lt;h2 id="prerequisites">Prerequisites&lt;/h2>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
+&lt;h2 id="format">Format&lt;/h2>
+&lt;p>The course will be taught through a combination of&lt;/p>
+&lt;ul>
+&lt;li>lectures (online and offline)&lt;/li>
+&lt;li>ongoing, interactive quizzes&lt;/li>
+&lt;li>break-out sessions with challenging case studies&lt;/li>
+&lt;/ul>
+&lt;h2 id="date-and-duration">Date and duration&lt;/h2>
+&lt;p>This course will take place over the course of 3 days in January, 2021.&lt;/p>
+&lt;a href="/#contact" target="_blank" class="btn btn-primary">
+&lt;i class="fa fa-download">&lt;/i>
+Apply Now
+&lt;/a></description></item></channel></rss>
