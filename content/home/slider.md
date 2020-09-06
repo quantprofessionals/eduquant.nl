@@ -35,7 +35,7 @@ height = "500px"
   cta_icon = "book"
 
 [[item]]
-  title = "Tailored Options"
+  title = "Tailored Courses"
   content = "Focus on what matters to you now, with specialised course modules and customised workshops."
   align = "center"  # Choose `center`, `left`, or `right`.
 
@@ -48,13 +48,13 @@ height = "500px"
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_url = "#contact"
-  cta_label = "Contact Us"
+  cta_url = "slides/pitchdeck"
+  cta_label = "Learn More"
   cta_icon_pack = "fas"
-  cta_icon = "mailbox"
+  cta_icon = "search"
 
 [[item]]
-  title = "Reg/tech Actuality Workshop"
+  title = "Custom Regtech Workshops"
   content = "Get up-to-date with the latest developments in banking regulation and risk modelling."
   align = "center"  # Choose `center`, `left`, or `right`.
 

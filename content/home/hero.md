@@ -17,21 +17,21 @@ hero_media = "hero_logo.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#666A86"
+  # color = "#8c9eff"
   
   # Background gradient.
   # gradient_start = "#666A86"
   # gradient_end = "transparent"
   
   # Background image.
-  image = "books.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  # ssssimage_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  image = "tools.jpg"  # Name of image in `static/img/`.
+  image_darken = 0.8  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = false
+  text_color_light = true
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.

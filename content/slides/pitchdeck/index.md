@@ -7,173 +7,98 @@ categories: []
 date: "2019-02-05T00:00:00Z"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
-  theme: black
+  theme: moon
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
 ---
 
-# Create slides in Markdown with Academic
+{{< slide background-color="DarkSlateGray" >}}
 
-[Academic](https://sourcethemes.com/academic/) | [Documentation](https://sourcethemes.com/academic/docs/managing-content/#create-slides)
+# eduquant
 
----
-
-## Features
-
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
+## specialist training 
+### by 
+## experts
 
 ---
 
-## Controls
+## eduquant 
 
-- Next: `Right Arrow` or `Space`
-- Previous: `Left Arrow`
-- Start: `Home`
-- Finish: `End`
-- Overview: `Esc`
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
-- [PDF Export](https://github.com/hakimel/reveal.js#pdf-export): `E`
+### brings risk quants 
+### to the 
+## **next level** of **expertise**
 
 ---
 
-## Code Highlighting
+{{< slide background-color="#005466" >}}
 
-Inline code: `variable`
+## eduquant
 
-Code block:
-```python
-porridge = "blueberry"
-if porridge == "blueberry":
-    print("Eating...")
-```
+  > **recognize** what **matters** 
 
----
+Teach quants to separate details from essence
 
-## Math
+  > Learn **effective** productivity
 
-In-line math: $x + y = z$
-
-Block math:
-
-$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$
+Integrate theory with practice
 
 ---
 
-## Fragments
+##### Unique Strengths
 
-Make content appear incrementally
+### Our trainers
+ 
+> Former senior supervisor specialists
+  
+  * TRIM HoMs & Basel/EBA policy advisor
+  * Deep knowledge of regulation and guidance
+  * Familiar with supervisory expectations
 
-```
-{{%/* fragment */%}} One {{%/* /fragment */%}}
-{{%/* fragment */%}} **Two** {{%/* /fragment */%}}
-{{%/* fragment */%}} Three {{%/* /fragment */%}}
-```
-
-Press `Space` to play!
-
-{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-
----
-
-A fragment can accept two optional parameters:
-
-- `class`: use a custom style (requires definition in custom CSS)
-- `weight`: sets the order in which a fragment appears
+> Experienced consultants & teachers
+ 
+ * Quant PhDs with broad technical backgrounds
+ * Teaching at universities, supervisors, banks
 
 ---
 
-## Speaker Notes
+{{< slide background-color="DarkSlateGray" >}}
 
-Add speaker notes to your presentation
 
-```markdown
-{{%/* speaker_note */%}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{%/* /speaker_note */%}}
-```
+##### Unique Strengths
 
-Press the `S` key to view the speaker notes!
+### Proven teaching methods
 
-{{< speaker_note >}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{< /speaker_note >}}
+> Active mastery
+  + Problem-driven learning
+  + Relevant & realistic case studies
+  + Ongoing testing & feedback
+
+> Spaced Repitition
+  + Stimulate recall beyond course duration
+  + Integrate knowledge across sessions  
 
 ---
 
-## Themes
+##### Unique Strengths
 
-- black: Black background, white text, blue links (default)
-- white: White background, black text, blue links
-- league: Gray background, white text, blue links
-- beige: Beige background, dark text, brown links
-- sky: Blue background, thin dark text, blue links
+### Our Curriculum
 
----
+> Specialized Modules
+ 
+ + Tailored for developers, validators & auditors
+ + Master advanced topics
+ + Focus on immediate needs
 
-- night: Black background, thick white text, orange links
-- serif: Cappuccino background, gray text, brown links
-- simple: White background, black text, blue links
-- solarized: Cream-colored background, dark green text, blue links
+> Workshops
 
----
-
-{{< slide background-image="/media/boards.jpg" >}}
-
-## Custom Slide
-
-Customize the slide style and background
-
-```markdown
-{{</* slide background-image="/media/boards.jpg" */>}}
-{{</* slide background-color="#0000FF" */>}}
-{{</* slide class="my-style" */>}}
-```
+ + Stay up-to-date with recent developments
+ + Get customised learning experiences
 
 ---
 
-## Custom CSS Example
-
-Let's make headers navy colored.
-
-Create `assets/css/reveal_custom.css` with:
-
-```css
-.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-```
-
----
-
-# Questions?
-
-[Ask](https://spectrum.chat/academic)
-
-[Documentation](https://sourcethemes.com/academic/docs/managing-content/#create-slides)
+{{< slide background-image="/media/frankfurt.jpg" >}}
 
 
----
-
-<section data-noprocess data-auto-animate>
-  <h1 style="margin-top: 100px;">Auto</h1>
-  <h1 style="opacity: 0;">Animate</h1>
-</section>
-
-<section data-noprocess data-auto-animate>
-  <h1>Auto</h1>
-  <h1>Animate</h1>
-</section>
+# Come learn with us
+## eduquant
