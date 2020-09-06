@@ -1,6 +1,5 @@
 ---
 # Display name
-name: Taoying Farenhorst-Yuan
 title: Taoying Farenhorst-Yuan, PhD
 user_groups: Manager
 

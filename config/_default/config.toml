@@ -19,8 +19,6 @@ copyright = "&copy; {year} Pieter van den Berg"
 ## Advanced options below ##
 ############################
 
-# Name of Academic theme folder in `themes/`.
-theme = "academic"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
@@ -65,9 +63,41 @@ pygmentsUseClasses = true
   quality = 90
   anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
 
-# Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular across Academic.
-[permalinks]
-  authors = "/author/:slug/"
-  tags = "/tag/:slug/"
-  categories = "/category/:slug/"
-  publication_types = "/publication-type/:slug/"
+
+# Taxonomies.
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
+  author = "authors"
+
+# Related content.
+[related]
+  threshold = 80.0
+  includeNewer = true
+  toLower = true
+
+  [[related.indices]]
+    name = "title"
+    weight = 60.0
+
+  [[related.indices]]
+    name = "summary"
+    weight = 50.0
+
+  [[related.indices]]
+    name = "tags"
+    weight = 80.0
+
+  [[related.indices]]
+    name = "categories"
+    weight = 70.0
+
+  [[related.indices]]
+    name = "authors"
+    weight = 20.0
+
+# Install Wowchemy
+[module]
+  [[module.imports]]
+    path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy"

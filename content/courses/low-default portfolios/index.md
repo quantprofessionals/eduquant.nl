@@ -19,7 +19,7 @@ fee : "1.100"
 
 {{% button href= "/#contact" icon="fa fa-download" %}}Apply Now{{% /button %}}
 
-## Summary
+## Content
 
 Applying internal ratings based approaches for low-default portfolios comes with a specific set of additional challenges, because of the nature of the obligors, type of lending activities, complexity of recovery processes and credit risk cyclicality. 
 

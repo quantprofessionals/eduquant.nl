@@ -19,7 +19,7 @@ fee : "1.899"
 
 {{% button href= "/#contact" icon="fa fa-download" %}}Apply Now{{% /button %}}
 
-## Summary
+## Content
 
 Model validation, the independent and effective challenge of risk model development, is a cornerstone of model risk control at larger and more mature financial institutions.
 

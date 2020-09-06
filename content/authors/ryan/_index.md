@@ -1,6 +1,5 @@
 ---
 # Display name
-name: Ryan van Lamoen
 title: Ryan van Lamoen, PhD
 
 

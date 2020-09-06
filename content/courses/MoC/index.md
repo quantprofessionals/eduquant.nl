@@ -20,7 +20,7 @@ fee : "1.599"
 
 {{% button href= "/#contact" icon="fa fa-download" %}}Apply Now{{% /button %}}
 
-## Summary
+## Content
 
 The Basel concept of a Margin of Conservatism, implemented and further refined in the EBA Guidelines to PD and LGD estimation, manifest the fundamental idea that model risk *is* credit risk, and should be capitalized for accordingly. The European Capital Requirements Regulation prescribes that institutions should add to its risk parameters estimates a Margin of Conservatism (MoC) which reflects uncertainties in the estimated risk parameters. These uncertainties should be calculated based on a comprehensive process to identify and quantify deficiencies in risk parameter estimation. Biases should be addressed by so-called appropriate adjustments and the MoC should also reflect the uncertainties on these adjustments.
 

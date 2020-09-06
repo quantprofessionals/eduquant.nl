@@ -20,7 +20,7 @@ fee : "1.599"
 
 {{% button href= "/#contact" icon="fa fa-download" %}}Apply Now{{% /button %}}
 
-## Summary
+## Content
 
 History has witnessed severe economic crises with an impact on financial institutions worldwide. Examples are the Asian Financial Crisis, Dot.com bubble, Global Financial Crisis, Sovereign Debt Crisis and the COVID-19 pandemic. The European Capital requirements regulation (CRR) requires financial institutions that adopt the Advanced Internal Ratings Based Approach (A-IRB) models to use Loss Given Default (LGD) estimates that are appropriate for an economic downturn if those are more conservative than the long-run average LGD. A similar requirement is imposed by the regulation for Credit Conversion Factors. 
 

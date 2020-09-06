@@ -3,7 +3,7 @@
 &lt;i class="fa fa-download">&lt;/i>
 Apply Now
 &lt;/a>
-&lt;h2 id="summary">Summary&lt;/h2>
+&lt;h2 id="content">Content&lt;/h2>
 &lt;p>Model validation, the independent and effective challenge of risk model development, is a cornerstone of model risk control at larger and more mature financial institutions.&lt;/p>
 &lt;p>The model validator must learn to question the credit risk model parameters, audit the decision making process and understand the trade-offs of the resulting model design choices. They need to understand the broader context of their inquiries and translate these into a sound advice to executive management. In addition, they need to understand regulation and internal policies, and the expectations of supervisors.&lt;/p>
 &lt;p>In this course, participants learn how to validate credit risk models in the context of the CRR and underlying regulatory technical standards and guidelines, as well as supervisory expectations. Statistical foundations of model validation will be explained in combination with practical guidance for applying these. Attention will also be given to validating documentation and more technical aspects of verifying the correctness and reproducibility results. The knowledge will be acquired through several real-life case studies and exercises.&lt;/p>
@@ -38,7 +38,7 @@ Apply Now
 &lt;i class="fa fa-download">&lt;/i>
 Apply Now
 &lt;/a>
-&lt;h2 id="summary">Summary&lt;/h2>
+&lt;h2 id="content">Content&lt;/h2>
 &lt;p>History has witnessed severe economic crises with an impact on financial institutions worldwide. Examples are the Asian Financial Crisis, Dot.com bubble, Global Financial Crisis, Sovereign Debt Crisis and the COVID-19 pandemic. The European Capital requirements regulation (CRR) requires financial institutions that adopt the Advanced Internal Ratings Based Approach (A-IRB) models to use Loss Given Default (LGD) estimates that are appropriate for an economic downturn if those are more conservative than the long-run average LGD. A similar requirement is imposed by the regulation for Credit Conversion Factors.&lt;/p>
 &lt;p>This deep-dive course provides context of regulatory requirements for identifying economic downturn periods and of those for estimating the downturn LGD and CCF risk parameters. Key challenges met by model developers when applying the regulatory requirements concerning economic downturn are treated in detail, for example&lt;/p>
 &lt;ul>
@@ -114,7 +114,7 @@ Apply Now
 &lt;i class="fa fa-download">&lt;/i>
 Apply Now
 &lt;/a>
-&lt;h2 id="summary">Summary&lt;/h2>
+&lt;h2 id="content">Content&lt;/h2>
 &lt;p>Applying internal ratings based approaches for low-default portfolios comes with a specific set of additional challenges, because of the nature of the obligors, type of lending activities, complexity of recovery processes and credit risk cyclicality.&lt;/p>
 &lt;p>Typical challenges, which will be discussed during the course, are&lt;/p>
 &lt;ul>
@@ -163,7 +163,7 @@ Apply Now
 &lt;i class="fa fa-download">&lt;/i>
 Apply Now
 &lt;/a>
-&lt;h2 id="summary">Summary&lt;/h2>
+&lt;h2 id="content">Content&lt;/h2>
 &lt;p>The Basel concept of a Margin of Conservatism, implemented and further refined in the EBA Guidelines to PD and LGD estimation, manifest the fundamental idea that model risk &lt;em>is&lt;/em> credit risk, and should be capitalized for accordingly. The European Capital Requirements Regulation prescribes that institutions should add to its risk parameters estimates a Margin of Conservatism (MoC) which reflects uncertainties in the estimated risk parameters. These uncertainties should be calculated based on a comprehensive process to identify and quantify deficiencies in risk parameter estimation. Biases should be addressed by so-called appropriate adjustments and the MoC should also reflect the uncertainties on these adjustments.&lt;/p>
 &lt;p>While perhaps conceptually straightforward, the implementation of these regulatory requirements and guidelines is seen as one of the more challenging aspects of implementing IRB. Firstly, because of the complex nature of the requirements and underlying concepts, and secondly, because of the practical difficulties in connecting the theoretical basis and regulation to the practical reality of risk model development and validation.&lt;/p>
 &lt;p>This advanced course brings to model developers and model validators a thorough understanding of the statistical and conceptual basis of Margin of Conservatism and the applicable regulation, as well as the mental machinery to help bring these into practice. Through challenging hands-on case studies, interactive lectures and stimulating discourse, participants will gain experience with, among others, the following topics&lt;/p>
