@@ -1,9 +1,9 @@
 ---
 title: Downturn LGD & CCF
-summary: Understand and apply regulatory requirements for the identification of an economic downturn and estimating downturn LGD and CCF values.
+summary: Become familiar with regulatory requirements for identifying an economic downturn and estimating downturn LGD & CCF values.
 tags:
 - Advanced
-Category: IRB
+- IRB
 date: "2020-09-04T00:00:00Z"
 toc: true
 
@@ -94,9 +94,9 @@ Participants are advised to come equipped with aasic understanding of:
 
 The course will be taught through a combination of 
 
+ * challenging case studies and interactive workshops
  * lectures (online and offline)
  * ongoing, interactive quizzes
- * break-out sessions with challenging case studies and interactive workshops
  
 ## Date and duration
 

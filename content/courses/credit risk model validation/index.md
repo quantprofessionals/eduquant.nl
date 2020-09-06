@@ -1,9 +1,9 @@
 ---
 title: Credit Risk Model Validation
-summary: Independent and effective challenge of internal models, role and regulatory requirements.
+summary: Learn how to independently and effectively challenge internal models.
 tags:
 - Basic
-Category: IRB
+- IRB
 date: "2020-09-04T00:00:00Z"
 toc: true
 
@@ -21,8 +21,11 @@ fee : "1.899"
 
 ## Summary
 
-Model validation, the independent and effective challenge of risk model development, is a cornerstone of model risk control at larger and more mature financial institutions. The model validator must learn to question the credit risk model parameters, audit the decision making process and understand the trade-offs of the resulting model design choices. They need to understand the broader context of their inquiries and translate these into a sound advice to executive management. In addition, they need to understand regulation and internal policies, and the expectations of supervisors.
-In this course, students learn how to validate credit risk models in the context of Basel III, the CRR with underlying regulatory technical standards and guidelines, as well as supervisory expectations. In this course, participants will study statistical foundations of model validation in combination with practical guidance for applying these, as well as more technical aspects of verifying the correctness and reproducibility results. The knowledge will be applied in several real-life case studies and exercises.
+Model validation, the independent and effective challenge of risk model development, is a cornerstone of model risk control at larger and more mature financial institutions.
+
+The model validator must learn to question the credit risk model parameters, audit the decision making process and understand the trade-offs of the resulting model design choices. They need to understand the broader context of their inquiries and translate these into a sound advice to executive management. In addition, they need to understand regulation and internal policies, and the expectations of supervisors.
+
+In this course, participants learn how to validate credit risk models in the context of the CRR and underlying regulatory technical standards and guidelines, as well as supervisory expectations. Statistical foundations of model validation will be explained in combination with practical guidance for applying these. Attention will also be given to validating documentation and more technical aspects of verifying the correctness and reproducibility results. The knowledge will be acquired through several real-life case studies and exercises.
 
 The exact course contents are adapted based on a survey under participants 4-6 weeks before start of the course.
 
@@ -57,8 +60,5 @@ The course will be taught through a combination of
  
 ## Date and duration
 
-This course will take place over the course of 3 days in February, 2021. 
-
-## Course Outline
-
+This course will take place over the course of 4 days in February, 2021. 
 

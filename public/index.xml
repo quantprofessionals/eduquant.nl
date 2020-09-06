@@ -17,8 +17,9 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 Apply Now
 &lt;/a>
 &lt;h2 id="summary">Summary&lt;/h2>
-&lt;p>Model validation, the independent and effective challenge of risk model development, is a cornerstone of model risk control at larger and more mature financial institutions. The model validator must learn to question the credit risk model parameters, audit the decision making process and understand the trade-offs of the resulting model design choices. They need to understand the broader context of their inquiries and translate these into a sound advice to executive management. In addition, they need to understand regulation and internal policies, and the expectations of supervisors.
-In this course, students learn how to validate credit risk models in the context of Basel III, the CRR with underlying regulatory technical standards and guidelines, as well as supervisory expectations. In this course, participants will study statistical foundations of model validation in combination with practical guidance for applying these, as well as more technical aspects of verifying the correctness and reproducibility results. The knowledge will be applied in several real-life case studies and exercises.&lt;/p>
+&lt;p>Model validation, the independent and effective challenge of risk model development, is a cornerstone of model risk control at larger and more mature financial institutions.&lt;/p>
+&lt;p>The model validator must learn to question the credit risk model parameters, audit the decision making process and understand the trade-offs of the resulting model design choices. They need to understand the broader context of their inquiries and translate these into a sound advice to executive management. In addition, they need to understand regulation and internal policies, and the expectations of supervisors.&lt;/p>
+&lt;p>In this course, participants learn how to validate credit risk models in the context of the CRR and underlying regulatory technical standards and guidelines, as well as supervisory expectations. Statistical foundations of model validation will be explained in combination with practical guidance for applying these. Attention will also be given to validating documentation and more technical aspects of verifying the correctness and reproducibility results. The knowledge will be acquired through several real-life case studies and exercises.&lt;/p>
 &lt;p>The exact course contents are adapted based on a survey under participants 4-6 weeks before start of the course.&lt;/p>
 &lt;h2 id="learning-goals">Learning Goals&lt;/h2>
 &lt;p>After completing the course, participants will&lt;/p>
@@ -45,8 +46,7 @@ In this course, students learn how to validate credit risk models in the context
 &lt;li>break-out sessions with challenging case studies and hands-on workshops&lt;/li>
 &lt;/ul>
 &lt;h2 id="date-and-duration">Date and duration&lt;/h2>
-&lt;p>This course will take place over the course of 3 days in February, 2021.&lt;/p>
-&lt;h2 id="course-outline">Course Outline&lt;/h2></description></item><item><title>Downturn LGD &amp; CCF</title><link>/courses/downturn-lgd/</link><pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate><guid>/courses/downturn-lgd/</guid><description>
+&lt;p>This course will take place over the course of 4 days in February, 2021.&lt;/p></description></item><item><title>Downturn LGD &amp; CCF</title><link>/courses/downturn-lgd/</link><pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate><guid>/courses/downturn-lgd/</guid><description>
 &lt;a href="/#contact" target="_blank" class="btn btn-primary">
 &lt;i class="fa fa-download">&lt;/i>
 Apply Now
@@ -117,32 +117,12 @@ Apply Now
 &lt;h2 id="format">Format&lt;/h2>
 &lt;p>The course will be taught through a combination of&lt;/p>
 &lt;ul>
+&lt;li>challenging case studies and interactive workshops&lt;/li>
 &lt;li>lectures (online and offline)&lt;/li>
 &lt;li>ongoing, interactive quizzes&lt;/li>
-&lt;li>break-out sessions with challenging case studies and interactive workshops&lt;/li>
 &lt;/ul>
 &lt;h2 id="date-and-duration">Date and duration&lt;/h2>
-&lt;p>This course will take place over the course of 3 days in February, 2021.&lt;/p></description></item><item><title>IRB Deep-dive</title><link>/courses/irb-advanced/</link><pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate><guid>/courses/irb-advanced/</guid><description>&lt;h2 id="learning-goals">Learning Goals&lt;/h2>
-&lt;p>ALorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
-&lt;h2 id="summary">Summary&lt;/h2>
-&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
-&lt;h2 id="target-audience">Target Audience&lt;/h2>
-&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
-&lt;h2 id="prerequisites">Prerequisites&lt;/h2>
-&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
-&lt;h2 id="format">Format&lt;/h2>
-&lt;p>The course will be taught through a combination of&lt;/p>
-&lt;ul>
-&lt;li>lectures (online and offline)&lt;/li>
-&lt;li>ongoing, interactive quizzes&lt;/li>
-&lt;li>break-out sessions with challenging case studies&lt;/li>
-&lt;/ul>
-&lt;h2 id="date-and-duration">Date and duration&lt;/h2>
-&lt;p>This course will take place over the course of 3 days in January, 2021.&lt;/p>
-&lt;a href="/#contact" target="_blank" class="btn btn-primary">
-&lt;i class="fa fa-download">&lt;/i>
-Apply Now
-&lt;/a></description></item><item><title>Low-default portfolios</title><link>/courses/low-default-portfolios/</link><pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate><guid>/courses/low-default-portfolios/</guid><description>
+&lt;p>This course will take place over the course of 3 days in February, 2021.&lt;/p></description></item><item><title>Low-default portfolios</title><link>/courses/low-default-portfolios/</link><pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate><guid>/courses/low-default-portfolios/</guid><description>
 &lt;a href="/#contact" target="_blank" class="btn btn-primary">
 &lt;i class="fa fa-download">&lt;/i>
 Apply Now
@@ -186,32 +166,67 @@ Apply Now
 &lt;h2 id="format">Format&lt;/h2>
 &lt;p>The course will be taught through a combination of&lt;/p>
 &lt;ul>
+&lt;li>challenging case studies and interactive workshops&lt;/li>
 &lt;li>lectures (online and offline)&lt;/li>
 &lt;li>ongoing, interactive quizzes&lt;/li>
-&lt;li>break-out sessions with challenging case studies&lt;/li>
 &lt;/ul>
 &lt;h2 id="date-and-duration">Date and duration&lt;/h2>
-&lt;p>This course will take place over the course of 3 days in February, 2021.&lt;/p></description></item><item><title>Understand IRB regulation</title><link>/courses/irb-basic/</link><pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate><guid>/courses/irb-basic/</guid><description>&lt;h2 id="learning-goals">Learning Goals&lt;/h2>
-&lt;p>ALorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
-&lt;h2 id="summary">Summary&lt;/h2>
-&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
-&lt;h2 id="target-audience">Target Audience&lt;/h2>
-&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
-&lt;h2 id="prerequisites">Prerequisites&lt;/h2>
-&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
-&lt;h2 id="format">Format&lt;/h2>
-&lt;p>The course will be taught through a combination of&lt;/p>
-&lt;ul>
-&lt;li>lectures (online and offline)&lt;/li>
-&lt;li>ongoing, interactive quizzes&lt;/li>
-&lt;li>break-out sessions with challenging case studies&lt;/li>
-&lt;/ul>
-&lt;h2 id="date-and-duration">Date and duration&lt;/h2>
-&lt;p>This course will take place over the course of 3 days in January, 2021.&lt;/p>
+&lt;p>This course will take place over the course of 3 days in February, 2021.&lt;/p></description></item><item><title>Margin of Conservatism</title><link>/courses/moc/</link><pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate><guid>/courses/moc/</guid><description>
 &lt;a href="/#contact" target="_blank" class="btn btn-primary">
 &lt;i class="fa fa-download">&lt;/i>
 Apply Now
-&lt;/a></description></item><item><title>Slides</title><link>/slides/pitchdeck/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>/slides/pitchdeck/</guid><description>&lt;h1 id="create-slides-in-markdown-with-academic">Create slides in Markdown with Academic&lt;/h1>
+&lt;/a>
+&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>The Basel concept of a Margin of Conservatism, implemented and further refined in the EBA Guidelines to PD and LGD estimation, manifest the fundamental idea that model risk &lt;em>is&lt;/em> credit risk, and should be capitalized for accordingly. The European Capital Requirements Regulation prescribes that institutions should add to its risk parameters estimates a Margin of Conservatism (MoC) which reflects uncertainties in the estimated risk parameters. These uncertainties should be calculated based on a comprehensive process to identify and quantify deficiencies in risk parameter estimation. Biases should be addressed by so-called appropriate adjustments and the MoC should also reflect the uncertainties on these adjustments.&lt;/p>
+&lt;p>While perhaps conceptually straightforward, the implementation of these regulatory requirements and guidelines is seen as one of the more challenging aspects of implementing IRB. Firstly, because of the complex nature of the requirements and underlying concepts, and secondly, because of the practical difficulties in connecting the theoretical basis and regulation to the practical reality of risk model development and validation.&lt;/p>
+&lt;p>This advanced course brings to model developers and model validators a thorough understanding of the statistical and conceptual basis of Margin of Conservatism and the applicable regulation, as well as the mental machinery to help bring these into practice. Through challenging hands-on case studies, interactive lectures and stimulating discourse, participants will gain experience with, among others, the following topics&lt;/p>
+&lt;ul>
+&lt;li>Integration of a conceptual and statistical basis of the Margin of Conservatism with regulatory terminology and supervisory expectations&lt;/li>
+&lt;li>Setup, verification and challenge of a process for the identication, quantification and validation of model deficiencies and uncertainties&lt;/li>
+&lt;li>Expected key elements of a Margin of Conservatism framework&lt;/li>
+&lt;li>Approaches for deriving appropriate adjustments and MoC factors for typical sources of bias and uncertainty, such as
+&lt;ul>
+&lt;li>a lack of data quality, completeness or representativeness&lt;/li>
+&lt;li>limitations to the method of quantification of risk parameters&lt;/li>
+&lt;li>changes to default- and loss definitions, underwriting standards, collection and recovery policies, or business environments&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Understanding the general estimation error&lt;/li>
+&lt;li>Aggregation of the Margin of Conservatism to the risk parameter level, including Downturn LGD&lt;/li>
+&lt;li>Requirements for the use of human judgment&lt;/li>
+&lt;/ul>
+&lt;p>The exact course contents are adapted based on a survey under participants 4-6 weeks before start of the course.&lt;/p>
+&lt;h2 id="learning-goals">Learning Goals&lt;/h2>
+&lt;p>After completing the course, the participants will be able to&lt;/p>
+&lt;ul>
+&lt;li>Quantify the Margin of Conservatism for typical sources of bias and uncertainty in credit risk modelling&lt;/li>
+&lt;li>Challenge and verify the completeness, correctness and compliance of a MoC derivation&lt;/li>
+&lt;li>Set up a process and recognize key decisions for the identification of deficiencies and uncertainties in the data and methodology&lt;/li>
+&lt;li>Understand trade-offs between different approaches in terms of complexity, explainability, and conservatism&lt;/li>
+&lt;/ul>
+&lt;h2 id="target-audience">Target Audience&lt;/h2>
+&lt;p>The course is intended for:&lt;/p>
+&lt;ul>
+&lt;li>IRB model developers and team leads with a specific interest in determining appropriate adjustments and a Margin of Conservatism for the PD, LGD and EAD/CCF risk parameters.&lt;/li>
+&lt;li>Model validators, Auditors and team leads with similar interests.&lt;/li>
+&lt;li>Supervisors and policy advisors wishing to gain insight in the challenges of regulation with regard to the Margin of Conservatism.&lt;/li>
+&lt;li>Model Owners and Credit Risk Controllers wishing to enhance their understanding of the Margin of Conservatism&lt;/li>
+&lt;/ul>
+&lt;h2 id="prerequisites">Prerequisites&lt;/h2>
+&lt;p>Participants are advised to come equipped with a basic understanding of:&lt;/p>
+&lt;ul>
+&lt;li>the calculation of minimum capital requirements&lt;/li>
+&lt;li>modelling the PD, LGD and EAD/CCF risk parameters.&lt;/li>
+&lt;/ul>
+&lt;h2 id="format">Format&lt;/h2>
+&lt;p>The course will be taught through a combination of&lt;/p>
+&lt;ul>
+&lt;li>challenging case studies and interactive workshops&lt;/li>
+&lt;li>lectures (online and offline)&lt;/li>
+&lt;li>ongoing, interactive quizzes&lt;/li>
+&lt;/ul>
+&lt;h2 id="date-and-duration">Date and duration&lt;/h2>
+&lt;p>This course will take place over the course of 3 days in February, 2021.&lt;/p></description></item><item><title>Slides</title><link>/slides/pitchdeck/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>/slides/pitchdeck/</guid><description>&lt;h1 id="create-slides-in-markdown-with-academic">Create slides in Markdown with Academic&lt;/h1>
 &lt;p>
 &lt;a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic&lt;/a> |
 &lt;a href="https://sourcethemes.com/academic/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>

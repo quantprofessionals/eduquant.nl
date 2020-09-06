@@ -31,7 +31,11 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "Advanced"
-    tag = "Advanced"  
+    tag = "Advanced"
+
+  [[content.filter_button]]
+    name = "IRB"
+    tag = "IRB"    
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

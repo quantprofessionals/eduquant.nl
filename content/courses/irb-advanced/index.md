@@ -1,9 +1,10 @@
 ---
 title: IRB Deep-dive
+draft: true
 summary: In-depth treatment of regulatory technical standards and guidelines
 tags:
 - Advanced
-Category: IRB
+- IRB
 date: "2020-09-04T00:00:00Z"
 toc: true
 

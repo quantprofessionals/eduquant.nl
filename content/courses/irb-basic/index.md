@@ -1,9 +1,10 @@
 ---
 title: Understand IRB regulation
+draft: true
 summary: Gain a solid basis and overview of IRB regulation and supervisory guidance.
 tags:
 - Basic
-Category: IRB
+- IRB
 date: "2020-09-04T00:00:00Z"
 toc: true
 image:

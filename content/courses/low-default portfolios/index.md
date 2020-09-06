@@ -1,9 +1,9 @@
 ---
 title: Low-default portfolios
-summary: Understand the specific challenges of low-default portfolios under IRB.
+summary: Deal with specific challenges and regulatory requirements for low-default portfolios under IRB.
 tags:
 - Advanced
-Category: IRB
+- IRB
 date: "2020-09-04T00:00:00Z"
 toc: true
 
@@ -12,9 +12,9 @@ image:
   focal_point: "Smart"
   preview_only: false
 
-duration : "3 days"
+duration : "1½ days"
 weekly : "03 hours"
-fee : "1.499"
+fee : "1.100"
 ---
 
 {{% button href= "/#contact" icon="fa fa-download" %}}Apply Now{{% /button %}}
@@ -66,9 +66,9 @@ Participants are advised to come equipped with a broad understanding of credit r
 
 The course will be taught through a combination of 
 
+ * challenging case studies and interactive workshops
  * lectures (online and offline)
  * ongoing, interactive quizzes
- * break-out sessions with challenging case studies
  
 ## Date and duration
 
