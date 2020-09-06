@@ -13,7 +13,7 @@ collections:
     fields:  # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Summary", name: "summary", widget: "string", required: true}
-      - {label: "Body", name: "body", summaryget: "markdown", required: true}
+      - {label: "Body", name: "body", widget: "markdown", required: true}
       - {label: "Publish this page on", name: "date", widget: "datetime"}
       - label: "Draft"
         name: "draft"
