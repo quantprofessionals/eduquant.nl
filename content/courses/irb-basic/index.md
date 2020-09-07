@@ -11,7 +11,7 @@ image:
   caption: ""
   focal_point: "Smart"
   preview_only: false
-duration : "3 days"
+duration : "1½ days"
 weekly : "03 hours"
 fee : "1.599"
 ---
