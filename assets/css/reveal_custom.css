@@ -9,6 +9,11 @@
    font: inherit;
  } */
 
+ .reveal h1,
+ .reveal h2,
+ .reveal h3,
+ .reveal h4,
+ .reveal h5,
  .reveal h6 {
     margin: 0 0 20px 0;
     color: #eee8d5;
@@ -17,19 +22,25 @@
     line-height: 1.2;
     letter-spacing: normal;
     text-transform: uppercase;
-    text-shadow: none;
+    text-shadow: rgb(3, 3, 3);
     word-wrap: break-word; }
 
-
+.reveal {
+    font-family: "Lato", sans-serif;
+    font-size: 40px;
+    font-weight: normal;
+    color: #93a1a1; }
 
 .reveal ul {
-    list-style-type: square; }
+    list-style-type: square;
+    font-size: 30px;}
     .reveal ul ul,
     .reveal ul ol,
     .reveal ol ol,
     .reveal ol ul {
       display: block;
-      font-size: 30px;
+      font-size: 20px;
+      font-weight: normal;
     }
 
 .reveal blockquote {

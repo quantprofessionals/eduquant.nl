@@ -22,28 +22,7 @@ slides:
 ## experts
 
 ---
-
-## eduquant 
-
-### brings risk quants 
-### to the 
-## **next level** of **expertise**
-
----
-
 {{< slide background-color="#005466" >}}
-
-## eduquant
-
-  > **recognize** what **matters** 
-
-Teach quants to separate details from essence
-
-  > Learn **effective** productivity
-
-Integrate theory with practice
-
----
 
 ##### Unique Strengths
 
@@ -75,7 +54,7 @@ Integrate theory with practice
   + Ongoing testing & feedback
 
 > Focused Instruction    
-  + Fully Engaged Teaching
+  + Fully Engaged Online Teaching
   + Spaced Repetition and Reinforcement
   + Integration across topics
 
@@ -89,14 +68,23 @@ Integrate theory with practice
  
  + Tailored for developers, validators & auditors
  + Master advanced topics
- + Focus on immediate needs
 
 > Workshops
 
- + Stay up-to-date with recent developments
- + Get customised learning experiences
+ + Customised learning experiences
+ + Market trends & hot topics
 
 ---
+
+## eduquant 
+
+### brings risk quants 
+### to the 
+## **next level** of **expertise**
+
+---
+
+
 
 {{< slide background-image="/media/frankfurt.jpg" >}}
 
