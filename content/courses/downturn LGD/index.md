@@ -1,13 +1,13 @@
 ---
 weekly: 03 hours
-draft: true
+draft: false
 fee: "1.599"
 summary: Become familiar with regulatory requirements for identifying an
   economic downturn and estimating downturn LGD & CCF values.
 toc: true
 title: Downturn LGD & CCF
 date: 2020-09-04T00:00:00Z
-featured: true
+featured: false
 duration: 1½ days
 tags:
   - Advanced
