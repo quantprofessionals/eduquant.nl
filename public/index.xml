@@ -11,7 +11,30 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using
 &lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further talk details can easily be added to this page using &lt;em>Markdown&lt;/em> and $\rm \LaTeX$ math code.&lt;/p></description></item><item><title>Credit Risk Model Validation</title><link>/courses/credit-risk-model-validation/</link><pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate><guid>/courses/credit-risk-model-validation/</guid><description>
+&lt;p>Further talk details can easily be added to this page using &lt;em>Markdown&lt;/em> and $\rm \LaTeX$ math code.&lt;/p></description></item><item><title>Credit Risk Model Development</title><link>/courses/credit-risk-model-development/</link><pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate><guid>/courses/credit-risk-model-development/</guid><description>
+&lt;a href="/#contact" target="_blank" class="btn btn-primary">
+&lt;i class="fa fa-download">&lt;/i>
+Apply Now
+&lt;/a>
+&lt;h2 id="content">Content&lt;/h2>
+&lt;h2 id="learning-goals">Learning Goals&lt;/h2>
+&lt;h2 id="target-audience">Target Audience&lt;/h2>
+&lt;p>The course is intended for&lt;/p>
+&lt;ul>
+&lt;li>IRB model developers with little or no prior experience in the field&lt;/li>
+&lt;li>Specialist supervisors wishing to gain insight in internal model developer&lt;/li>
+&lt;/ul>
+&lt;h2 id="prerequisites">Prerequisites&lt;/h2>
+&lt;p>Prior basic knowledge of statistical testing and modeling is strongly advised. Some experience in programming with &lt;code>python&lt;/code> or a statistcal computing language may be helpful for the case studies, but is not required.&lt;/p>
+&lt;h2 id="format">Format&lt;/h2>
+&lt;p>The course will be taught through a combination of&lt;/p>
+&lt;ul>
+&lt;li>lectures (online and offline)&lt;/li>
+&lt;li>ongoing, interactive quizzes&lt;/li>
+&lt;li>break-out sessions with challenging case studies and hands-on workshops&lt;/li>
+&lt;/ul>
+&lt;h2 id="date-and-duration">Date and duration&lt;/h2>
+&lt;p>This course will take place over the course of 4 days in February, 2021.&lt;/p></description></item><item><title>Credit Risk Model Validation</title><link>/courses/credit-risk-model-validation/</link><pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate><guid>/courses/credit-risk-model-validation/</guid><description>
 &lt;a href="/#contact" target="_blank" class="btn btn-primary">
 &lt;i class="fa fa-download">&lt;/i>
 Apply Now
