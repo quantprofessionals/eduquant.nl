@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 height = "200px"
-title = "Learn from us"
+title = "Specialist Training by Experts"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "hero_logo.png"
@@ -51,8 +51,6 @@ hero_media = "hero_logo.png"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-## Risk Quant education
 
-Specialist courses on regulation, risk model development and validation.  
-
+Bring risk quants to the next level of expertise
 

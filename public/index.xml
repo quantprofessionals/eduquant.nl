@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>eduquant</title><link>/</link><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><description>eduquant</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Pieter van den Berg</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>/media/logo.png</url><title>eduquant</title><link>/</link></image><item><title>Example Talk</title><link>/talk/example/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>/talk/example/</guid><description>&lt;div class="alert alert-note">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>eduquant</title><link>/</link><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><description>eduquant</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Quant Professionals B.V.</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>/media/logo.png</url><title>eduquant</title><link>/</link></image><item><title>Example Talk</title><link>/talk/example/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>/talk/example/</guid><description>&lt;div class="alert alert-note">
 &lt;div>
 Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
 &lt;/div>
@@ -75,7 +75,7 @@ Apply Now
 Apply Now
 &lt;/a>
 &lt;h2 id="content">Content&lt;/h2>
-&lt;p>History has witnessed severe economic crises with an impact on financial institutions worldwide. Examples are the Asian Financial Crisis, Dot.com bubble, Global Financial Crisis, Sovereign Debt Crisis and the COVID-19 pandemic. The European Capital requirements regulation (CRR) requires financial institutions that adopt the Advanced Internal Ratings Based Approach (A-IRB) models to use Loss Given Default (LGD) estimates that are appropriate for an economic downturn if those are more conservative than the long-run average LGD. A similar requirement is imposed by the regulation for Credit Conversion Factors.&lt;/p>
+&lt;p>History has witnessed severe economic crises with an impact on financial institutions worldwide. Examples are the Asian Financial Crisis, Dot.com bubble, Global Financial Crisis, Sovereign Debt Crisis and the COVID-19 pandemic. The European Capital Requirements Regulation (CRR) requires financial institutions that adopt the Advanced Internal Ratings Based Approach (A-IRB) models to use Loss Given Default (LGD) estimates that are appropriate for an economic downturn if those are more conservative than the long-run average LGD. A similar requirement is imposed by the regulation for Credit Conversion Factors.&lt;/p>
 &lt;p>This deep-dive course provides context of regulatory requirements for identifying economic downturn periods and of those for estimating the downturn LGD and CCF risk parameters. Key challenges met by model developers when applying the regulatory requirements concerning economic downturn are treated in detail, for example&lt;/p>
 &lt;ul>
 &lt;li>When are economic indicators deemed relevant for identifying an economic downturn?&lt;/li>
@@ -99,20 +99,35 @@ Apply Now
 &lt;/ul>
 &lt;p>Furthermore, participants will be able to quantify Downturn LGD by gaining knowledge on the following topics:&lt;/p>
 &lt;ul>
-&lt;li>Three main Downturn quantification approaches:
+&lt;li>
+&lt;p>Three main Downturn quantification approaches:&lt;/p>
 &lt;ul>
 &lt;li>Type 1 - Observed impact approach&lt;/li>
 &lt;li>Type 2 - Extrapolation/haircut approach&lt;/li>
 &lt;li>Type 3 - Flexible approach with minimum add-ons&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>Treatment of incomplete recovery cases in Downturn estimates&lt;/li>
-&lt;li>Accounting for LGD estimates that are unduly sensitive to the economic cycle&lt;/li>
-&lt;li>Backtesting Downturn estimates&lt;/li>
-&lt;li>Regulatory challenger model&lt;/li>
-&lt;li>Choosing a final relevant Downturn period&lt;/li>
-&lt;li>When to use Downturn LGD estimates in the calculation of capital requirements&lt;/li>
-&lt;li>Pitfalls in the downturn LGD quantification&lt;/li>
+&lt;li>
+&lt;p>Treatment of incomplete recovery cases in Downturn estimates&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Accounting for LGD estimates that are unduly sensitive to the economic cycle&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Backtesting Downturn estimates&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Regulatory challenger model&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Choosing a final relevant Downturn period&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>When to use Downturn LGD estimates in the calculation of capital requirements&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pitfalls in the downturn LGD quantification&lt;/p>
+&lt;/li>
 &lt;/ul>
 &lt;p>Participants will also gain knowledge of the following topics:&lt;/p>
 &lt;ul>
@@ -279,7 +294,7 @@ data-background-color="#005466"
 &lt;h5 id="unique-strengths">Unique Strengths&lt;/h5>
 &lt;h3 id="our-trainers">Our trainers&lt;/h3>
 &lt;blockquote>
-&lt;p>Former senior supervisor specialists&lt;/p>
+&lt;p>Former Senior Supervisor Specialists&lt;/p>
 &lt;/blockquote>
 &lt;ul>
 &lt;li>TRIM HoMs &amp;amp; Basel/EBA policy advisor&lt;/li>
@@ -287,7 +302,7 @@ data-background-color="#005466"
 &lt;li>Familiar with supervisory expectations&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Experienced consultants &amp;amp; teachers&lt;/p>
+&lt;p>Experienced Consultants &amp;amp; Teachers&lt;/p>
 &lt;/blockquote>
 &lt;ul>
 &lt;li>Quant PhDs with broad technical backgrounds&lt;/li>
@@ -298,9 +313,9 @@ data-background-color="#005466"
 data-background-color="DarkSlateGray"
 >
 &lt;h5 id="unique-strengths-1">Unique Strengths&lt;/h5>
-&lt;h3 id="proven-teaching-methods">Proven teaching methods&lt;/h3>
+&lt;h3 id="our-teaching-methods">our teaching methods&lt;/h3>
 &lt;blockquote>
-&lt;p>Active mastery&lt;/p>
+&lt;p>Active Mastery&lt;/p>
 &lt;/blockquote>
 &lt;ul>
 &lt;li>Problem-driven learning&lt;/li>
@@ -308,11 +323,12 @@ data-background-color="DarkSlateGray"
 &lt;li>Ongoing testing &amp;amp; feedback&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Spaced Repitition&lt;/p>
+&lt;p>Focused Instruction&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>Stimulate recall beyond course duration&lt;/li>
-&lt;li>Integrate knowledge across sessions&lt;/li>
+&lt;li>Fully Engaged Teaching&lt;/li>
+&lt;li>Spaced Repetition and Reinforcement&lt;/li>
+&lt;li>Integration across topics&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h5 id="unique-strengths-2">Unique Strengths&lt;/h5>

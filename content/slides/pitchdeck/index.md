@@ -49,13 +49,13 @@ Integrate theory with practice
 
 ### Our trainers
  
-> Former senior supervisor specialists
+> Former Senior Supervisor Specialists
   
   * TRIM HoMs & Basel/EBA policy advisor
   * Deep knowledge of regulation and guidance
   * Familiar with supervisory expectations
 
-> Experienced consultants & teachers
+> Experienced Consultants & Teachers
  
  * Quant PhDs with broad technical backgrounds
  * Teaching at universities, supervisors, banks
@@ -67,16 +67,17 @@ Integrate theory with practice
 
 ##### Unique Strengths
 
-### Proven teaching methods
+### our teaching methods
 
-> Active mastery
+> Active Mastery
   + Problem-driven learning
   + Relevant & realistic case studies
   + Ongoing testing & feedback
 
-> Spaced Repitition
-  + Stimulate recall beyond course duration
-  + Integrate knowledge across sessions  
+> Focused Instruction    
+  + Fully Engaged Teaching
+  + Spaced Repetition and Reinforcement
+  + Integration across topics
 
 ---
 

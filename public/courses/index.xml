@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Courses | eduquant</title><link>/courses/</link><atom:link href="/courses/index.xml" rel="self" type="application/rss+xml"/><description>Courses</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Pieter van den Berg</copyright><lastBuildDate>Fri, 04 Sep 2020 00:00:00 +0000</lastBuildDate><image><url>/media/logo.png</url><title>Courses</title><link>/courses/</link></image><item><title>Credit Risk Model Development</title><link>/courses/credit-risk-model-development/</link><pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate><guid>/courses/credit-risk-model-development/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Courses | eduquant</title><link>/courses/</link><atom:link href="/courses/index.xml" rel="self" type="application/rss+xml"/><description>Courses</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Quant Professionals B.V.</copyright><lastBuildDate>Fri, 04 Sep 2020 00:00:00 +0000</lastBuildDate><image><url>/media/logo.png</url><title>Courses</title><link>/courses/</link></image><item><title>Credit Risk Model Development</title><link>/courses/credit-risk-model-development/</link><pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate><guid>/courses/credit-risk-model-development/</guid><description>
 &lt;a href="/#contact" target="_blank" class="btn btn-primary">
 &lt;i class="fa fa-download">&lt;/i>
 Apply Now
@@ -62,7 +62,7 @@ Apply Now
 Apply Now
 &lt;/a>
 &lt;h2 id="content">Content&lt;/h2>
-&lt;p>History has witnessed severe economic crises with an impact on financial institutions worldwide. Examples are the Asian Financial Crisis, Dot.com bubble, Global Financial Crisis, Sovereign Debt Crisis and the COVID-19 pandemic. The European Capital requirements regulation (CRR) requires financial institutions that adopt the Advanced Internal Ratings Based Approach (A-IRB) models to use Loss Given Default (LGD) estimates that are appropriate for an economic downturn if those are more conservative than the long-run average LGD. A similar requirement is imposed by the regulation for Credit Conversion Factors.&lt;/p>
+&lt;p>History has witnessed severe economic crises with an impact on financial institutions worldwide. Examples are the Asian Financial Crisis, Dot.com bubble, Global Financial Crisis, Sovereign Debt Crisis and the COVID-19 pandemic. The European Capital Requirements Regulation (CRR) requires financial institutions that adopt the Advanced Internal Ratings Based Approach (A-IRB) models to use Loss Given Default (LGD) estimates that are appropriate for an economic downturn if those are more conservative than the long-run average LGD. A similar requirement is imposed by the regulation for Credit Conversion Factors.&lt;/p>
 &lt;p>This deep-dive course provides context of regulatory requirements for identifying economic downturn periods and of those for estimating the downturn LGD and CCF risk parameters. Key challenges met by model developers when applying the regulatory requirements concerning economic downturn are treated in detail, for example&lt;/p>
 &lt;ul>
 &lt;li>When are economic indicators deemed relevant for identifying an economic downturn?&lt;/li>
@@ -86,20 +86,35 @@ Apply Now
 &lt;/ul>
 &lt;p>Furthermore, participants will be able to quantify Downturn LGD by gaining knowledge on the following topics:&lt;/p>
 &lt;ul>
-&lt;li>Three main Downturn quantification approaches:
+&lt;li>
+&lt;p>Three main Downturn quantification approaches:&lt;/p>
 &lt;ul>
 &lt;li>Type 1 - Observed impact approach&lt;/li>
 &lt;li>Type 2 - Extrapolation/haircut approach&lt;/li>
 &lt;li>Type 3 - Flexible approach with minimum add-ons&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>Treatment of incomplete recovery cases in Downturn estimates&lt;/li>
-&lt;li>Accounting for LGD estimates that are unduly sensitive to the economic cycle&lt;/li>
-&lt;li>Backtesting Downturn estimates&lt;/li>
-&lt;li>Regulatory challenger model&lt;/li>
-&lt;li>Choosing a final relevant Downturn period&lt;/li>
-&lt;li>When to use Downturn LGD estimates in the calculation of capital requirements&lt;/li>
-&lt;li>Pitfalls in the downturn LGD quantification&lt;/li>
+&lt;li>
+&lt;p>Treatment of incomplete recovery cases in Downturn estimates&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Accounting for LGD estimates that are unduly sensitive to the economic cycle&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Backtesting Downturn estimates&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Regulatory challenger model&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Choosing a final relevant Downturn period&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>When to use Downturn LGD estimates in the calculation of capital requirements&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pitfalls in the downturn LGD quantification&lt;/p>
+&lt;/li>
 &lt;/ul>
 &lt;p>Participants will also gain knowledge of the following topics:&lt;/p>
 &lt;ul>
