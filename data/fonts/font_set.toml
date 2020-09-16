@@ -5,10 +5,10 @@
 name = "font_set"
 
 # Optional Google font URL
-google_fonts = ""
+google_fonts = "family=Raleway&family=Alice&family=Hind+Madurai"
 
 # Font families
-heading_font = ""
-body_font = ""
-nav_font = ""
-mono_font = ""
+heading_font = "Raleway"
+body_font = "Hind Madurai"
+nav_font = "Hind Madurai"
+mono_font = "Roboto Mono"

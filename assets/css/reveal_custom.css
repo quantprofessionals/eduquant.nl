@@ -8,7 +8,12 @@
    color: #fff;
    font: inherit;
  } */
-
+ body {
+  background-image: url(../images/logo.svg);
+  background-size: 20%;
+  background-repeat: no-repeat;
+  background-position: 3% 96%;
+}
  .reveal h1,
  .reveal h2,
  .reveal h3,

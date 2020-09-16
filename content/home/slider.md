@@ -36,7 +36,7 @@ height = "500px"
 
 [[item]]
   title = "Tailored Courses"
-  content = "Focus on what matters to you now, with specialised course modules and customised workshops."
+  content = "Focus on what matters to you now, with specialised advanced course modules."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -54,8 +54,8 @@ height = "500px"
   cta_icon = "search"
 
 [[item]]
-  title = "Custom Regtech Workshops"
-  content = "Get up-to-date with the latest developments in banking regulation and risk modelling."
+  title = "Custom Workshops"
+  content = "Fully customized workshops on a topic of your interest."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).

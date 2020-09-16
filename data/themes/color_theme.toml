@@ -5,14 +5,14 @@ name = "color_theme"
 light = true
 
 # Primary
-primary = "SlateGray"
+primary = "#083A67"
 
 # Menu
-menu_primary = "DarkSlateGray" # 500
-menu_text = "#fff"
-menu_text_active = "#8c9eff" # A100
-menu_title = "#fff"
+menu_primary = "#040e17" # 500
+menu_text = "#F5F5E5"
+menu_text_active = "#5A8BA2" # A100
+menu_title = "#F5F5E5"
 
 # Home sections
-home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(247, 247, 247)"
+home_section_odd = "#5A8BA2"
+home_section_even = "#040E17"
