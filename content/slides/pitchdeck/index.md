@@ -13,7 +13,7 @@ slides:
   highlight_style: dracula
 ---
 
-{{< slide background-color="DarkSlateGray" >}}
+{{< slide background-color="Calypso" >}}
 
 # eduquant
 
@@ -41,7 +41,7 @@ slides:
 
 ---
 
-{{< slide background-color="DarkSlateGray" >}}
+{{< slide background-color="Horizon" >}}
 
 
 ##### Unique Strengths
@@ -60,6 +60,9 @@ slides:
 
 ---
 
+{{< slide background-color="Turmeric" >}}
+
+
 ##### Unique Strengths
 
 ### Our Curriculum
@@ -76,6 +79,9 @@ slides:
 
 ---
 
+{{< slide background-color="Shark" >}}
+
+
 ## eduquant 
 
 ### brings risk quants 
@@ -85,9 +91,9 @@ slides:
 ---
 
 
+{{< slide background-image="/media/logo_transparent.svg" >}}
 
 {{< slide background-image="/media/frankfurt.jpg" >}}
 
 
 # Come learn with us
-## eduquant

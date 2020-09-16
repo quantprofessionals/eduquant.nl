@@ -8,7 +8,7 @@ height = "200px"
 title = "Specialist Training by Experts"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "hero_logo.png"
+# hero_media = "logo_transparent.svg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -24,7 +24,7 @@ hero_media = "hero_logo.png"
   # gradient_end = "transparent"
   
   # Background image.
-  image = "tools.jpg"  # Name of image in `static/img/`.
+  image = "frankfurt.jpg"  # Name of image in `static/img/`.
   image_darken = 0.8  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -51,6 +51,6 @@ hero_media = "hero_logo.png"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
+# 
 
 Bring risk quants to the next level of expertise
-
