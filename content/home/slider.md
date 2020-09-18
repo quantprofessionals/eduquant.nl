@@ -35,14 +35,14 @@ height = "500px"
   cta_icon = "book"
 
 [[item]]
-  title = "Tailored Courses"
-  content = "Focus on what matters to you now, with specialised advanced course modules."
+  title = "Proven learning strategies."
+  content = "Active learning and spaced repetition, with a focus on acquiring problem-solving strategies for relevant and realistic case studies."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "tailor.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "kick.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
