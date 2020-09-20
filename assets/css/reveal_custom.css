@@ -8,12 +8,7 @@
    color: #fff;
    font: inherit;
  } */
- body {
-  background-image: url(../images/logo.svg);
-  background-size: 20%;
-  background-repeat: no-repeat;
-  background-position: 3% 96%;
-}
+
  .reveal h1,
  .reveal h2,
  .reveal h3,
@@ -22,7 +17,7 @@
  .reveal h6 {
     margin: 0 0 20px 0;
     color: #eee8d5;
-    font-family: "League Gothic", Impact, sans-serif;
+    font-family: "Raleway", Impact, sans-serif;
     font-weight: normal;
     line-height: 1.2;
     letter-spacing: normal;
@@ -31,21 +26,22 @@
     word-wrap: break-word; }
 
 .reveal {
-    font-family: "Lato", sans-serif;
-    font-size: 40px;
+    font-family: "Hind Madurai", sans-serif;
+    font-size: 30px;
     font-weight: normal;
     color: #93a1a1; }
 
 .reveal ul {
     list-style-type: square;
-    font-size: 30px;}
-    .reveal ul ul,
-    .reveal ul ol,
-    .reveal ol ol,
-    .reveal ol ul {
+    font-family: "Hind Madurai", sans-serif;
+    font-size: 25px;}
+.reveal ul ul,
+.reveal ul ol,
+.reveal ol ol,
+.reveal ol ul {
       display: block;
       font-size: 20px;
-      font-weight: normal;
+      font-weight: lighter;
     }
 
 .reveal blockquote {
@@ -59,3 +55,5 @@
     background: rgba(255, 255, 255, 0.05);
     box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2); 
 }
+
+.reveal section img { background:none; border:none; box-shadow:none; }
