@@ -17,7 +17,7 @@ height = "500px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "# Expert Training"
-  content = "Let our specialists train your experts. Our founding team of of senior risk consultants, former specialist supervisor / policy advisor quant PhDs have a combined set of 30 years experience to get risk quants to the next level of expertise."
+  content = "Our founding team of of senior risk consultants, former specialist supervisor / policy advisor quant PhDs have a combined set of 30 years experience. We get risk quants to the next level of expertise."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -36,7 +36,7 @@ height = "500px"
 
 [[item]]
   title = "# Active learning strategies"
-  content = "Our courses focus on active learning methods to acquire problem-solving skills. Research shows that actively engaging, problem-driven teaching is far more effective than lectures or self-paced learning. Students work on realistic and relevant case studies, based on our extensive experience in the sector."
+  content = "We use active teaching methods for transferring problem-solving skills. Research shows that actively engaged, problem-driven learning is far more effective than lectures or self-paced learning. Students work on realistic and relevant case studies, which we base on our extensive experience in the sector."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -55,7 +55,7 @@ height = "500px"
 
 [[item]]
   title = "# Custom Workshops"
-  content = "Get your team kick-started on a special topic with fully customized, interactive workshops. We organize study material, prepare case studies and challenge experts to dig deeper and reach further."
+  content = "Get your team kick-started on a specific topic with fully customized, interactive workshops. We organize study material, prepare case studies and challenge experts to dig deeper and reach farther."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
