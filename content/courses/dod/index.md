@@ -1,6 +1,6 @@
 ---
-title: Low-default portfolios
-summary: Deal with specific challenges and regulatory requirements for low-default portfolios under IRB.
+title: Definition of Default
+summary: Deal with specific challenges for IRB following the introduction of new regulation on the definition of default
 tags:
 - Advanced
 - IRB
@@ -14,53 +14,56 @@ image:
 
 duration : "1½ days"
 weekly: "04 hours"
-fee : "1.100"
+fee : "1.599"
 ---
 
 {{% button href= "/#contact" icon="fa fa-download" %}}Apply Now{{% /button %}}
 
 ## Content
 
-Applying internal ratings based approaches for low-default portfolios comes with a specific set of additional challenges, because of the nature of the obligors, type of lending activities, complexity of recovery processes and credit risk cyclicality. 
+The definition of default (DoD) is a fulcrum of the Basel framework for credit risk and the Capital Requirements Regulation. Differences in application, regulation and regulatory practice of default criteria were pointed to as major sources of RWA variability during the redesign of the Basel framework. Following the financial crisis, the European Banking Authority (EBA) has established tighter standards around the definition of default (CRR Article 178) to achieve greater alignment across banks and jurisdictions. The two-phase introduction of the new regulation for banks supervised by the ECB has lead to major changes in risk classification at banks and of the management of distressed assets. 
 
-Typical challenges, which will be discussed during the course, are
+Banks that have carried out a quantitative impact analysis have found that the new DoD can materially impact the number, timing, duration and even outcome of defaults. Where the impact is material, risk management and valuation processes need to be updated, including accounting (IFRS9) and capital requirement modeling (IRB and ICAAP).
 
- * estimating PDs, cyclicality adjustments and MoC values where the number and rate of defaults is low or zero 
- * dealing with material sources of uncertainty and the estimation of a margin of conservatism
- * demonstrating compliance where both in the rating assignment process and model design and estimation there is a dominating reliance on expert judgement
- * identification of an economic downturn for globally distributed portfolios or exposures across industry sectors
+This deep-dive course provides context of changes to regulatory requirements for the definition of default, the challenges during the implementation of the definition of default, for example:
 
-The term *low-default portfolio* typically denotes credit exposures to large corporates, financial institutions and sovereigns, but these issues can be relevant for other types of exposures as well, for example
+ * Determining the number of days past due for default identification
+ * Indications of unlikeness to pay
+ * Conditions for return to non-defaulted status
+ * the application of the DoD in external data
+ * the update of the internal policies and risk management processes
 
- * specialized lending and project finance
- * low-risk niche lending activities
- * smaller portfolios 
+Moreover, this course will cover the topics of 
 
-The exact course contents are adapted based on a survey under participants 4-6 weeks before start of the course.
+ * evidencing the correct implementation of the DoD
+ * monitoring the effectiveness of the new policy
+ * recalibration of the IRB risk parameters by applying appropriate adjustment of historical data and appropriate quantification of MoC.
 
 ## Learning Goals
 <!-- learning goals should describe problem solving strategies -->
-After completing the course, participants will
+In this course you will gain knowledge of the following topics:
 
-  * be familiar with typical approaches for dealing with the specific challenges in modelling and validating minimum capital requirements for **low-default portfolio** rating systems
-  * know how to find, understand and substantiate compliance with the specific **regulatory requirements** relevant for these rating systems, in particular for expert-based models, shadow rating models and models covering global portfolios
-  * be able to identify and challenge **key decisions** in the IRB modelling process for these portfolios
-  * understand the **view of the regulator and supervisory expectations**
-  * have a broad view of the impact of **new regulation** and Basel IV on these portfolios
-  * grasp the concepts of and requirements for **specific modelling techniques** (for example, use of external data, Bayesian inference,  Pluto-Tasche) and know how to apply and challenge these 
+ * the classification of exposures to defaulted and performing
+ * the context and impact of recent developments of regulation regarding the definition of default and non-performing exposures
+ * details of the requirements regarding the new definition of default in the new regulation
+ * an overview of the changes to policies, systems, models and processes triggered by the change in regulation 
+ * main challenges banks face in implementing these changes and their impact
+ * typical data modelling and data quality issues concerning DoD changes faced by banks
+ * approaches for calculating appropriate adjustments of historical data in order to reflect the new DoD
+ * main drivers of uncertainty related to DoD changes and the associated margin of conservatism
 
 ## Target Audience
 
-The course is intended for 
+The course is intended for
 
-* IRB model developers and team leads with a specific interest in low-default portfolio IRB models
-* Model validators and team leads with similar interests
-* Supervisors and policy advisors wishing to gain insight in the challenges of applying regulation for LDP
-* Credit risk managers wishing to enhance their understanding of IRB modelling for LDP
+ * IRB model developers and validators
+ * Auditors 
+ * Specialist supervisors and JST members
+ * Credit risk managers
 
 ### Prerequisites
 
-Participants are advised to come equipped with a broad understanding of credit risk modelling and IRB regulation.
+Participants are advised to come equipped with a broad understanding of credit risk, Basel and capital requirements regulation.
 
 ## Format
 <!-- this is generic -->
