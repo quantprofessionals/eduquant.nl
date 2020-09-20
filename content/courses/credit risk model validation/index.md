@@ -48,7 +48,7 @@ The course is intended for
 
 ### Prerequisites
 
-Prior basic knowledge of statistical testing and modeling is strongly advised. Some experience in programming with `python` or a statistcal computing language may be helpful for the case studies, but is not required.
+Prior basic knowledge of statistical testing and modeling is strongly advised. Some experience in programming with `python` or a statistical computing language may be helpful for the case studies, but is not required.
 
 
 ## Format

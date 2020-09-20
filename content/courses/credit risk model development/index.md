@@ -13,17 +13,28 @@ image:
   preview_only: false
 
 duration : "4 days"
-weekly: "04 hours"
-fee : "1.899"
+weekly : "04 hours"
+fee : "2.399"
 ---
 
 {{% button href= "/#contact" icon="fa fa-download" %}}Apply Now{{% /button %}}
 
 ## Content
 
+In 2004 the Basel Committee on Banking Supervision (BCBS) finalised a new framework for capital adequacy regulation based on three pillars. This framework was further revised in 2013 as is now known as “Basel III”, and formed the basis for the capital adequacy legislation of the European Union, called “The Capital Requirement Directive IV” or “CRD IV” which was implemented in January 2014 . This Directive is mandatory for all European banks and investment firms. Banks are required to hold sufficient capital to protect them against Unexpected Loss (UL). In the Basel III framework the amount of capital that a specific bank should hold is calculated on the basis of risk weighted assets formulas. Derivation of these risk-weighted assets is dependent on the estimates of the following risk components: Probability of Default (PD), Loss Given Default (LGD) and Exposure at Default (EAD) and  * in some cases  * Effective Maturity (EM).
+
+This course covers all material topics in the end-to-end model development process: from clarifying model requirements, to submitting to model validation/regulators; from the basic to more advanced modeling approaches; testing and validation of risk parameter models (PD, LGD and EAD).
 
 ## Learning Goals
 
+After this course, you will be able to
+
+ * Know how to read the relevant regulation for credit risk models
+ * Develop probability of default (PD), loss given default (LGD), and exposure at default (EAD) models
+ * Appropriate quantify a margin of conservatism
+ * Effectively interact with model validation, internal audit and supervisors
+ * Keep an audit trail during the modelling process
+ * Validate, backtest, and benchmark credit risk models
 
 ## Target Audience
 
@@ -34,26 +45,34 @@ The course is intended for
 
 ### Prerequisites
 
-Prior basic knowledge of statistical testing and modeling is strongly advised. Some experience in programming with `python` or a statistcal computing language may be helpful for the case studies, but is not required.
+
+Participants are advised to come equipped with basic understanding of:
+
+ * (Credit) risk management
+ * Statistics and probability theory
+
+Some experience in programming with `python` or a similar statistical computing language is recommended for the case studies. 
 
 
 ## Format
-<!-- this is generic -->
+<!- * this is generic -->
 The material will be taught through *active learning* and *spaced repetition* with a focus on acquiring *problem-solving strategies* for *relevant* and *realistic* case studies.
 
 
 ### Active learning
-<!-- this is generic -->
+<!- * this is generic -->
 Extensive research [^1]<sup>, </sup>[^2]<sup>, </sup>[^3]<sup>, </sup>[^4]<sup>, </sup>[^5]<sup>, </sup>[^6] has shown that active, problem-driven learning strategies stimulate active engagement and are more effective than passive strategies. At eduquant, course participants actively participate in solving problems and working out mini-projects right from the start, after the first 10 minutes of introduction. Background material and theory is presented only afterwards, as part of the discussion and treatment of the solutions and outcomes of the problems. This ensures that students have an active interest in, and an immediate context for, the theoretical material being presented.  
 
 ### Spaced repetition
-<!-- this is generic -->
+<!- * this is generic -->
 Another core element of the eduquant teaching strategy is the use of spaced sessions with retrieval practice, which has been shown [^7]<sup>, </sup>[^8] to consistently benefit long-term retention. The material is treated over the course of several sessions, rather than in a consecutive full-day schedule. After the first session, participants will be challenged to retrieve material treated in earlier sessions. 
 
 
 ### Realistic case studies
-<!-- this is generic -->
+<!- * this is generic -->
 At eduquant we believe specialist professionals are best helped by acquiring problem solving strategies for problems they are likely to encounter in their professional practice, rather than theoretical knowledge. Based on [our extensive experience]({{< ref "/#about" >}} "About us") as risk modellers, consultants, supervisors and researchers, we develop case studies that are highly relevant, close to the type of problems participants are likely to encounter in their profession, at any level of mastery. The outcome of the cases studies are discussed in a plenary session with additional context and theoretical background.
+
+
 
 [^1]: R. R. Hake, Interactive-engagement vs. traditional methods: A six-thousand-student survey of mechanics test data for introductory physics courses. Am. J. Phys. 66, 64–74 (1998).
 [^2]: C. H. Crouch, E. Mazur, Peer instruction: Ten years of experience and results. Am. J. Phys. 69, 970–977 (2001).
@@ -66,7 +85,7 @@ At eduquant we believe specialist professionals are best helped by acquiring pro
 [^8]: Agarwal, P. K., Nunes, L., & Blunt, J. (2019, October 29). Retrieval Practice Consistently Benefits Student Learning: A Systematic Review of Applied Research in Schools and Classrooms. 
 
 #### Example case studies
-<!-- this subsection is course-specific -->
+<!- * this subsection is course-specific -->
 For this course, examples of case studies are 
 
  * Present and challenge arguments whether or not a proposed treatment of PD calibration is compliant with regulation
@@ -75,7 +94,7 @@ For this course, examples of case studies are
 
 ### Online and offline
 
-This course can be organised in an offline, an online, or a combined on- and offline version. 
+This course can be organised in an offline, an online, or a combined on * and offline version. 
 
 #### Offline
 
