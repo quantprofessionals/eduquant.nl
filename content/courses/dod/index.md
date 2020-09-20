@@ -1,8 +1,8 @@
 ---
-title: Credit Risk Model Validation
-summary: Learn how to independently and effectively challenge internal models.
+title: Definition of Default
+summary: Deal with specific challenges for IRB following the introduction of new regulation on the definition of default
 tags:
-- Basic
+- Advanced
 - IRB
 date: "2020-09-04T00:00:00Z"
 toc: true
@@ -12,44 +12,58 @@ image:
   focal_point: "Smart"
   preview_only: false
 
-duration : "4 days"
+duration : "1½ days"
 weekly: "04 hours"
-fee : "1.899"
+fee : "1.599"
 ---
 
 {{% button href= "/#contact" icon="fa fa-download" %}}Apply Now{{% /button %}}
 
 ## Content
 
-Model validation, the independent and effective challenge of risk model development, is a cornerstone of model risk control at larger and more mature financial institutions.
+The definition of default (DoD) is a fulcrum of the Basel framework for credit risk and the Capital Requirements Regulation. Differences in application, regulation and regulatory practice of default criteria were pointed to as major sources of RWA variability during the redesign of the Basel framework. Following the financial crisis, the European Banking Authority (EBA) has established tighter standards around the definition of default (CRR Article 178) to achieve greater alignment across banks and jurisdictions. The two-phase introduction of the new regulation for banks supervised by the ECB has lead to major changes in risk classification at banks and of the management of distressed assets. 
 
-The model validator must learn to question the credit risk model parameters, audit the decision making process and understand the trade-offs of the resulting model design choices. They need to understand the broader context of their inquiries and translate these into a sound advice to executive management. In addition, they need to understand regulation and internal policies, and the expectations of supervisors.
+Banks that have carried out a quantitative impact analysis have found that the new DoD can materially impact the number, timing, duration and even outcome of defaults. Where the impact is material, risk management and valuation processes need to be updated, including accounting (IFRS9) and capital requirement modeling (IRB and ICAAP).
 
-In this course, participants learn how to validate credit risk models in the context of the CRR and underlying regulatory technical standards and guidelines, as well as supervisory expectations. Statistical foundations of model validation will be explained in combination with practical guidance for applying these. Attention will also be given to validating documentation and more technical aspects of verifying the correctness and reproducibility results. The knowledge will be acquired through several real-life case studies and exercises.
+This deep-dive course provides context of changes to regulatory requirements for the definition of default, the challenges during the implementation of the definition of default, for example:
 
-The exact course contents are adapted based on a survey under participants 4-6 weeks before start of the course.
+ * Determining the number of days past due for default identification
+ * Indications of unlikeness to pay
+ * Conditions for return to non-defaulted status
+ * the application of the DoD in external data
+ * the update of the internal policies and risk management processes
+
+Moreover, this course will cover the topics of 
+
+ * evidencing the correct implementation of the DoD
+ * monitoring the effectiveness of the new policy
+ * recalibration of the IRB risk parameters by applying appropriate adjustment of historical data and appropriate quantification of MoC.
 
 ## Learning Goals
+<!-- learning goals should describe problem solving strategies -->
+In this course you will gain knowledge of the following topics:
 
-After completing the course, participants will
-
- * be able to find, understand and interpret regulatory requirements for banks using internal models, and translate these into specific assessments   
- * know and reflect on the role and responsibilities of the model validation function within the bank
- * learn to question decision making processes and verify the reproducibility and correctness of results
- * understand and use procedures for statistical testing, benchmarking and the use of challenger models  
- * learn to use specific statistical tests to challenge key decisions in modelling probability of default (PD), loss given default (LGD), and exposure at default (EAD) models
+ * the classification of exposures to defaulted and performing
+ * the context and impact of recent developments of regulation regarding the definition of default and non-performing exposures
+ * details of the requirements regarding the new definition of default in the new regulation
+ * an overview of the changes to policies, systems, models and processes triggered by the change in regulation 
+ * main challenges banks face in implementing these changes and their impact
+ * typical data modelling and data quality issues concerning DoD changes faced by banks
+ * approaches for calculating appropriate adjustments of historical data in order to reflect the new DoD
+ * main drivers of uncertainty related to DoD changes and the associated margin of conservatism
 
 ## Target Audience
 
-The course is intended for 
+The course is intended for
 
-* IRB model validators with little or no prior experience in the field
-* Specialist supervisors wishing to gain insight in internal model validation
+ * IRB model developers and validators
+ * Auditors 
+ * Specialist supervisors and JST members
+ * Credit risk managers
 
 ### Prerequisites
 
-Prior basic knowledge of statistical testing and modeling is strongly advised. Some experience in programming with `python` or a statistcal computing language may be helpful for the case studies, but is not required.
-
+Participants are advised to come equipped with a broad understanding of credit risk, Basel and capital requirements regulation.
 
 ## Format
 <!-- this is generic -->
@@ -85,7 +99,7 @@ For this course, examples of case studies are
 
  * Present arguments whether or not a proposed treatment of PD calibration for low-default portfolios is compliant with regulation
  * Give a comprehensive list of potential deficiencies of a downturn LGD derivation based on shared documentation
- * Identify the major policy decisions underlying a compliant EAD estimation for a retail portfolio
+ * Identify the major policy decisions underlying a compliant EAD estimation for a low-default specialized lending portfolio
  * Compare and understand the impact of different treatments of LGD estimation based on prepared code samples and realistic data sets
 
 ### Online and offline
@@ -109,6 +123,6 @@ These features allow the trainers to engage with participants collectively as we
 
 ## Date and duration
 
-The course is comprised of eight morning or afternoon sessions of 4 hours each, once per week. Please [Contact us]({{< ref "/#contact" >}} "Contact Us") for details and options for the schedule.
+The course is comprised of three morning or afternoon sessions of 4 hours each, once per week. Please [Contact us]({{< ref "/#contact" >}} "Contact Us") for details and options for the schedule.
 
 
