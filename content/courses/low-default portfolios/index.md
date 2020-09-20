@@ -13,7 +13,7 @@ image:
   preview_only: false
 
 duration : "1½ days"
-weekly : "03 hours"
+weekly: "04 hours"
 fee : "1.100"
 ---
 
