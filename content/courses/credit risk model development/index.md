@@ -2,8 +2,8 @@
 title: Credit Risk Model Development
 summary: Become an effective credit risk model developer.
 tags:
- * Basic
- * IRB
+- Basic
+- IRB
 date: "2020-09-04T00:00:00Z"
 toc: true
 
