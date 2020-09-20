@@ -46,7 +46,7 @@ The course is intended for
 * IRB model validators with little or no prior experience in the field
 * Specialist supervisors wishing to gain insight in internal model validation
 
-## Prerequisites
+### Prerequisites
 
 Prior basic knowledge of statistical testing and modeling is strongly advised. Some experience in programming with `python` or a statistcal computing language may be helpful for the case studies, but is not required.
 
@@ -104,7 +104,7 @@ For online participation we leverage the [ikuvikyu](https://ikyvikyo.org)Ⓡ pla
  * multiway sharing and presenting (for sharing and presenting case study results)
  * interactive polling and surveys (for focused problem sets)
  
-These features allow the trainers to engage with participants collectively as well as in smaller groups or individually. The main presentations will be recorded and shared for a limited time with participants for later review.
+These features allow the trainers to engage with participants collectively as well as in smaller groups, or individually, for case studies. The main presentations will be recorded and shared for a limited time with participants for later review.
 
 
 ## Date and duration
