@@ -15,7 +15,8 @@ slides:
 
 {{< slide background-color="Calypso" >}}
 
-# eduquant
+{{< figure src="/images/logo.svg" >}}
+
 
 ## specialist training 
 ### by 
@@ -82,16 +83,14 @@ slides:
 {{< slide background-color="Shark" >}}
 
 
-## eduquant 
+{{< figure src="/images/logo.svg" title="" >}}
 
-### brings risk quants 
+## brings risk quants 
 ### to the 
 ## **next level** of **expertise**
 
 ---
 
-
-{{< slide background-image="/media/logo_transparent.svg" >}}
 
 {{< slide background-image="/media/frankfurt.jpg" >}}
 
