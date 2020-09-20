@@ -62,7 +62,7 @@ The course is intended for:
  * Model Owners and Credit Risk Controllers wishing to enhance their understanding of the Margin of Conservatism 
 
 
-## Prerequisites
+### Prerequisites
 
 Participants are advised to come equipped with a basic understanding of: 
 
@@ -121,7 +121,7 @@ For online participation we leverage the [ikuvikyu](https://ikyvikyo.org)Ⓡ pla
  * multiway sharing and presenting (for sharing and presenting case study results)
  * interactive polling and surveys (for focused problem sets)
  
-These features allow the trainers to engage with participants collectively as well as in smaller groups or individually. The main presentations will be recorded and shared for a limited time with participants for later review.
+These features allow the trainers to engage with participants collectively as well as in smaller groups, or individually, for case studies. The main presentations will be recorded and shared for a limited time with participants for later review.
 
 
 ## Date and duration
