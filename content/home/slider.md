@@ -36,33 +36,14 @@ height = "500px"
 
 [[item]]
   title = "# Active learning strategies"
-  content = "Our courses focus on active learning methods to acquire problem-solving skills. Research supports our experience that actively engaging, problem-driven teaching methods are far more effective than purely lecture based or self-paced passive methods. Students work on realistic and relevant case studies, based on our extensive experience in the sector."
+  content = "Our courses focus on active learning methods to acquire problem-solving skills. Research shows that actively engaging, problem-driven teaching is far more effective than lectures or self-paced learning. Students work on realistic and relevant case studies, based on our extensive experience in the sector."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "#A65D7F"  # An HTML color value.
   overlay_img = "kick.jpg"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_url = "slides/pitchdeck"
-  cta_label = "Learn More"
-  cta_icon_pack = "fas"
-  cta_icon = "search"
-
-[[item]]
-  title = "# Spaced repetition"
-  content = "Our courses are scheduled with spaced timing of sections, challenging students to retrieve information over longer periods. Research shows that spaced repetition and retrieval stimulate long-term retention and integration of studied materials. Later course sections rehash earlier material in different settings and present it in novel ways."
-  align = "center"  # Choose `center`, `left`, or `right`.
-
-  # Overlay a color or image (optional).
-  #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "kick.jpg"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.65 # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.

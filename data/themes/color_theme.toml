@@ -2,13 +2,17 @@
 name = "color_theme"
 
 # Is theme light or dark?
-light = true
+
+light = false
+
 
 # Primary
 primary = "#083A67"
 
 # Menu
 menu_primary = "#040e17" # 500
+menu_primary_dark = "#5A8BA2" # 500
+
 menu_text = "#F5F5E5"
 menu_text_active = "#5A8BA2" # A100
 menu_title = "#F5F5E5"

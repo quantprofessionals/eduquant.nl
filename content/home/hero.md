@@ -40,7 +40,7 @@ hero_media = "logo_transparent_white.svg"
   url = "#contact"
   label = "Contact Us"
   icon_pack = "fas"
-  icon = "mailbox"
+  icon = "envelope"
   
 # [cta_alt]
 #   url = "https://sourcethemes.com/academic/"
