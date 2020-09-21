@@ -12,9 +12,9 @@ image:
   focal_point: "Smart"
   preview_only: false
 
-duration : "4 days"
+duration : "8 days"
 weekly : "04 hours"
-fee : "2.399"
+
 ---
 
 {{% button href= "/#contact" icon="fa fa-download" %}}Apply Now{{% /button %}}
@@ -56,7 +56,7 @@ Some experience in programming with `python` or a similar statistical computing 
 
 ## Format
 
-The material will be taught through *active learning* and *spaced repetition* with a focus on acquiring *problem-solving strategies* for *relevant* and *realistic* case studies.
+The material will be taught through active learning and spaced repetition with a focus on acquiring problem-solving strategies for relevant and realistic case studies.
 
 
 ### Active learning
@@ -68,9 +68,9 @@ Extensive research [^1]<sup>, </sup>[^2]<sup>, </sup>[^3]<sup>, </sup>[^4]<sup>,
 Another core element of the eduquant teaching strategy is the use of spaced sessions with retrieval practice, which has been shown [^7]<sup>, </sup>[^8] to consistently benefit long-term retention. The material is treated over the course of several sessions, rather than in a consecutive full-day schedule. After the first session, participants will be challenged to retrieve material treated in earlier sessions. 
 
 
-### Realistic case studies
+### Case studies
 
-At eduquant we believe specialist professionals are best helped by acquiring problem solving strategies for problems they are likely to encounter in their professional practice, rather than theoretical knowledge. Based on [our extensive experience]({{< ref "/#about" >}} "About us") as risk modellers, consultants, supervisors and researchers, we develop case studies that are highly relevant, close to the type of problems participants are likely to encounter in their profession, at any level of mastery. The outcome of the cases studies are discussed in a plenary session with additional context and theoretical background.
+At eduquant we believe specialist professionals are best helped by acquiring problem solving strategies for problems they are likely to encounter in their professional practice, rather than theoretical knowledge. Based on [our extensive experience]({{< ref "/#about" >}} "About us") as risk modellers, consultants, supervisors and researchers, we develop case studies that are highly relevant, realistic and close to the type of problems participants are likely to encounter in their profession, at any level of mastery. The outcome of the cases studies are discussed in a plenary session with additional context and theoretical background.
 
 
 
@@ -85,7 +85,7 @@ At eduquant we believe specialist professionals are best helped by acquiring pro
 [^8]: Agarwal, P. K., Nunes, L., & Blunt, J. (2019, October 29). Retrieval Practice Consistently Benefits Student Learning: A Systematic Review of Applied Research in Schools and Classrooms. 
 
 #### Example case studies
-<!- * this subsection is course-specific -->
+
 For this course, examples of case studies are 
 
  * Present and challenge arguments whether or not a proposed treatment of PD calibration is compliant with regulation
@@ -98,11 +98,11 @@ This course can be organized in an offline, an online, or a combined on * and of
 
 #### Offline
 
-Offline sessions can be offered on-premise as well as organized off site (priced at cost). [Contact us]({{< ref "/#contact" >}} "Contact Us") to discuss options. For larger groups (7 or more), we recommend to have the option to break out in separate groups of up to 4 participants. Offline sessions will be webcast, the main presentations recorded and shared for a limited time with participants for later review.
+Offline sessions can be offered on-premise as well as organized off site (priced at cost) - [contact us]({{< ref "/#contact" >}} "Contact Us") to discuss options. For all but the smallest groups (7 or more), we recommend to have the option to break out in separate groups of up to 4 participants. Offline sessions will be webcast, the main presentations recorded and shared for a limited time with participants for later review.
 
 #### Online
 
-For online participation we leverage the [ikuvikyu](https://ikyvikyo.org)Ⓡ platform which offers, besides the usual features for webconferencing, the options to 
+For online participation we leverage the [ikuvikyu](https://ikyvikyo.org)<sub><sup>Ⓡ</sup></sub>  platform which offers, besides the usual features for webconferencing, the options to 
 
  * opening breakout sessions for participants (for collaborative case studies)
  * multiway sharing and presenting (for sharing and presenting case study results)
@@ -116,3 +116,6 @@ These features allow the trainers to engage with participants collectively as we
 The course is comprised of eight morning or afternoon sessions of 4 hours each, twice per week. Please [Contact us]({{< ref "/#contact" >}} "Contact Us") for details and options for the schedule.
 
 
+## Pricing
+
+Pricing is based on the level and duration of the course, and the number of participants per application. [See here]({{< ref "/pricing" >}} "Pricing") for additional information.
