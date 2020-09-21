@@ -48,4 +48,5 @@ The course will be taught through a combination of
 This course will take place over the course of 3 days in January, 2021.
 
 
-{{% button href= "/#contact" icon="fa fa-download" %}}Apply Now{{% /button %}}
+{{% button href= "/#contact" icon="fa fa-download" %}}{{% button href= "/#contact" icon="fa fa-hands-helping" %}}Apply now{{% /button %}}
+{{% /button %}}
