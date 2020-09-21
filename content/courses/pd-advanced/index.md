@@ -2,8 +2,7 @@
 weekly: 4 hours
 draft: false
 fee: "1.599"
-summary: A deep dive into all conceptual details and regulatory requirements for
-  the estimation of PD values.
+summary: A deep dive into all conceptual details and regulatory requirements for the estimation of PD values.
 toc: true
 title: PD
 date: 2020-09-04T00:00:00.000Z
@@ -22,9 +21,10 @@ image:
 
 ## Content
 
-The Probability of Default (PD) is one of the key risk parameters in the calculation of regulatory capital requirements. In the European Capital Requirements Regulation (CRR) PD is defined as an estimate of the long-run average of the probability of default on an exposure within a one year period. Risk modellers are faced with many challenges in their pursuit of quantifying the probability as default.
+The Probability of Default (PD) is one of the key risk parameters in the calculation of regulatory capital requirements. In the European Capital Requirements Regulation (CRR) PD is defined as an estimate of the long-run average of the probability of default on an exposure within a one year period.
 
-Sensitivity to the economic cycle is one of the factors complicating PD estimation. For example, many borrowers are faced with payment problems due to the global economic impact of the COVID-19 pandemic. Certain borrowers with financial problems received financial government support and banks brought some financial relief by offering deferral of loan payments. These kind of elements are not straightforward to factor into a PD estimation.
+Risk modellers are faced with many challenges and complicating factors in their pursuit of quantifying the PD, such as the treatment of sensitivity to the economic cycle. For example, many borrowers are faced with payment problems due to the global economic impact of the COVID-19 pandemic. Certain borrowers with financial problems received financial government support and banks brought some financial relief by offering deferral of loan payments. These kind of elements are not straightforward to factor into a PD estimation.
+
 This deep-dive course provides the context of regulatory requirements with regard to the estimation of the PD risk parameter and treats the main challenges for developing PD models. For example:
 
  * Which PD data requirements should be met?
