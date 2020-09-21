@@ -21,7 +21,7 @@ fee : "2.399"
 
 ## Content
 
-In 2004 the Basel Committee on Banking Supervision (BCBS) finalised a new framework for capital adequacy regulation based on three pillars. This framework was further revised in 2013 as is now known as “Basel III”, and formed the basis for the capital adequacy legislation of the European Union, called “The Capital Requirement Directive IV” or “CRD IV” which was implemented in January 2014 . This Directive is mandatory for all European banks and investment firms. Banks are required to hold sufficient capital to protect them against Unexpected Loss (UL). In the Basel III framework the amount of capital that a specific bank should hold is calculated on the basis of risk weighted assets formulas. Derivation of these risk-weighted assets is dependent on the estimates of the following risk components: Probability of Default (PD), Loss Given Default (LGD) and Exposure at Default (EAD) and  * in some cases  * Effective Maturity (EM).
+In 2004 the Basel Committee on Banking Supervision finalized a new framework for capital adequacy regulation based on three pillars. This framework was further revised in 2013 as is now known as “Basel III”, and formed the basis for the capital adequacy legislation of the European Union, called “The Capital Requirement Directive IV” or “CRD IV” which was implemented in January 2014 . This Directive is mandatory for all European banks and investment firms. Banks are required to hold sufficient capital to protect them against Unexpected Loss. In the Basel III framework, the amount of capital that a specific bank should hold is calculated on the basis of risk-weighted exposure amount (RWA) formulas. The RWA depends on several risk parameters which can be estimated through internal models under the IRB approach: Probability of Default (PD), Loss Given Default (LGD) and Exposure at Default (EAD) and -- in some cases -- Effective Maturity.
 
 This course covers all material topics in the end-to-end model development process: from clarifying model requirements, to submitting to model validation/regulators; from the basic to more advanced modeling approaches; testing and validation of risk parameter models (PD, LGD and EAD).
 
@@ -94,7 +94,7 @@ For this course, examples of case studies are
 
 ### Online and offline
 
-This course can be organised in an offline, an online, or a combined on * and offline version. 
+This course can be organized in an offline, an online, or a combined on * and offline version. 
 
 #### Offline
 
