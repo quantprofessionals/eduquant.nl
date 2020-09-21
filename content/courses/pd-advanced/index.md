@@ -2,10 +2,11 @@
 weekly: 4 hours
 draft: false
 fee: "1.599"
-summary: A deep dive into all conceptual details and regulatory requirements for the estimation of LGD values.
+summary: A deep dive into all conceptual details and regulatory requirements for
+  the estimation of PD values.
 toc: true
 title: PD
-date: 2020-09-04T00:00:00Z
+date: 2020-09-04T00:00:00.000Z
 featured: false
 duration: 1½ days
 tags:
