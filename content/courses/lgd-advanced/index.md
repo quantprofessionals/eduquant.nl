@@ -17,7 +17,7 @@ image:
   preview_only: false
   filename: featured.jpg
 ---
-{{% button href= "/#contact" icon="fa fa-download" %}}Apply Now{{% /button %}}
+{{% button href= "/#contact" icon="fa fa-hands-helping" %}}Apply now{{% /button %}}
 
 ## Content
 

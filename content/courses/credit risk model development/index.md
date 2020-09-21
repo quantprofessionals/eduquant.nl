@@ -17,7 +17,7 @@ weekly : "04 hours"
 
 ---
 
-{{% button href= "/#contact" icon="fa fa-download" %}}Apply Now{{% /button %}}
+{{% button href= "/#contact" icon="fa fa-hands-helping" %}}Apply now{{% /button %}}
 
 ## Content
 
