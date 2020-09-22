@@ -32,6 +32,7 @@ removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issu
 summaryLength = 30  # Listing summary length in words. Also, see `abstract_length` in `params.toml`.
 paginate = 10  # Number of items per page in paginated lists.
 enableEmoji = true
+footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ['\.Rmd$', '_files$', '_cache$', '\.knit\.md$', '\.utf8\.md$']
 pygmentsUseClasses = true
 
@@ -47,10 +48,7 @@ pygmentsUseClasses = true
   rel = "manifest"
 
 [markup]
-  defaultMarkdownHandler = "blackfriday"
-  [markup.blackfriday]
-    FootnoteReturnLinkContents = "↩"
-    footnoteAnchorPrefix = "<sup>^</sup>"
+  defaultMarkdownHandler = "goldmark"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true  # Enable user to embed HTML snippets in Markdown content.
