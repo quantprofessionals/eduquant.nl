@@ -2,7 +2,8 @@
 weekly: 4 hours
 draft: false
 fee: "1.599"
-summary: A deep dive into all conceptual details and regulatory requirements for the estimation of PD values.
+summary: A deep dive into all conceptual details and regulatory requirements for
+  the estimation of PD values.
 toc: true
 title: PD
 date: 2020-09-04T00:00:00.000Z
@@ -27,61 +28,58 @@ Risk modellers are faced with many challenges and complicating factors in their 
 
 This deep-dive course provides the context of regulatory requirements with regard to the estimation of the PD risk parameter and treats the main challenges for developing PD models. For example:
 
- * Which PD data requirements should be met?
- * How to determine at which level to model the PD (e.g. facility or obligor level)?
- * How to decide which rating philosophy and calibration philosophy to choose and what are the implications for the modelling approach?
- * Which analyses should be conducted to examine whether the model development and calibration data are representative for the application portfolio?
- * How to determine which appropriate adjustment should be applied to deal with deficiencies and uncertainties in the definition of default?
- * How should credit risk mitigation techniques and ratings of third parties be taken into account?
- * Which modelling approaches are appropriate to deal with overrides?
- * Which risk driver selection approaches and criteria should be used to build the PD ranking model?
- * How should the one-year default rate, the observed average default rate and the long-run average default rate be calculated and which considerations need to be taken into account for the calibration (e.g. exclusions of defaults, overlapping versus non-overlapping time windows, mix of good and bad years etc.)?
- * How should PD grades/pools be determined?
- * Which considerations are important when deciding between direct PD estimates (i.e. continuous PD) versus PD grades or pools?
- * How should business processes (and historical changes) be reflected in the PD model?
- * What is a sound backtesting approach for the PD risk parameter?
- * How should PD data and methodological deficiencies and uncertainties be captured in a Margin of Conservatism?
- * What are the implications of the regulatory model use requirements for the model design?
-  
+* Which PD data requirements should be met?
+* How to determine at which level to model the PD (e.g. facility or obligor level)?
+* How to decide which rating philosophy and calibration philosophy to choose and what are the implications for the modelling approach?
+* Which analyses should be conducted to examine whether the model development and calibration data are representative for the application portfolio?
+* How to determine which appropriate adjustment should be applied to deal with deficiencies and uncertainties in the definition of default?
+* How should credit risk mitigation techniques and ratings of third parties be taken into account?
+* Which modelling approaches are appropriate to deal with overrides?
+* Which risk driver selection approaches and criteria should be used to build the PD ranking model?
+* How should the one-year default rate, the observed average default rate and the long-run average default rate be calculated and which considerations need to be taken into account for the calibration (e.g. exclusions of defaults, overlapping versus non-overlapping time windows, mix of good and bad years etc.)?
+* How should PD grades/pools be determined?
+* Which considerations are important when deciding between direct PD estimates (i.e. continuous PD) versus PD grades or pools?
+* How should business processes (and historical changes) be reflected in the PD model?
+* What is a sound backtesting approach for the PD risk parameter?
+* How should PD data and methodological deficiencies and uncertainties be captured in a Margin of Conservatism?
+* What are the implications of the regulatory model use requirements for the model design?
+
 The exact course contents are adapted based on a survey under participants 4-6 weeks before start of the course.
 
 ## Learning Goals
 
 After completing the course, participants will
 
- * understand the data requirements for PD modelling and required analyses to examine the representativeness of the data.
- * be familiar with adjustment methodologies to account for deficiencies in the definition of default.
- * grasp the concepts rating and calibration philosophy and implications for the modelling approach.
- * understand how to deal with additional complexities in PD modelling such as credit mitigation techniques, third party ratings and overrides.
- * be familiar with approaches to build a PD ranking model.
- * learn the key considerations and approaches to calibrate PD models.
- * understand the backtesting approaches for PD models.
- * learn how to account for deficiencies and uncertainties in a MoC.
- * Understand the implications of the model use requirements for their PD model design.
+* understand the data requirements for PD modelling and required analyses to examine the representativeness of the data.
+* be familiar with adjustment methodologies to account for deficiencies in the definition of default.
+* grasp the concepts rating and calibration philosophy and implications for the modelling approach.
+* understand how to deal with additional complexities in PD modelling such as credit mitigation techniques, third party ratings and overrides.
+* be familiar with approaches to build a PD ranking model.
+* learn the key considerations and approaches to calibrate PD models.
+* understand the backtesting approaches for PD models.
+* learn how to account for deficiencies and uncertainties in a MoC.
+* Understand the implications of the model use requirements for their PD model design.
 
 ## Target Audience
 
 The course is intended for:
 
- * IRB model developers and team leads with a specific interest in advanced PD modelling topics.
- * Model validators and team leads with similar interests.
- * Supervisors and policy advisors wishing to gain insight in the challenges of applying regulation with regard to the PD risk parameter.
- * Credit risk managers wishing to enhance their understanding of the PD risk parameter.
-
+* IRB model developers and team leads with a specific interest in advanced PD modelling topics.
+* Model validators and team leads with similar interests.
+* Supervisors and policy advisors wishing to gain insight in the challenges of applying regulation with regard to the PD risk parameter.
+* Credit risk managers wishing to enhance their understanding of the PD risk parameter.
 
 ### Prerequisites
 
 Participants are advised to come equipped with a basic understanding of:
 
- * the calculation of capital requirements
- * relevant regulation for A-IRB
- * modelling the LGD, PD and EAD/CCF risk parameters.
-
+* the calculation of capital requirements
+* relevant regulation for A-IRB
+* modelling the LGD, PD and EAD/CCF risk parameters.
 
 ## Format
 
 The material will be taught through active learning and spaced repetition with a focus on acquiring problem-solving strategies for relevant and realistic case studies.
-
 
 ### Active learning
 
@@ -91,10 +89,9 @@ Extensive research [^1]<sup>, </sup>[^2]<sup>, </sup>[^3]<sup>, </sup>[^4]<sup>,
 
 Another core element of the eduquant teaching strategy is the use of spaced sessions with retrieval practice, which has been shown [^7]<sup>, </sup>[^8] to consistently benefit long-term retention. The material is treated over the course of several sessions, rather than in a consecutive full-day schedule. After the first session, participants will be challenged to retrieve material treated in earlier sessions. 
 
-
 ### Case studies
 
-At eduquant we believe specialist professionals are best helped by acquiring problem solving strategies for problems they are likely to encounter in their professional practice, rather than theoretical knowledge. Based on [our extensive experience]({{< ref "/#about" >}} "About us") as risk modellers, consultants, supervisors and researchers, we develop case studies that are highly relevant, realistic and close to the type of problems participants are likely to encounter in their profession, at any level of mastery. The outcome of the cases studies are discussed in a plenary session with additional context and theoretical background.
+At eduquant we believe specialist professionals are best helped by acquiring problem solving strategies for problems they are likely to encounter in their professional practice, rather than theoretical knowledge. Based on \[our extensive experience]({{< ref "/#about" >}} "About us") as risk modellers, consultants, supervisors and researchers, we develop case studies that are highly relevant, realistic and close to the type of problems participants are likely to encounter in their profession, at any level of mastery. The outcome of the cases studies are discussed in a plenary session with additional context and theoretical background.
 
 [^1]: R. R. Hake, Interactive-engagement vs. traditional methods: A six-thousand-student survey of mechanics test data for introductory physics courses. Am. J. Phys. 66, 64–74 (1998).
 [^2]: C. H. Crouch, E. Mazur, Peer instruction: Ten years of experience and results. Am. J. Phys. 69, 970–977 (2001).
@@ -110,10 +107,10 @@ At eduquant we believe specialist professionals are best helped by acquiring pro
 
 For this course, examples of case studies are 
 
- * Identify dependencies of each step in LGD estimation on important methodological considerations, such as the method of deriving the maximum period of recovery or the choice of recovery cash flow proxy
- * Give a comprehensive list of potential deficiencies of an LGD estimation based on shared documentation
- * Identify the major policy decisions underlying a compliant in-default LGD estimation
- * Define an approach for a treatment of potential biases due to representativeness issues, given documentation and data on portfolio characteristics and the opportunity of a Q&A session with a business representative
+* Define follow-up actions/treatments based on assessments of the data representativeness with regard to the model development and calibration data.
+* Outline analyses to assess whether the historical observation period is representative for the likely range of variability of one-year default rates and determine whether adjustments to the long-run average default rate are needed.
+* Give a comprehensive list of potential deficiencies of a PD estimation approach based on shared documentation.
+* Define analyses to examine whether the PD modelling approach is in line with the rating philosophy and calibration philosophy and explain the impact of the PD risk parameter on the evolution of RWA. 
 
 ### Online and offline
 
@@ -121,24 +118,22 @@ This course can be organised in an offline, an online, or a combined on- and off
 
 #### Offline
 
-Offline sessions can be offered on-premise as well as organized off site (priced at cost) - [contact us]({{< ref "/#contact" >}} "Contact Us") to discuss options. For all but the smallest groups (7 or more), we recommend to have the option to break out in separate groups of up to 4 participants. Offline sessions will be webcast, the main presentations recorded and shared for a limited time with participants for later review.
+Offline sessions can be offered on-premise as well as organized off site (priced at cost) - \[contact us]({{< ref "/#contact" >}} "Contact Us") to discuss options. For all but the smallest groups (7 or more), we recommend to have the option to break out in separate groups of up to 4 participants. Offline sessions will be webcast, the main presentations recorded and shared for a limited time with participants for later review.
 
 #### Online
 
 For online participation we leverage the [ikuvikyu](https://ikyvikyo.org)<sub><sup>Ⓡ</sup></sub>  platform which offers, besides the usual features for webconferencing, the options to 
 
- * opening breakout sessions for participants (for collaborative case studies)
- * multiway sharing and presenting (for sharing and presenting case study results)
- * interactive polling and surveys (for focused problem sets)
- 
-These features allow the trainers to engage with participants collectively as well as in smaller groups, or individually, for case studies. The main presentations will be recorded and shared for a limited time with participants for later review.
+* opening breakout sessions for participants (for collaborative case studies)
+* multiway sharing and presenting (for sharing and presenting case study results)
+* interactive polling and surveys (for focused problem sets)
 
+These features allow the trainers to engage with participants collectively as well as in smaller groups, or individually, for case studies. The main presentations will be recorded and shared for a limited time with participants for later review.
 
 ## Date and duration
 
-The course is comprised of three morning or afternoon sessions of 4 hours each, once per week. Please [Contact us]({{< ref "/#contact" >}} "Contact Us") for details and options for the schedule.
+The course is comprised of three morning or afternoon sessions of 4 hours each, once per week. Please \[Contact us]({{< ref "/#contact" >}} "Contact Us") for details and options for the schedule.
 
 ## Pricing
 
-Pricing is based on the level and duration of the course, and the number of participants per application. [See here]({{< ref "/pricing" >}} "Pricing") for additional information.
-
+Pricing is based on the level and duration of the course, and the number of participants per application. \[See here]({{< ref "/pricing" >}} "Pricing") for additional information.
