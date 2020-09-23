@@ -11,10 +11,22 @@ Fees start at
    * €299 (excl. VAT) / participant / 4 hour session (basic level courses)
    * €449 (excl. VAT) / participant / 4 hour session (advanced level courses)
 
-This is the price for individual applicants. Increasing discounts apply for each additional participant of a class on an application, at a cumulative rate of +2.5% for each applicant beyond the first, to a maximum of 15 participants for a full class. For example, when booking a full class of 15 participants, a discount of 17.5% on the total fee applies.
+
+#### Discounts
+
+You can save money!
+
+ * Each additional participant of a class on an application beyond the first has a additional +2.5% discount, to a maximum of 15 participants for a full class.
+ * For example, when booking a full class of 15 participants, a discount of 17.5% on the total fee applies.
+
+{{< chart data="pricing" >}}
 
  * First-time clients may qualify for additional discounts - [contact us]({{< ref "/#contact" >}} "Contact Us") to hear about your options
- * Off-site locations can be organized at cost on request
+
+
+#### Additional options
+
+Off-site locations can be organized at cost on request. 
 
 
 ## Workshops
