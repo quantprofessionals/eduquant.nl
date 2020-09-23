@@ -40,6 +40,10 @@
       {{ with $summary }}
       <div class="article-style">
         {{ . }}
+        <ul class="list-inline mb-0 pt-2 pr-2 pl-0 pb-0 text-muted">
+          <i class="fas fa-calendar pr-1"></i> {{ $item.Params.nr_sessions }} sessions </li>
+          <!-- <li class="list-inline-item"><i class="fas fa-euro-sign pr-1"></i> {{ $item.Params.fee }}</li> -->
+        </ul>
       </div>
       {{ end }}
 
@@ -51,7 +55,7 @@
     <div class="col-12 col-md-6 order-first {{$order}}">
       {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
       {{ with $resource }}
-      {{ $image := .Resize "540x" }}
+      {{ $image := .Fill (printf "550x400 %s") }}
       {{if $do_link}}<a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{end}}
         <img src="{{ $image.RelPermalink }}" alt="">
       {{if $do_link}}</a>{{end}}

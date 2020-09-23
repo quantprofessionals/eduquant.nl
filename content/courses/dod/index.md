@@ -12,8 +12,8 @@ image:
   focal_point: "Smart"
   preview_only: false
 
-duration : "1½ days"
-weekly: "04 hours"
+nr_sessions : "4"
+session : "4 hours"
 
 ---
 
@@ -64,6 +64,10 @@ The course is intended for
 ### Prerequisites
 
 Participants are advised to come equipped with a broad understanding of credit risk, Basel and capital requirements regulation.
+
+## Schedule
+
+The course will be taught over 4 sessions of each 4 hours, with at most 2 sessions per week. The final session schedule will be planned in coordination with participants 6 weeks prior, and confirmed at the latest 4 weeks prior to the start of the course.
 
 ## Format
 
@@ -123,7 +127,7 @@ These features allow the trainers to engage with participants collectively as we
 
 ## Date and duration
 
-The course is comprised of three morning or afternoon sessions of 4 hours each, once per week. Please [Contact us]({{< ref "/#contact" >}} "Contact Us") for details and options for the schedule.
+The course is comprised of three morning or afternoon sessions of 4 hrs each, once per week. Please [Contact us]({{< ref "/#contact" >}} "Contact Us") for details and options for the schedule.
 
 
 ## Pricing

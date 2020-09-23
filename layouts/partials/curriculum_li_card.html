@@ -7,9 +7,9 @@
 {{/* Get summary. */}}
 {{ $summary := "" }}
 {{ if $item.Params.summary }}
-  {{ $summary = $item.Params.summary | markdownify | emojify | truncate (site.Params.summaryLength | default 135)}}
+  {{ $summary = $item.Params.summary | markdownify | emojify | truncate (site.Params.summaryLength | default 80 )}}
 {{ else if .Params.abstract }}
-  {{ $summary = .Params.abstract | markdownify | emojify | truncate (site.Params.abstract_length | default 135) }}
+  {{ $summary = .Params.abstract | markdownify | emojify | truncate (site.Params.abstract_length | default 80) }}
 {{ else if $item.Summary }}
   {{ $summary = $item.Summary }}
 {{ end }}
@@ -31,11 +31,11 @@
     {{ end }}
     <!-- <div class="card-body"> -->
       <ul class="list-inline mb-0 pt-2 pr-2 pl-2 pb-0 text-muted">
-        <li class="list-inline-item"><i class="fas fa-calendar pr-1"></i> {{ $item.Params.Duration }}</li>
+        <i class="fas fa-calendar pr-1"></i> {{ $item.Params.nr_sessions }} sessions </li>
         <!-- <li class="list-inline-item"><i class="fas fa-euro-sign pr-1"></i> {{ $item.Params.fee }}</li> -->
       </ul>
-      <div class="card-text mt-0 pb-2 pr-2 pl-2 pt-0">
-        <h6><a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title | markdownify | emojify }}</a></h6>
+      <div class="card-text mt-0 pb-0 pr-2 pl-2 pt-0">
+        <h7 class="text-info">{{ $item.Title | markdownify | emojify }}</h7>
         {{ with $summary }}
         <div class="article-style mb-2">
           <p>{{ . }}</p>
