@@ -1,5 +1,4 @@
 ---
-weekly: 4 hours
 draft: false
 fee: "1.599"
 summary: Become familiar with regulatory requirements for identifying an
@@ -8,7 +7,6 @@ toc: true
 title: Downturn LGD & CCF
 date: 2020-09-04T00:00:00Z
 featured: false
-duration: 1½ days
 tags:
   - Advanced
   - IRB
@@ -17,6 +15,11 @@ image:
   focal_point: Smart
   preview_only: false
   filename: featured.jpg
+
+
+nr_sessions : "4"
+session : "4 hours"
+
 ---
 {{% button href= "/#contact" icon="fa fa-hands-helping" %}}Apply now{{% /button %}}
 
@@ -88,6 +91,10 @@ Participants are advised to come equipped with aasic understanding of:
 * modelling the LGD and EAD/CCF risk parameters.
 
 
+## Schedule
+
+The course will be taught over 4 sessions of each 4 hours, with at most 2 sessions per week. The final session schedule will be planned in coordination with participants 6 weeks prior, and confirmed at the latest 4 weeks prior to the start of the course.
+
 ## Format
 
 The material will be taught through active learning and spaced repetition with a focus on acquiring problem-solving strategies for relevant and realistic case studies.
@@ -146,7 +153,7 @@ These features allow the trainers to engage with participants collectively as we
 
 ## Date and duration
 
-The course is comprised of three morning or afternoon sessions of 4 hours each, once per week. Please [Contact us]({{< ref "/#contact" >}} "Contact Us") for details and options for the schedule.
+The course is comprised of three morning or afternoon sessions of 4 hrs each, once per week. Please [Contact us]({{< ref "/#contact" >}} "Contact Us") for details and options for the schedule.
 
 
 ## Pricing

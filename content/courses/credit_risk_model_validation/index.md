@@ -1,6 +1,6 @@
 ---
-title: Credit Risk Model Development
-summary: Become an effective credit risk model developer.
+title: Credit Risk Model Validation
+summary: Learn how to independently and effectively challenge internal models.
 tags:
 - Basic
 - IRB
@@ -12,8 +12,8 @@ image:
   focal_point: "Smart"
   preview_only: false
 
-duration : "8 days"
-weekly : "04 hours"
+nr_sessions : "8"
+session : "4 hours"
 
 ---
 
@@ -21,38 +21,39 @@ weekly : "04 hours"
 
 ## Content
 
-In 2004 the Basel Committee on Banking Supervision finalized a new framework for capital adequacy regulation based on three pillars. This framework was further revised in 2013 as is now known as “Basel III”, and formed the basis for the capital adequacy legislation of the European Union, called “The Capital Requirement Directive IV” or “CRD IV” which was implemented in January 2014 . This Directive is mandatory for all European banks and investment firms. Banks are required to hold sufficient capital to protect them against Unexpected Loss. In the Basel III framework, the amount of capital that a specific bank should hold is calculated on the basis of risk-weighted exposure amount (RWA) formulas. The RWA depends on several risk parameters which can be estimated through internal models under the IRB approach: Probability of Default (PD), Loss Given Default (LGD) and Exposure at Default (EAD) and -- in some cases -- Effective Maturity.
+Model validation, the independent and effective challenge of risk model development, is a cornerstone of model risk control at larger and more mature financial institutions.
 
-This course covers all material topics in the end-to-end model development process: from clarifying model requirements, to submitting to model validation/regulators; from the basic to more advanced modeling approaches; testing and validation of risk parameter models (PD, LGD and EAD).
+The model validator must learn to question the credit risk model parameters, audit the decision making process and understand the trade-offs of the resulting model design choices. They need to understand the broader context of their inquiries and translate these into a sound advice to executive management. In addition, they need to understand regulation and internal policies, and the expectations of supervisors.
+
+In this course, participants learn how to validate credit risk models in the context of the CRR and underlying regulatory technical standards and guidelines, as well as supervisory expectations. Statistical foundations of model validation will be explained in combination with practical guidance for applying these. Attention will also be given to validating documentation and more technical aspects of verifying the correctness and reproducibility results. The knowledge will be acquired through several real-life case studies and exercises.
+
+The exact course contents are adapted based on a survey under participants 4-6 weeks before start of the course.
 
 ## Learning Goals
 
-After this course, you will be able to
+After completing the course, participants will
 
- * Know how to read the relevant regulation for credit risk models
- * Develop probability of default (PD), loss given default (LGD), and exposure at default (EAD) models
- * Appropriate quantify a margin of conservatism
- * Effectively interact with model validation, internal audit and supervisors
- * Keep an audit trail during the modelling process
- * Validate, backtest, and benchmark credit risk models
+ * be able to find, understand and interpret regulatory requirements for banks using internal models, and translate these into specific assessments   
+ * know and reflect on the role and responsibilities of the model validation function within the bank
+ * learn to question decision making processes and verify the reproducibility and correctness of results
+ * understand and use procedures for statistical testing, benchmarking and the use of challenger models  
+ * learn to use specific statistical tests to challenge key decisions in modelling probability of default (PD), loss given default (LGD), and exposure at default (EAD) models
 
 ## Target Audience
 
 The course is intended for 
 
-* IRB model developers with little or no prior experience in the field
-* Specialist supervisors wishing to gain insight in internal model developer
+* IRB model validators with little or no prior experience in the field
+* Specialist supervisors wishing to gain insight in internal model validation
 
 ### Prerequisites
 
+Prior basic knowledge of statistical testing and modeling is strongly advised. Some experience in programming with `python` or a statistical computing language may be helpful for the case studies, but is not required.
 
-Participants are advised to come equipped with basic understanding of:
 
- * (Credit) risk management
- * Statistics and probability theory
+## Schedule
 
-Some experience in programming with `python` or a similar statistical computing language is recommended for the case studies. 
-
+The course will be taught over 8 sessions of each 4 hours, with at most 2 sessions per week. The final session schedule will be planned in coordination with participants 6 weeks prior, and confirmed at the latest 4 weeks prior to the start of the course.
 
 ## Format
 
@@ -72,8 +73,6 @@ Another core element of the eduquant teaching strategy is the use of spaced sess
 
 At eduquant we believe specialist professionals are best helped by acquiring problem solving strategies for problems they are likely to encounter in their professional practice, rather than theoretical knowledge. Based on [our extensive experience]({{< ref "/#about" >}} "About us") as risk modellers, consultants, supervisors and researchers, we develop case studies that are highly relevant, realistic and close to the type of problems participants are likely to encounter in their profession, at any level of mastery. The outcome of the cases studies are discussed in a plenary session with additional context and theoretical background.
 
-
-
 [^1]: R. R. Hake, Interactive-engagement vs. traditional methods: A six-thousand-student survey of mechanics test data for introductory physics courses. Am. J. Phys. 66, 64–74 (1998).
 [^2]: C. H. Crouch, E. Mazur, Peer instruction: Ten years of experience and results. Am. J. Phys. 69, 970–977 (2001).
 [^3]: L. Deslauriers, E. Schelew, C. Wieman, Improved learning in a large-enrollment physics class. Science 332, 862–864 (2011).
@@ -88,13 +87,14 @@ At eduquant we believe specialist professionals are best helped by acquiring pro
 
 For this course, examples of case studies are 
 
- * Present and challenge arguments whether or not a proposed treatment of PD calibration is compliant with regulation
- * Work out an outline of a minimum viable approach for estimating in-default LGD parameters
- * Compare and understand different treatments of PD calibration based on prepared code samples and realistic data sets
+ * Present arguments whether or not a proposed treatment of PD calibration for low-default portfolios is compliant with regulation
+ * Give a comprehensive list of potential deficiencies of a downturn LGD derivation based on shared documentation
+ * Identify the major policy decisions underlying a compliant EAD estimation for a retail portfolio
+ * Compare and understand the impact of different treatments of LGD estimation based on prepared code samples and realistic data sets
 
 ### Online and offline
 
-This course can be organized in an offline, an online, or a combined on * and offline version. 
+This course can be organised in an offline, an online, or a combined on- and offline version. 
 
 #### Offline
 
@@ -113,7 +113,7 @@ These features allow the trainers to engage with participants collectively as we
 
 ## Date and duration
 
-The course is comprised of eight morning or afternoon sessions of 4 hours each, twice per week. Please [Contact us]({{< ref "/#contact" >}} "Contact Us") for details and options for the schedule.
+The course is comprised of eight morning or afternoon sessions of 4 hrs each, once per week. Please [Contact us]({{< ref "/#contact" >}} "Contact Us") for details and options for the schedule.
 
 
 ## Pricing

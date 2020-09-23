@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "uid": "babced",
+            "fill": "tonexty",
+            "mode": "none",
+            "name": "Col2",
+            "type": "scatter",
+            "x": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12",
+                "13",
+                "14",
+                "15"
+            ],
+            "y": [
+                "0",
+                "0.0125",
+                "0.025",
+                "0.0375",
+                "0.05",
+                "0.0625",
+                "0.0750",
+                "0.0875",
+                "0.1000",
+                "0.1125",
+                "0.1250",
+                "0.1375",
+                "0.1500",
+                "0.1625",
+                "0.1750"
+            ],
+            "fillcolor": "#083A67"
+        }
+    ],
+    "layout": {
+        "title": "",
+        "width": 800,
+        "xaxis": {
+            "type": "int",
+            "range": [
+                1,
+                15
+            ],
+            "title": "number of participants on application",
+            "showgrid": false,
+            "autorange": true,
+            "tickformat": ""
+        },
+        "yaxis": {
+            "title": "Cumulative discount",
+            "type": "percent",
+            "range": [
+                0,
+                1
+            ],
+            "autorange": true,
+            "tickformat": "%"
+        },
+        "height": 500,
+        "autosize": false
+    },
+    "frames": []
+}
