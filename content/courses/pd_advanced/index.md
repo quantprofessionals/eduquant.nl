@@ -96,7 +96,7 @@ Another core element of the eduquant teaching strategy is the use of spaced sess
 
 ### Case studies
 
-At eduquant we believe specialist professionals are best helped by acquiring problem solving strategies for problems they are likely to encounter in their professional practice, rather than theoretical knowledge. Based on \[our extensive experience]({{< ref "/#about" >}} "About us") as risk modellers, consultants, supervisors and researchers, we develop case studies that are highly relevant, realistic and close to the type of problems participants are likely to encounter in their profession, at any level of mastery. The outcome of the cases studies are discussed in a plenary session with additional context and theoretical background.
+At eduquant we believe specialist professionals are best helped by acquiring problem solving strategies for problems they are likely to encounter in their professional practice, rather than theoretical knowledge. Based on [our extensive experience]({{< ref "/#about" >}} "About us") as risk modellers, consultants, supervisors and researchers, we develop case studies that are highly relevant, realistic and close to the type of problems participants are likely to encounter in their profession, at any level of mastery. The outcome of the cases studies are discussed in a plenary session with additional context and theoretical background.
 
 [^1]: R. R. Hake, Interactive-engagement vs. traditional methods: A six-thousand-student survey of mechanics test data for introductory physics courses. Am. J. Phys. 66, 64–74 (1998).
 [^2]: C. H. Crouch, E. Mazur, Peer instruction: Ten years of experience and results. Am. J. Phys. 69, 970–977 (2001).
@@ -123,7 +123,7 @@ This course can be organised in an offline, an online, or a combined on- and off
 
 #### Offline
 
-Offline sessions can be offered on-premise as well as organized off site (priced at cost) - \[contact us]({{< ref "/#contact" >}} "Contact Us") to discuss options. For all but the smallest groups (7 or more), we recommend to have the option to break out in separate groups of up to 4 participants. Offline sessions will be webcast, the main presentations recorded and shared for a limited time with participants for later review.
+Offline sessions can be offered on-premise as well as organized off site (priced at cost) - [contact us]({{< ref "/#contact" >}} "Contact Us") to discuss options. For all but the smallest groups (7 or more), we recommend to have the option to break out in separate groups of up to 4 participants. Offline sessions will be webcast, the main presentations recorded and shared for a limited time with participants for later review.
 
 #### Online
 
@@ -137,8 +137,8 @@ These features allow the trainers to engage with participants collectively as we
 
 ## Date and duration
 
-The course is comprised of three morning or afternoon sessions of 4 hrs each, once per week. Please \[Contact us]({{< ref "/#contact" >}} "Contact Us") for details and options for the schedule.
+The course is comprised of three morning or afternoon sessions of 4 hrs each, once per week. Please [Contact us]({{< ref "/#contact" >}} "Contact Us") for details and options for the schedule.
 
 ## Pricing
 
-Pricing is based on the level and duration of the course, and the number of participants per application. \[See here]({{< ref "/pricing" >}} "Pricing") for additional information.
+Pricing is based on the level and duration of the course, and the number of participants per application. [See here]({{< ref "/pricing" >}} "Pricing") for additional information.
