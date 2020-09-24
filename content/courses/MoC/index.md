@@ -30,7 +30,7 @@ While perhaps conceptually straightforward, the implementation of these regulato
 This advanced course brings to model developers and model validators a thorough understanding of the statistical and conceptual basis of Margin of Conservatism and the applicable regulation, as well as the mental machinery to help bring these into practice. Through challenging hands-on case studies, interactive lectures and stimulating discourse, participants will gain experience with, among others, the following topics
 
  * Integration of a conceptual and statistical basis of the Margin of Conservatism with regulatory terminology and supervisory expectations
- * Setup, verification and challenge of a process for the identication, quantification and validation of model deficiencies and uncertainties
+ * Setup, verification and challenge of a process for the identification, quantification and validation of model deficiencies and uncertainties
  * Expected key elements of a Margin of Conservatism framework
  * Approaches for deriving appropriate adjustments and MoC factors for typical sources of bias and uncertainty, such as
    * a lack of data quality, completeness or representativeness
@@ -107,7 +107,7 @@ At eduquant we believe specialist professionals are best helped by acquiring pro
 For this course, examples of case studies are 
 
  * Identify major potential sources of uncertainty, given documentation of a PD estimation methodology
- * Compare the strenghts and weaknesses of alternative MoC estimation approaches related to representativeness
+ * Compare the strengths and weaknesses of alternative MoC estimation approaches related to representativeness
  * Explain the relation between model risk and MoC to front office risk management
 
 ### Online and offline
