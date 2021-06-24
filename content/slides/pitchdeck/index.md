@@ -15,7 +15,7 @@ slides:
 
 {{< slide background-color="Calypso" >}}
 
-{{< figure src="/images/logo.svg" >}}
+{{< figure src="logo_transparent.svg" >}}
 
 
 ## specialist training 
@@ -87,12 +87,11 @@ slides:
 
 ## brings risk quants 
 ### to the 
-## **next level** of **expertise**
+## next level of expertise
 
 ---
 
+{{< slide background-image="/media/tim-swaan-eOpewngf68w-unsplash.jpg" >}}
 
-{{< slide background-image="/media/frankfurt.jpg" >}}
 
-
-# Come learn with us
+## Come learn with us

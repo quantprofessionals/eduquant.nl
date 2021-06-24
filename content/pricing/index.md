@@ -8,7 +8,7 @@ draft: false
 
 Courses are priced per participant and per course, with a baseline fee per course and cumulative discounts applied over additional participants and additional courses.
 
-#### Discounts
+### Discounts
 
 We greatly value our repeating and long-term customers and reflect our appreciation for your longer term and larger scale trust in our services through various kinds of cumulative discounts. Nice!
 
@@ -27,18 +27,16 @@ We greatly value our repeating and long-term customers and reflect our appreciat
  * First-time clients qualify for additional discounts
  * Extensive bespoke options may incur additional costs based on marginal effort, but in case of bulk purchases these may be waived.
 
- [Contact us]({{< ref "/#contact" >}} "Contact Us") to discuss our proposal!
- 
 
 #### Additional options
 
-Off-site locations can be organized at cost on request.
+ * Off-site locations can be organized at cost on request.
 
 
 ## Workshops
 
 Pricing of custom, one-off workshops is based on the type of subject and training requested, workshop duration and number of participants.
 
-{{% alert note %}}
+{{% callout note %}}
 Please [contact us]({{< ref "/#contact" >}} "Contact Us") for a quote tailored to your specific needs.
-{{% /alert %}}
+{{% /callout %}}

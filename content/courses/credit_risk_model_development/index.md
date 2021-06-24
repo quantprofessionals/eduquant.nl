@@ -1,6 +1,6 @@
 ---
 title: Credit Risk Model Development
-summary: Become an effective credit risk model developer.
+summary: Understand the foundations of credit risk modeling and become an effective model developer.
 tags:
 - Basic
 - IRB
@@ -17,7 +17,7 @@ session : "4 hours"
 
 ---
 
-{{% button href= "/#contact" icon="fa fa-hands-helping" %}}Apply now{{% /button %}}
+{{% button href= "#contact" icon="fa fa-plus-circle" %}}Apply now{{% /button %}}
 
 ## Content
 
@@ -102,7 +102,7 @@ This course can be organized in an offline, an online, or a combined on * and of
 
 #### Offline
 
-Offline sessions can be offered on-premise as well as organized off site (priced at cost) - [contact us]({{< ref "/#contact" >}} "Contact Us") to discuss options. For all but the smallest groups (7 or more), we recommend to have the option to break out in separate groups of up to 4 participants. Offline sessions will be webcast, the main presentations recorded and shared for a limited time with participants for later review.
+Offline sessions can be offered on-premise as well as organized off site (priced at cost) - [contact us]({{< ref "#contact" >}} "Contact Us") to discuss options. For all but the smallest groups (7 or more), we recommend to have the option to break out in separate groups of up to 4 participants. Offline sessions will be webcast, the main presentations recorded and shared for a limited time with participants for later review.
 
 #### Online
 
@@ -112,12 +112,12 @@ For online participation we leverage the [ikuvikyu](https://ikyvikyo.org)<sub><s
  * multiway sharing and presenting (for sharing and presenting case study results)
  * interactive polling and surveys (for focused problem sets)
  
-These features allow the trainers to engage with participants collectively as well as in smaller groups, or individually, for case studies. The main presentations will be recorded and shared for a limited time with participants for later review.
+These features allow the trainers to engage with participants collectively as well as in smaller groups, or individually, for case studies. The main presentations will be recorded and shared for a limited time with participants for later review. Sharing of recordings are subject to individual consent.
 
 
 ## Date and duration
 
-The course is comprised of eight morning or afternoon sessions of 4 hrs each, twice per week. Please [Contact us]({{< ref "/#contact" >}} "Contact Us") for details and options for the schedule.
+The course is comprised of eight morning or afternoon sessions of 4 hrs each, twice per week. Please [Contact us]({{< ref "#contact" >}} "Contact Us") for details and options for the schedule.
 
 
 ## Pricing

@@ -17,14 +17,14 @@ height = "500px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "# Expert Training"
-  content = "Our founding team of of senior risk consultants, former specialist supervisor / policy advisor quant PhDs have a combined set of 30 years experience. We get risk quants to the next level of expertise."
+  content = "Our founding team of of senior risk quant PhDs, former specialist supervisor & policy advisors have 30 years combined experience. We get risk quants to the next level of expertise."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "helping_hand.jpg"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 1  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -35,15 +35,15 @@ height = "500px"
   cta_icon = "book"
 
 [[item]]
-  title = "# Active learning strategies"
-  content = "We use active teaching methods for transferring problem-solving skills. Research shows that actively engaged, problem-driven learning is far more effective than lectures or self-paced learning. Students work on realistic and relevant case studies, which we base on our extensive experience in the sector."
+  title = "# Learning strategies"
+  content = "Actively engaged, problem-driven learning is more effective than lectures or self-paced learning. We develop realistic and challenging case studies, using our extensive experience in the sector."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#A65D7F"  # An HTML color value.
+  # overlay_color = "#A65D7F"  # An HTML color value.
   overlay_img = "kick.jpg"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.65 # Darken the image. Value in range 0-1.
+  overlay_filter = 0.9 # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -60,9 +60,9 @@ height = "500px"
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
+  # overlay_color = "#666"  # An HTML color value.
   overlay_img = "workshop.jpg"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.9  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.

@@ -4,11 +4,11 @@ widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
-height = "200px"
+height = "300px"
 title = "Specialist Training by Experts"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "logo_transparent_white.svg"
+# hero_media = "logo_transparent_white.svg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -17,18 +17,18 @@ hero_media = "logo_transparent_white.svg"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "#8c9eff"
+  color = "#212121"
   
   # Background gradient.
   # gradient_start = "#666A86"
   # gradient_end = "transparent"
   
   # Background image.
-  image = "tools.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.8  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  image_position = "right"  # Options include `left`, `center` (default), or `right`.
-  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  # image = "tools.jpg"  # Name of image in `static/img/`.
+  # image_darken = 0.95  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  # image_position = "right"  # Options include `left`, `center` (default), or `right`.
+  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -51,6 +51,6 @@ hero_media = "logo_transparent_white.svg"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-# 
+ 
 
 Bring risk quants to the next level of expertise

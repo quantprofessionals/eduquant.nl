@@ -1,12 +1,11 @@
 ---
 # Display name
 title: Taoying Farenhorst-Yuan, PhD
-user_groups: Manager
 
 
 # Username (this should match the folder name)
 authors:
-- admin
+- taoying
 
 # Is this the primary user of the site?
 superuser: true

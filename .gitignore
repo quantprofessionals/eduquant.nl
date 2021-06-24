@@ -1,6 +1,9 @@
 .vscode/
 ### Hugo ###
 # Generated files by hugo
-public/
-resources/_gen/
+/public/
+/resources/
 hugo_stats.json
+.Rproj.user
+.DS_Store
+Thumbs.db
