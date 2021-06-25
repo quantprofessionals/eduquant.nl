@@ -237,16 +237,18 @@ plugins_js  = []
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
-
+  provider = "wowchemy"
+  [search.wowchemy]
+    min_length = 1
+    threshold = 0.2
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
+
   [search.algolia]
     app_id = ""
     api_key = ""
     index_name = ""
     show_logo = false
-
 ############################
 ## Maps
 ############################
@@ -282,6 +284,7 @@ plugins_js  = []
 [cms]
   # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
   branch = "master"
+  publish_mode = "editorial_workflow"
 
 ############################
 ## Icon Pack Extensions
