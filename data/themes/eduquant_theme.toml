@@ -5,7 +5,7 @@ name = "eduquant_theme"
 light = true
 
 # Primary
-primary = "#083A67"
+primary = "#212121"
 
 # Menu
 menu_primary = "#fff"
