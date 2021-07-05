@@ -1,14 +1,11 @@
-# The Native Font Theme provides optimum text rendering on every device and OS.
-# Note that the native font families are automatically populated by Academic.
-
 # Font style metadata
 name = "font_set"
 
 # Optional Google font URL
-google_fonts = "family=Raleway&family=Alice&family=Hind+Madurai"
+google_fonts = "Lato:400,700|Merriweather|Roboto+Mono"
 
 # Font families
-heading_font = "Raleway"
-body_font = "Hind Madurai"
-nav_font = "Hind Madurai"
+heading_font = "Lato"
+body_font = "Merriweather"
+nav_font = "Lato"
 mono_font = "Roboto Mono"
