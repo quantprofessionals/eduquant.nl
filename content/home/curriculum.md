@@ -37,8 +37,13 @@ subtitle = "Modules"
     name = "Auditor"
     tag = "auditor"
 
-  
+#  [[content.filter_button]]
+#    name = "Supervisor"
+#    tag = "supervisor"
 
+  [[content.filter_button]]
+    name = "Analyst"
+    tag = "analyst"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

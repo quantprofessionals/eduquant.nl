@@ -42,13 +42,13 @@ After completing the course, participants will
 
 ## Target Audience
 
-The course is intended for 
+The course module is intended for 
 
 * IRB model developers with little or no prior experience in the field
 * Specialist supervisors wishing to gain insight in internal model development
 
 ### Prerequisites
-The course will be taught in English. 
+The material will be taught in English. 
 
 Participants are advised to come equipped with basic understanding of:
 
@@ -59,11 +59,11 @@ Some experience in programming with `python` or a similar statistical computing 
 
 ## Schedule
 
-The course will be taught over {{< param nr_sessions >}} sessions of each {{< param session >}}. The final session schedule will be planned in coordination with participants prior to the start of the course.
+The module will be taught over{{< param nr_sessions >}} sessions of each {{< param session >}}. The track schedule will be planned in coordination with the client based on the selection of modules.
 
 #### Example case studies
 
-For this course, examples of case studies are 
+For this module, examples of case studies are 
 
  * Compare and identify material weaknesses of alternative proposed PD estimation approaches
  * Present and challenge arguments whether or not a proposed treatment of PD calibration is compliant with regulation

@@ -2,8 +2,8 @@
 title: Margin of Conservatism
 summary: Understand the regulation and concepts behind the Margin of Conservatism for IRB models
 tags:  # tracks to which this module is added
-- Advanced
-- IRB
+- developer
+- validator
 date: "2020-09-04T00:00:00Z"
 toc: true
 
@@ -55,7 +55,7 @@ After completing the course, the participants will be able to
 
 ## Target Audience
 
-The course is intended for:
+The course module is intended for:
 
  * IRB model developers and team leads with a specific interest in determining appropriate adjustments and a Margin of Conservatism for the PD, LGD and EAD/CCF risk parameters.
  * Model validators, Auditors and team leads with similar interests.
@@ -64,7 +64,7 @@ The course is intended for:
 
 
 ### Prerequisites
-The course will be taught in English. 
+The material will be taught in English. 
 Participants are advised to come equipped with a basic understanding of: 
 
  * the calculation of minimum capital requirements
@@ -72,7 +72,7 @@ Participants are advised to come equipped with a basic understanding of:
 
 ## Schedule
 
-The course will be taught over {{< param nr_sessions >}} sessions of each {{< param session >}}. The final session schedule will be planned in coordination with participants prior to the start of the course.
+The module will be taught over{{< param nr_sessions >}} sessions of each {{< param session >}}. The track schedule will be planned in coordination with the client based on the selection of modules.
 
 ## Format
 
@@ -104,7 +104,7 @@ At eduquant we believe specialist professionals are best helped by acquiring pro
 
 #### Example case studies
 
-For this course, examples of case studies are 
+For this module, examples of case studies are 
 
  * Identify major potential sources of uncertainty, given documentation of a PD estimation methodology
  * Compare the strengths and weaknesses of alternative MoC estimation approaches related to representativeness

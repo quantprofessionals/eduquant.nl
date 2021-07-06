@@ -1,5 +1,5 @@
 ---
-title: Introduction to Credit Risk Regulation
+title: Credit Risk Regulation Introduction
 summary: Get acquainted with credit risk and capital requirements regulation.
 tags:  # tracks to which this module is added
 - developer
@@ -27,7 +27,7 @@ This Directive is mandatory for all European banks and investment firms. Banks a
 
 ## Learning Goals
 
-After this course, you will be able to
+After this module, you will be able to
 
  * Have a broad understanding of internal models and their regulation and supervision
  * Know the relevance IRB roll-out plans and the design of rating systems
@@ -37,12 +37,12 @@ After this course, you will be able to
 
 ## Target Audience
 
-The course is intended for 
+The course module is intended for 
 
 * IRB model developers and validators with little or no prior experience in the field
 
 ### Prerequisites
-The course will be taught in English. 
+The material will be taught in English. 
 Participants are advised to come equipped with basic understanding of:
 
  * (Credit) risk management
@@ -50,12 +50,12 @@ Participants are advised to come equipped with basic understanding of:
 
 ## Schedule
 
-The course will be taught over {{< param nr_sessions >}} sessions of each {{< param session >}}. The final session schedule will be planned in coordination with participants prior to the start of the course.
+The module will be taught over{{< param nr_sessions >}} sessions of each {{< param session >}}. The track schedule will be planned in coordination with the client based on the selection of modules.
 
 
 #### Example case studies
 
-For this course, examples of case studies are 
+For this module, examples of case studies are 
 
  * Given the outline of an internal models-based approach, identify relevant, material and critical regulatory requirements and challenges
  * Guided debates concerning
