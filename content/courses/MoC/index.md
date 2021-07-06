@@ -19,7 +19,7 @@ session : "4 hours"
 ---
 
 
-{{% button href= "#contact" icon="fa fa-plus-circle" %}}Apply now{{% /button %}}
+{{% button href= "/#contact" icon="fa fa-plus-circle" %}}Apply now{{% /button %}}
 
 ## Content
 
@@ -109,8 +109,6 @@ For this course, examples of case studies are
  * Identify major potential sources of uncertainty, given documentation of a PD estimation methodology
  * Compare the strengths and weaknesses of alternative MoC estimation approaches related to representativeness
  * Explain the relation between model risk and MoC to front office risk management
-
-
 
 
 Please [Contact us]({{< ref "#contact" >}} "Contact Us") for details and options.

@@ -17,7 +17,7 @@ session : "4 hours"
 
 ---
 
-{{% button href= "#contact" icon="fa fa-plus-circle" %}}Apply now{{% /button %}}
+{{% button href= "/#contact" icon="fa fa-plus-circle" %}}Apply now{{% /button %}}
 
 ## Content
 
@@ -66,7 +66,6 @@ For this course, examples of case studies are
  * Present and challenge arguments whether or not a proposed treatment of PD calibration is compliant with regulation
  * Work out an outline of a minimum viable approach for estimating in-default LGD parameters
  * Compare and understand different treatments of PD calibration based on prepared code samples and realistic data sets
-
 
 
 Please [Contact us]({{< ref "#contact" >}} "Contact Us") for details and options.

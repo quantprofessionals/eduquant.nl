@@ -67,7 +67,7 @@ Courses can be organised in an offline, an online, or a combined on- and offline
 
 #### Offline
 
-Offline sessions can be offered on-premise as well as organized off site (priced at cost) - [contact us]({{< ref "#contact" >}} "Contact Us") to discuss options. For groups of over 6 partipants, we recommend to have the option to break out in separate groups of up to 4 participants. Offline sessions will be webcast, the main presentations recorded and shared for a limited time with participants for later review.
+Offline sessions can be offered on-premise as well as organized off site (priced at cost) - [contact us]({{< ref "/#contact" >}} "Contact Us") to discuss options. For groups of over 6 partipants, we recommend to have the option to break out in separate groups of up to 4 participants. Offline sessions will be webcast, the main presentations recorded and shared for a limited time with participants for later review.
 
 #### Online
 

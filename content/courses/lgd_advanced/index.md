@@ -18,7 +18,7 @@ image:
 nr_sessions : "6"
 session : "4 hours"
 ---
-{{% button href= "#contact" icon="fa fa-plus-circle" %}}Apply now{{% /button %}}
+{{% button href= "/#contact" icon="fa fa-plus-circle" %}}Apply now{{% /button %}}
 
 ## Content
 
@@ -98,9 +98,6 @@ For this course, examples of case studies are
  * Give a comprehensive list of potential deficiencies of an LGD estimation based on shared documentation
  * Identify the major policy decisions underlying a compliant in-default LGD estimation
  * Define an approach for a treatment of potential biases due to representativeness issues, given documentation and data on portfolio characteristics and the opportunity of a Q&A session with a business representative
-
-
-
 
 Please [Contact us]({{< ref "#contact" >}} "Contact Us") for details and options.## Pricing
 

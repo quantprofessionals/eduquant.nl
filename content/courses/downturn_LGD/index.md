@@ -107,8 +107,6 @@ For this course, examples of case studies are
  * Define an approach for identyfing an economic downturn and estimating downturn LGD values given documentation and data on portfolio characteristics, economic series and the opportunity of a Q&A session with a business representative 
 
 
-
-
 Please [Contact us]({{< ref "#contact" >}} "Contact Us") for details and options.
 ## Pricing
 

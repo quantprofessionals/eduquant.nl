@@ -17,7 +17,7 @@ session : "4 hours"
 
 ---
 
-{{% button href= "#contact" icon="fa fa-plus-circle" %}}Apply now{{% /button %}}
+{{% button href= "/#contact" icon="fa fa-plus-circle" %}}Apply now{{% /button %}}
 
 ## Content
 
@@ -67,9 +67,6 @@ For this course, examples of case studies are
  * Give a comprehensive list of potential deficiencies of a downturn LGD derivation based on shared documentation
  * Identify the major policy decisions underlying a compliant EAD estimation for a retail portfolio
  * Compare and understand the impact of different treatments of LGD estimation based on prepared code samples and realistic data sets
-
-
-
 
 Please [Contact us]({{< ref "#contact" >}} "Contact Us") for details and options.
 ## Pricing
