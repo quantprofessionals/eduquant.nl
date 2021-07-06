@@ -80,7 +80,7 @@ Participants are advised to come equipped with a basic understanding of:
 
 ## Schedule
 
-The course will be taught over 6 sessions of each 4 hours, with at most 2 sessions per week. The final session schedule will be planned in coordination with participants 6 weeks prior, and confirmed at the latest 4 weeks prior to the start of the course.
+The course will be taught over 6 sessions of each 4 hours, with at most 2 sessions per week. The final session schedule will be planned in coordination with participants prior to the start of the course.
 
 ## Format
 
@@ -134,11 +134,5 @@ For online participation we leverage the [ikuvikyu](https://ikyvikyo.org)<sub><s
 * interactive polling and surveys (for focused problem sets)
 
 These features allow the trainers to engage with participants collectively as well as in smaller groups, or individually, for case studies. The main presentations will be recorded and shared for a limited time with participants for later review.
-
-## Date and duration
-
-The course is comprised of three morning or afternoon sessions of 4 hrs each, once per week. Please [Contact us]({{< ref "/#contact" >}} "Contact Us") for details and options for the schedule.
-
-## Pricing
 
 Pricing is based on the level and duration of the course, and the number of participants per application. [See here]({{< ref "/pricing" >}} "Pricing") for additional information.

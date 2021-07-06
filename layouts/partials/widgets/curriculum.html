@@ -12,8 +12,7 @@
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
 
-    {{ with $st.Title }}<h1>{{ . | markdownify | emojify }}</h1>{{ end }}
-    {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+    {{ with $st.Title }}<h2>{{ . | markdownify | emojify }}</h2>{{ end }}
 
   </div>
   <div class="col-12 col-lg-8">
@@ -23,10 +22,8 @@
 
 <div class="margin-auto">
 
-  <div class="center-text">
     {{ with $st.Title }}<h1 class="mt-0">{{ . | markdownify | emojify }}</h1>{{ end }}
-    {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
-  </div>
+
   <div>
 {{ end }}
 
@@ -65,6 +62,8 @@
       </div>
       {{ end }}
     {{ end }}
+
+    {{ with $st.Params.subtitle }}<h1>{{ . | markdownify | emojify }}</h1>{{ end }}
 
     <div class="{{ if or $st.Params.content.filter_button (eq $st.Params.design.view 3) }}isotope projects-container{{end}} {{if eq $st.Params.design.view 3}}js-layout-masonry{{else}}row js-layout-row{{end}} {{ if eq $st.Params.design.view 5 }}project-showcase mt-5{{end}}">
       {{ range $idx, $item := where site.RegularPages "Type" $items_type }}

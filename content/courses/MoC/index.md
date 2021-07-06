@@ -72,7 +72,7 @@ Participants are advised to come equipped with a basic understanding of:
 
 ## Schedule
 
-The course will be taught over 4 sessions of each 4 hours, with at most 2 sessions per week. The final session schedule will be planned in coordination with participants 6 weeks prior, and confirmed at the latest 4 weeks prior to the start of the course.
+The course will be taught over 4 sessions of each 4 hours, with at most 2 sessions per week. The final session schedule will be planned in coordination with participants prior to the start of the course.
 
 ## Format
 
@@ -110,30 +110,8 @@ For this course, examples of case studies are
  * Compare the strengths and weaknesses of alternative MoC estimation approaches related to representativeness
  * Explain the relation between model risk and MoC to front office risk management
 
-### Online and offline
 
-This course can be organised in an offline, an online, or a combined on- and offline version. 
-
-#### Offline
-
-Offline sessions can be offered on-premise as well as organized off site (priced at cost) - [contact us]({{< ref "/#contact" >}} "Contact Us") to discuss options. For all but the smallest groups (7 or more), we recommend to have the option to break out in separate groups of up to 4 participants. Offline sessions will be webcast, the main presentations recorded and shared for a limited time with participants for later review.
-
-#### Online
-
-For online participation we leverage the [ikuvikyu](https://ikyvikyo.org)<sub><sup>Ⓡ</sup></sub>  platform which offers, besides the usual features for webconferencing, the options to 
-
- * opening breakout sessions for participants (for collaborative case studies)
- * multiway sharing and presenting (for sharing and presenting case study results)
- * interactive polling and surveys (for focused problem sets)
- 
-These features allow the trainers to engage with participants collectively as well as in smaller groups, or individually, for case studies. The main presentations will be recorded and shared for a limited time with participants for later review.
-
-
-## Date and duration
-
-The course is comprised of three morning or afternoon sessions of 4 hrs each, once per week. Please [Contact us]({{< ref "/#contact" >}} "Contact Us") for details and options for the schedule.
-
-
+Please [Contact us]({{< ref "#contact" >}} "Contact Us") for details and options.
 ## Pricing
 
 Pricing is based on the level and duration of the course, and the number of participants per application. [See here]({{< ref "/pricing" >}} "Pricing") for additional information.

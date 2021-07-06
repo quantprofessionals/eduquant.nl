@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Curriculum"
-subtitle = ""
+title = "Tracks"
+subtitle = "Modules"
 
 [content]
   # Page type to display. E.g. project.
@@ -22,20 +22,22 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-    name = "All"
+    name = "All modules"
     tag = "*"
 
   [[content.filter_button]]
-    name = "Basic"
+    name = "Junior"
     tag = "Basic"
-  
-  [[content.filter_button]]
-    name = "Advanced"
-    tag = "Advanced"
 
   [[content.filter_button]]
-    name = "IRB"
-    tag = "IRB"    
+    name = "Medior"
+    tag = "IRB"  
+  
+  [[content.filter_button]]
+    name = "Senior"
+    tag = "Advanced"
+
+  
 
 
 [design]
@@ -48,9 +50,8 @@ subtitle = ""
   #   3 = Card
   #   5 = Showcase
   view = 3
-
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  flip_alt_rows = true
 
 [design.background]
   # Apply a background color, gradient, or image.
