@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 fee: "1.599"
 summary : A deep dive into all conceptual details and regulatory requirements for
   the estimation of PD values.
@@ -7,9 +7,9 @@ toc: true
 title: PD
 date: 2020-09-04T00:00:00.000Z
 featured: false
-tags:
-  - Advanced
-  - IRB
+tags:  # tracks to which this module is added
+  - developer
+  - validator
 image:
   caption: ""
   focal_point: Smart
@@ -19,7 +19,7 @@ image:
 nr_sessions : "6"
 session : "4 hours"
 ---
-{{% button href= "#contact" icon="fa fa-plus-circle" %}}Apply now{{% /button %}}
+{{% button href= "/#contact" con="fa fa-plus-circle" %}}Apply now{{% /button %}}
 
 ## Content
 
@@ -45,7 +45,7 @@ This deep-dive course provides the context of regulatory requirements with regar
 * How should PD data and methodological deficiencies and uncertainties be captured in a Margin of Conservatism?
 * What are the implications of the regulatory model use requirements for the model design?
 
-The exact course contents are adapted based on a survey under participants 4-6 weeks before start of the course.
+
 
 ## Learning Goals
 
@@ -123,7 +123,7 @@ This course can be organised in an offline, an online, or a combined on- and off
 
 #### Offline
 
-Offline sessions can be offered on-premise as well as organized off site (priced at cost) - [contact us]({{< ref "#contact" >}} "Contact Us") to discuss options. For all but the smallest groups (7 or more), we recommend to have the option to break out in separate groups of up to 4 participants. Offline sessions will be webcast, the main presentations recorded and shared for a limited time with participants for later review.
+Offline sessions can be offered on-premise as well as organized off site (priced at cost) - [contact us]({{< ref "#contact" >}} "Contact Us") to discuss options. For"/#contact"  smallest groups (7 or more), we recommend to have the option to break out in separate groups of up to 4 participants. Offline sessions will be webcast, the main presentations recorded and shared for a limited time with participants for later review.
 
 #### Online
 
@@ -137,4 +137,4 @@ These features allow the trainers to engage with participants collectively as we
 
 Please [Contact us]({{< ref "#contact" >}} "Contact Us") for details and options.## Pricing
 
-Pricing is based on the level and duration of the course, and the number of participants per application. [See here]({{< ref "/pricing" >}} "Pricing") for additional information.
+Pricing is based on the level and duration of the course, and the number of participants per applicatio"/#contact" ]({{< ref "/pricing" >}} "Pricing") for additional information.

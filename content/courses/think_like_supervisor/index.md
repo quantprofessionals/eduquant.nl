@@ -1,7 +1,7 @@
 ---
 title: Think Like a Supervisor
 summary: Understand IRB regulation and the supervisory process from the point of view of a supervisor.
-tags:
+tags:  # tracks to which this module is added
 - Advanced
 - IRB
 date: "2020-09-04T00:00:00Z"
@@ -29,7 +29,7 @@ The model validator must learn to question the credit risk model parameters, aud
 
 In this course, participants learn how to validate credit risk models in the context of the CRR and underlying regulatory technical standards and guidelines, as well as supervisory expectations. Statistical foundations of model validation will be explained in combination with practical guidance for applying these. Attention will also be given to validating documentation and more technical aspects of verifying the correctness and reproducibility results. The knowledge will be acquired through several real-life case studies and exercises.
 
-The exact course contents are adapted based on a survey under participants 4-6 weeks before start of the course.
+
 
 ## Learning Goals
 
@@ -49,13 +49,13 @@ The course is intended for
 * Specialist supervisors wishing to gain insight in internal model validation
 
 ### Prerequisites
-
+The course will be taught in English. 
 Prior basic knowledge of statistical testing and modeling is strongly advised. Some experience in programming with `python` or a statistical computing language may be helpful for the case studies, but is not required.
 
 
 ## Schedule
 
-The course will be taught over 8 sessions of each 4 hours, with at most 2 sessions per week. The final session schedule will be planned in coordination with participants prior to the start of the course.
+The course will be taught over {{< param nr_sessions >}} sessions of each {{< param session >}}. The final session schedule will be planned in coordination with participants prior to the start of the course.
 
 
 

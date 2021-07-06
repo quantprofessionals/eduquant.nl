@@ -229,20 +229,41 @@
   }
 }
 
+ /* controls the layout of portfolio/curriculum cards */
+
+
 .project-card {
   position: relative;
   width: calc(
-    10% - 13.3px
-  ); /* Fluid 3 columns ($gutter * ($number_of_cols - 1) / $number_of_cols; following https://stackoverflow.com/a/51290967) */
+    20% - 8px
+  ); /* Fluid 5 columns ($gutter * ($number_of_cols - 1) / $number_of_cols; following https://stackoverflow.com/a/51290967) */
 }
-@media screen and (max-width: 1199px) {
+
+@media screen and (max-width: 1136px) {
   .project-card {
     width: calc(
-      23.33% - 10px
+      25% - 8px
     ); /* Fluid 2 columns ($gutter * ($number_of_cols - 1) / $number_of_cols; following https://stackoverflow.com/a/51290967) */
   }
 }
+
 @media screen and (max-width: 768px) {
+  .project-card {
+    width: calc(
+      33.33% - 10px
+    ); /* Fluid 2 columns ($gutter * ($number_of_cols - 1) / $number_of_cols; following https://stackoverflow.com/a/51290967) */
+  }
+}
+
+@media screen and (max-width: 360px) {
+  .project-card {
+    width: calc(
+      50% - 8.0px
+    ); /* 2 column */
+  }
+}
+
+@media screen and (max-width: 499px) {
   .project-card {
     width: 100%; /* 1 column */
   }

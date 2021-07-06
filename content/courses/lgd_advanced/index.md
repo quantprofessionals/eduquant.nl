@@ -1,14 +1,14 @@
 ---
-draft: false
+draft: true
 fee: "1.599"
-summary: A deep dive into all conceptual details and regulatory requirements for the estimation of LGD values.
+summary: Modelling approaches & regulatory requirements for the estimation of LGD parameters.
 toc: true
 title: LGD
 date: 2020-09-04T00:00:00Z
 featured: false
-tags:
-  - Advanced
-  - IRB
+tags:  # tracks to which this module is added
+  - developer
+
 image:
   caption: ""
   focal_point: Smart
@@ -48,7 +48,7 @@ This deep-dive course provides the context of regulatory requirements with regar
  * What is a sound backtesting approach for the LGD risk parameter? 
  * How should LGD data and methodological deficiencies and uncertainties be captured in a Margin of Conservatism?
 
-The exact course contents are adapted based on a survey under participants 4-6 weeks before start of the course.
+
 
 ## Learning Goals
 
@@ -76,7 +76,7 @@ The course is intended for:
 
 
 ### Prerequisites
-
+The course will be taught in English. 
 Participants are advised to come equipped with a basic understanding of:
 
  * the calculation of capital requirements
@@ -86,7 +86,7 @@ Participants are advised to come equipped with a basic understanding of:
 
 ## Schedule
 
-The course will be taught over 6 sessions of each 4 hours, with at most 2 sessions per week. The final session schedule will be planned in coordination with participants prior to the start of the course.
+The course will be taught over {{< param nr_sessions >}} sessions of each {{< param session >}}. The final session schedule will be planned in coordination with participants prior to the start of the course.
 
 
 

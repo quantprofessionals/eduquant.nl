@@ -7,9 +7,9 @@ toc: true
 title: Downturn LGD & CCF
 date: 2020-09-04T00:00:00Z
 featured: false
-tags:
-  - Advanced
-  - IRB
+tags:  # tracks to which this module is added
+  - developer
+  - validator
 image:
   caption: ""
   focal_point: Smart
@@ -36,7 +36,7 @@ This deep-dive course provides context of regulatory requirements for identifyin
 * How should the downturn LGD for in-default exposures be modelled and what is the relation to the EL$_{\text{BE}}$?
 * What are the main drivers of model risk for Downturn LGD and CCF estimates, and which Margin of Conservatism items should be considered for Downturn quantification purposes?
 
-The exact course contents are adapted based on a survey under participants 4-6 weeks before start of the course.
+
 
 ## Learning Goals
 
@@ -83,7 +83,7 @@ The course is intended for:
 * Credit risk managers wishing to enhance their understanding of Downturn LGD modelling
 
 ### Prerequisites
-
+The course will be taught in English. 
 Participants are advised to come equipped with aasic understanding of: 
 
 * the calculation of capital requirements
@@ -93,7 +93,7 @@ Participants are advised to come equipped with aasic understanding of:
 
 ## Schedule
 
-The course will be taught over 4 sessions of each 4 hours, with at most 2 sessions per week. The final session schedule will be planned in coordination with participants prior to the start of the course.
+The course will be taught over {{< param nr_sessions >}} sessions of each {{< param session >}}. The final session schedule will be planned in coordination with participants prior to the start of the course.
 
 
 

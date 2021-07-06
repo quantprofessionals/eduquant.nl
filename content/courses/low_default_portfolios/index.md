@@ -1,7 +1,7 @@
 ---
 title: Low-default portfolios
 summary: Deal with specific challenges and regulatory requirements for low-default portfolios under IRB.
-tags:
+tags:  # tracks to which this module is added
 - Advanced
 - IRB
 date: "2020-09-04T00:00:00Z"
@@ -37,7 +37,7 @@ The term *low-default portfolio* typically denotes credit exposures to large cor
  * low-risk niche lending activities
  * smaller portfolios 
 
-The exact course contents are adapted based on a survey under participants 4-6 weeks before start of the course.
+
 
 ## Learning Goals
 <!-- learning goals should describe problem solving strategies -->
@@ -60,12 +60,12 @@ The course is intended for
 * Credit risk managers wishing to enhance their understanding of IRB modelling for LDP
 
 ### Prerequisites
-
+The course will be taught in English. 
 Participants are advised to come equipped with a broad understanding of credit risk modelling and IRB regulation.
 
 ## Schedule
 
-The course will be taught over 3 sessions of each 4 hours, with at most 2 sessions per week. The final session schedule will be planned in coordination with participants prior to the start of the course.
+The course will be taught over {{< param nr_sessions >}} sessions of each {{< param session >}}. The final session schedule will be planned in coordination with participants prior to the start of the course.
 
 
 
