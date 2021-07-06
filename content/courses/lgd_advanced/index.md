@@ -1,9 +1,9 @@
 ---
 draft: true
 fee: "1.599"
-summary: Modelling approaches & regulatory requirements for the estimation of LGD parameters.
+summary: Advanced topics in LGD estimation
 toc: true
-title: LGD
+title: LGD (advanced)
 date: 2020-09-04T00:00:00Z
 featured: false
 tags:  # tracks to which this module is added
@@ -67,7 +67,7 @@ After completing the course, the participants will gain in-depth knowledge on th
 
 ## Target Audience
 
-The course is intended for:
+The course module is intended for:
 
  * IRB model developers and team leads with a specific interest in advanced LGD modelling topics.
  * Model validators and team leads with similar interests.
@@ -76,7 +76,7 @@ The course is intended for:
 
 
 ### Prerequisites
-The course will be taught in English. 
+The material will be taught in English. 
 Participants are advised to come equipped with a basic understanding of:
 
  * the calculation of capital requirements
@@ -86,13 +86,13 @@ Participants are advised to come equipped with a basic understanding of:
 
 ## Schedule
 
-The course will be taught over {{< param nr_sessions >}} sessions of each {{< param session >}}. The final session schedule will be planned in coordination with participants prior to the start of the course.
+The module will be taught over{{< param nr_sessions >}} sessions of each {{< param session >}}. The track schedule will be planned in coordination with the client based on the selection of modules.
 
 
 
 #### Example case studies
 
-For this course, examples of case studies are 
+For this module, examples of case studies are 
 
  * Identify dependencies of each step in LGD estimation on important methodological considerations, such as the method of deriving the maximum period of recovery or the choice of recovery cash flow proxy
  * Give a comprehensive list of potential deficiencies of an LGD estimation based on shared documentation

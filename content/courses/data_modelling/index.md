@@ -4,6 +4,7 @@ summary: Understand credit risk data aggregation, lineage, traceability and data
 tags:  # tracks to which this module is added
 - developer
 - validator
+- analyst
 date: "2020-09-04T00:00:00Z"
 toc: true
 
@@ -25,7 +26,7 @@ Understand credit risk data models, risk data aggregation for model development,
 
 ## Learning Goals
 
-After this course, you will be able to
+After this module, you will be able to
 
  * Spot common pitfalls in credit risk data aggregation
  * Appreciate the interplay between risk data aggregation and risk model development
@@ -36,7 +37,7 @@ After this course, you will be able to
 
 ## Target Audience
 
-The course is intended for 
+The course module is intended for 
 
 * Credit Risk Model Developers
 * Credit Risk Model Validators and Auditors
@@ -44,7 +45,7 @@ The course is intended for
 * Supervisor Specialists
 
 ### Prerequisites
-The course will be taught in English. 
+The material will be taught in English. 
 Participants are advised to come equipped with basic understanding of:
 
  * (Credit) risk management
@@ -55,7 +56,7 @@ Some experience or prior training in programming with `SQL`, `python` or `R` wil
 
 ## Schedule
 
-The course will be taught over {{< param nr_sessions >}} sessions of each {{< param session >}}. The final session schedule will be planned in coordination with participants prior to the start of the course.
+The module will be taught over{{< param nr_sessions >}} sessions of each {{< param session >}}. The track schedule will be planned in coordination with the client based on the selection of modules.
 
 Please [Contact us]({{< ref "/#contact" >}} "Contact Us") for details and options.
 

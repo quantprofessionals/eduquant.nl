@@ -29,7 +29,7 @@ Participants will be challenged to understand and deal with common impediments t
 
 ## Learning Goals
 
-After this course, you will be able to
+After this module, you will be able to
 
  * Understand the purpose, requirements and practice of Model Governance and Model Risk Management
  * Know the role of model validation and audit, and the three lines of defense against model risk
@@ -38,13 +38,13 @@ After this course, you will be able to
 
 ## Target Audience
 
-The course is intended for 
+The course module is intended for 
 
 * IRB model developers and validators 
 * Auditors
 
 ### Prerequisites
-The course will be taught in English. 
+The material will be taught in English. 
 
 Participants are advised to come equipped with basic understanding of:
 
@@ -54,12 +54,12 @@ Participants are advised to come equipped with basic understanding of:
 
 ## Schedule
 
-The course will be taught over {{< param nr_sessions >}} sessions of each {{< param session >}}. The final session schedule will be planned in coordination with participants prior to the start of the course.
+The module will be taught over{{< param nr_sessions >}} sessions of each {{< param session >}}. The track schedule will be planned in coordination with the client based on the selection of modules.
 
 
 #### Example case studies
 
-For this course, examples of case studies are 
+For this module, examples of case studies are 
 
  * Presented with a model development planning, identify main weaknesses and risks from the point of view of validation, audit and the supervisor
  * Discuss simulated audits and validations of internal models

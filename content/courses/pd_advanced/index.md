@@ -63,7 +63,7 @@ After completing the course, participants will
 
 ## Target Audience
 
-The course is intended for:
+The course module is intended for:
 
 * IRB model developers and team leads with a specific interest in advanced PD modelling topics.
 * Model validators and team leads with similar interests.
@@ -80,7 +80,7 @@ Participants are advised to come equipped with a basic understanding of:
 
 ## Schedule
 
-The course will be taught over 6 sessions of each 4 hours, with at most 2 sessions per week. The final session schedule will be planned in coordination with participants prior to the start of the course.
+The module will be taught over6 sessions of each 4 hours, with at most 2 sessions per week. The track schedule will be planned in coordination with the client based on the selection of modules.
 
 ## Format
 
@@ -110,7 +110,7 @@ At eduquant we believe specialist professionals are best helped by acquiring pro
 
 #### Example case studies
 
-For this course, examples of case studies are 
+For this module, examples of case studies are 
 
 * Define follow-up actions/treatments based on assessments of the data representativeness with regard to the model development and calibration data.
 * Outline analyses to assess whether the historical observation period is representative for the likely range of variability of one-year default rates and determine whether adjustments to the long-run average default rate are needed.

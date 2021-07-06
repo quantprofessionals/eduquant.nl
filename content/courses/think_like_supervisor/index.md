@@ -1,9 +1,10 @@
 ---
 title: Think Like a Supervisor
-summary: Understand IRB regulation and the supervisory process from the point of view of a supervisor.
+summary: Understand regulation and the supervisory process from the point of view of a supervisor.
 tags:  # tracks to which this module is added
-- Advanced
-- IRB
+- developer
+- validator
+- auditor
 date: "2020-09-04T00:00:00Z"
 toc: true
 
@@ -21,52 +22,37 @@ session : "4 hours"
 
 ## Content
 
-Risk quants approach regulatory modelling differently than supervisors do. A common source of  
+Under the ECB/SSM, banking supervision has become a multilayered and sometimes opaque instrument. Effectively managing regulatory relations requires a thorough understanding of the supervisory process and its participants. 
 
-Model validation, the independent and effective challenge of risk model development, is a cornerstone of model risk control at larger and more mature financial institutions.
-
-The model validator must learn to question the credit risk model parameters, audit the decision making process and understand the trade-offs of the resulting model design choices. They need to understand the broader context of their inquiries and translate these into a sound advice to executive management. In addition, they need to understand regulation and internal policies, and the expectations of supervisors.
-
-In this course, participants learn how to validate credit risk models in the context of the CRR and underlying regulatory technical standards and guidelines, as well as supervisory expectations. Statistical foundations of model validation will be explained in combination with practical guidance for applying these. Attention will also be given to validating documentation and more technical aspects of verifying the correctness and reproducibility results. The knowledge will be acquired through several real-life case studies and exercises.
-
+In addition, in order to appreciate the context of specific supervisory measures, experts and managers should acquaint themselves with with macroprudential policy, its interaction with supervision, and the longer term regulatory agenda with respect to internal models.
 
 
 ## Learning Goals
 
-After completing the course, participants will
+After following this module, participants will
 
- * be able to find, understand and interpret regulatory requirements for banks using internal models, and translate these into specific assessments   
- * know and reflect on the role and responsibilities of the model validation function within the bank
- * learn to question decision making processes and verify the reproducibility and correctness of results
- * understand and use procedures for statistical testing, benchmarking and the use of challenger models  
- * learn to use specific statistical tests to challenge key decisions in modelling probability of default (PD), loss given default (LGD), and exposure at default (EAD) models
-
+ * identify participants and stakeholders in the supervisory process
+ * understand the roles of on-site supervision and the joint supervisory teams
+ * gain insights in the internal processes of the ECB
+ * have a broad overview of macroprudential instruments and their relation to banking supervision
+ 
 ## Target Audience
 
-The course is intended for 
+The course module is intended for (senior) staff who want to deepen their understanding of the supervisory process and regulation
 
-* IRB model validators with little or no prior experience in the field
-* Specialist supervisors wishing to gain insight in internal model validation
 
 ### Prerequisites
-The course will be taught in English. 
-Prior basic knowledge of statistical testing and modeling is strongly advised. Some experience in programming with `python` or a statistical computing language may be helpful for the case studies, but is not required.
-
+The material will be taught in English. Knowledge of IRB regulation and the supervisory context is recommended.
 
 ## Schedule
 
-The course will be taught over {{< param nr_sessions >}} sessions of each {{< param session >}}. The final session schedule will be planned in coordination with participants prior to the start of the course.
-
+The module will be taught over{{< param nr_sessions >}} sessions of each {{< param session >}}. The track schedule will be planned in coordination with the client based on the selection of modules.
 
 
 #### Example case studies
 
-For this course, examples of case studies are 
+For this module, case studies will focus on 
 
- * Present arguments whether or not a proposed treatment of PD calibration for low-default portfolios is compliant with regulation
- * Give a comprehensive list of potential deficiencies of a downturn LGD derivation based on shared documentation
- * Identify the major policy decisions underlying a compliant EAD estimation for a retail portfolio
- * Compare and understand the impact of different treatments of LGD estimation based on prepared code samples and realistic data sets
 
 Please [Contact us]({{< ref "#contact" >}} "Contact Us") for details and options.
 ## Pricing

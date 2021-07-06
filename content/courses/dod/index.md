@@ -2,8 +2,8 @@
 title: Definition of Default
 summary: Deal with specific challenges for IRB following the introduction of new regulation on the definition of default
 tags:  # tracks to which this module is added
-- Advanced
-- IRB
+- developer
+- analyst
 date: "2020-09-04T00:00:00Z"
 toc: true
 
@@ -12,7 +12,7 @@ image:
   focal_point: "Smart"
   preview_only: false
 
-nr_sessions : "4"
+nr_sessions : "2"
 session : "4 hours"
 
 ---
@@ -54,7 +54,7 @@ In this course you will gain knowledge of the following topics:
 
 ## Target Audience
 
-The course is intended for
+The course module is intended for
 
  * IRB model developers and validators
  * Auditors 
@@ -62,18 +62,18 @@ The course is intended for
  * Credit risk managers
 
 ### Prerequisites
-The course will be taught in English. 
+The material will be taught in English. 
 Participants are advised to come equipped with a broad understanding of credit risk, Basel and capital requirements regulation.
 
 ## Schedule
 
-The course will be taught over {{< param nr_sessions >}} sessions of each {{< param session >}}. The final session schedule will be planned in coordination with participants prior to the start of the course.
+The module will be taught over{{< param nr_sessions >}} sessions of each {{< param session >}}. The track schedule will be planned in coordination with the client based on the selection of modules.
 
 
 
 #### Example case studies
 
-For this course, examples of case studies are 
+For this module, examples of case studies are 
 
  * Present arguments whether or not a proposed treatment of PD calibration for low-default portfolios is compliant with regulation
  * Give a comprehensive list of potential deficiencies of a downturn LGD derivation based on shared documentation
