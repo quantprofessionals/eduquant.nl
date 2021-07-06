@@ -138,7 +138,7 @@ This course can be organised in an offline, an online, or a combined on- and off
 
 #### Offline
 
-Offline sessions can be offered on-premise as well as organized off site (priced at cost) - [contact us]({{< ref "#contact" >}} "Contact Us") to discuss options. For all but the smallest groups (7 or more), we recommend to have the option to break out in separate groups of up to 4 participants. Offline sessions will be webcast, the main presentations recorded and shared for a limited time with participants for later review.
+Offline sessions can be offered on-premise as well as organized off site (priced at cost) - [contact us]({{< ref "/#contact" >}} "Contact Us") to discuss options. For all but the smallest groups (7 or more), we recommend to have the option to break out in separate groups of up to 4 participants. Offline sessions will be webcast, the main presentations recorded and shared for a limited time with participants for later review.
 
 #### Online
 
@@ -153,7 +153,7 @@ These features allow the trainers to engage with participants collectively as we
 
 ## Date and duration
 
-The course is comprised of three morning or afternoon sessions of 4 hrs each, once per week. Please [Contact us]({{< ref "#contact" >}} "Contact Us") for details and options for the schedule.
+The course is comprised of three morning or afternoon sessions of 4 hrs each, once per week. Please [Contact us]({{< ref "/#contact" >}} "Contact Us") for details and options for the schedule.
 
 
 ## Pricing
