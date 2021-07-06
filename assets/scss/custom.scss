@@ -229,6 +229,26 @@
   }
 }
 
+.project-card {
+  position: relative;
+  width: calc(
+    10% - 13.3px
+  ); /* Fluid 3 columns ($gutter * ($number_of_cols - 1) / $number_of_cols; following https://stackoverflow.com/a/51290967) */
+}
+@media screen and (max-width: 1199px) {
+  .project-card {
+    width: calc(
+      23.33% - 10px
+    ); /* Fluid 2 columns ($gutter * ($number_of_cols - 1) / $number_of_cols; following https://stackoverflow.com/a/51290967) */
+  }
+}
+@media screen and (max-width: 768px) {
+  .project-card {
+    width: 100%; /* 1 column */
+  }
+}
+
+
 
 //
 // Columns
