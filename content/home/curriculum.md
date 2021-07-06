@@ -26,16 +26,16 @@ subtitle = "Modules"
     tag = "*"
 
   [[content.filter_button]]
-    name = "Junior"
-    tag = "Basic"
+    name = "Developer"
+    tag = "developer"
 
   [[content.filter_button]]
-    name = "Medior"
-    tag = "IRB"  
+    name = "Validator"
+    tag = "validator"  
   
   [[content.filter_button]]
-    name = "Senior"
-    tag = "Advanced"
+    name = "Auditor"
+    tag = "auditor"
 
   
 

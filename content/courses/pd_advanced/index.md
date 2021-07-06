@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 fee: "1.599"
 summary : A deep dive into all conceptual details and regulatory requirements for
   the estimation of PD values.
@@ -7,9 +7,9 @@ toc: true
 title: PD
 date: 2020-09-04T00:00:00.000Z
 featured: false
-tags:
-  - Advanced
-  - IRB
+tags:  # tracks to which this module is added
+  - developer
+  - validator
 image:
   caption: ""
   focal_point: Smart
@@ -45,7 +45,7 @@ This deep-dive course provides the context of regulatory requirements with regar
 * How should PD data and methodological deficiencies and uncertainties be captured in a Margin of Conservatism?
 * What are the implications of the regulatory model use requirements for the model design?
 
-The exact course contents are adapted based on a survey under participants 4-6 weeks before start of the course.
+
 
 ## Learning Goals
 

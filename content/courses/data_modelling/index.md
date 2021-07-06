@@ -1,9 +1,9 @@
 ---
 title: Credit Risk Data Modelling
-summary: Understand credit risk panel data, lineage, traceability, data quality, PERDARR.
-tags:
-- Basic
-- IRB
+summary: Understand credit risk data aggregation, lineage, traceability and data quality management.
+tags:  # tracks to which this module is added
+- developer
+- validator
 date: "2020-09-04T00:00:00Z"
 toc: true
 
@@ -44,7 +44,7 @@ The course is intended for
 * Supervisor Specialists
 
 ### Prerequisites
-
+The course will be taught in English. 
 Participants are advised to come equipped with basic understanding of:
 
  * (Credit) risk management
@@ -55,7 +55,7 @@ Some experience or prior training in programming with `SQL`, `python` or `R` wil
 
 ## Schedule
 
-The course will be taught over 3 sessions of each 4 hours, with at most 2 sessions per week. The final session schedule will be planned in coordination with participants prior to the start of the course.
+The course will be taught over {{< param nr_sessions >}} sessions of each {{< param session >}}. The final session schedule will be planned in coordination with participants prior to the start of the course.
 
 Please [Contact us]({{< ref "/#contact" >}} "Contact Us") for details and options.
 

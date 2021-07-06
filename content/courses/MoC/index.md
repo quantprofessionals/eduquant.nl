@@ -1,7 +1,7 @@
 ---
 title: Margin of Conservatism
 summary: Understand the regulation and concepts behind the Margin of Conservatism for IRB models
-tags:
+tags:  # tracks to which this module is added
 - Advanced
 - IRB
 date: "2020-09-04T00:00:00Z"
@@ -40,7 +40,7 @@ This advanced course brings to model developers and model validators a thorough 
   * Aggregation of the Margin of Conservatism to the risk parameter level, including Downturn LGD
   * Requirements for the use of human judgment
 
-The exact course contents are adapted based on a survey under participants 4-6 weeks before start of the course.
+
 
 
 ## Learning Goals
@@ -64,7 +64,7 @@ The course is intended for:
 
 
 ### Prerequisites
-
+The course will be taught in English. 
 Participants are advised to come equipped with a basic understanding of: 
 
  * the calculation of minimum capital requirements
@@ -72,7 +72,7 @@ Participants are advised to come equipped with a basic understanding of:
 
 ## Schedule
 
-The course will be taught over 4 sessions of each 4 hours, with at most 2 sessions per week. The final session schedule will be planned in coordination with participants prior to the start of the course.
+The course will be taught over {{< param nr_sessions >}} sessions of each {{< param session >}}. The final session schedule will be planned in coordination with participants prior to the start of the course.
 
 ## Format
 
