@@ -18,7 +18,7 @@ session : "4 hours"
 
 ---
 
-{{% button href= "#contact" icon="fa fa-plus-circle" %}}Apply now{{% /button %}}
+{{% button href= "/#contact" icon="fa fa-plus-circle" %}}Apply now{{% /button %}}
 
 ## Content
 
@@ -52,9 +52,6 @@ The module will be taught over{{< param nr_sessions >}} sessions of each {{< par
 #### Example case studies
 
 For this module, case studies will focus on 
-
-
-
 
 
 Please [Contact us]({{< ref "#contact" >}} "Contact Us") for details and options.

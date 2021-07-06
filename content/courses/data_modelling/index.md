@@ -13,7 +13,7 @@ image:
   focal_point: "Smart"
   preview_only: false
 
-nr_sessions : "2"
+nr_sessions : "3"
 session : "4 hours"
 
 ---

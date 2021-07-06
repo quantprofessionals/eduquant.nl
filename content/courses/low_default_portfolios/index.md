@@ -84,7 +84,7 @@ This course can be organised in an offline, an online, or a combined on- and off
 
 #### Offline
 
-Offline sessions can be offered on-premise as well as organized off site (priced at cost) - [contact us]({{< ref "#contact" >}} "Contact Us") to discuss options. For all but the smallest groups (7 or more), we recommend to have the option to break out in separate groups of up to 4 participants. Offline sessions will be webcast, the main presentations recorded and shared for a limited time with participants for later review.
+Offline sessions can be offered on-premise as well as organized off site (priced at cost) - [contact us]({{< ref "/#contact" >}} "Contact Us") to discuss options. For all but the smallest groups (7 or more), we recommend to have the option to break out in separate groups of up to 4 participants. Offline sessions will be webcast, the main presentations recorded and shared for a limited time with participants for later review.
 
 #### Online
 
@@ -97,7 +97,6 @@ For online participation we leverage the [ikuvikyu](https://ikyvikyo.org) <sub><
 These features allow the trainers to engage with participants collectively as well as in smaller groups, or individually, for case studies. The main presentations will be recorded and shared for a limited time with participants for later review.
 
 
-Please [Contact us]({{< ref "#contact" >}} "Contact Us") for details and options.
 ## Pricing
 
 Pricing is based on the level and duration of the course, and the number of participants per application. [See here]({{< ref "/pricing" >}} "Pricing") for additional information.
