@@ -9,15 +9,25 @@
   weight = 10
 
 
-[[main]]
-  name = "Why Us"
-  url = "slides/pitchdeck"
-  weight = 12
+# [[main]]
+#   name = "Why Us"
+#   url = "slides/pitchdeck"
+#   weight = 12
 
 [[main]]
-  name = "Courses"
+  name = "Tracks"
+  url = "tracks"
+  weight = 40
+
+[[main]]
+  name = "Modules"
   url = "#curriculum"
   weight = 50
+
+[[main]]
+  name = "Teaching format"
+  url = "teaching_format"
+  weight = 55
 
 [[main]]
   name = "Pricing"

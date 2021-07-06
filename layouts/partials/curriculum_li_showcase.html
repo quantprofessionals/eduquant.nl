@@ -55,7 +55,7 @@
     <div class="col-12 col-md-6 order-first {{$order}}">
       {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
       {{ with $resource }}
-      {{ $image := .Fill (printf "550x400 %s") }}
+      {{ $image := .Fill (printf "550x200 %s") }}
       {{if $do_link}}<a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{end}}
         <img src="{{ $image.RelPermalink }}" alt="">
       {{if $do_link}}</a>{{end}}
