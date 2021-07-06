@@ -58,6 +58,7 @@ Some experience or prior training in programming with `SQL`, `python` or `R` wil
 The course will be taught over 3 sessions of each 4 hours, with at most 2 sessions per week. The final session schedule will be planned in coordination with participants prior to the start of the course.
 
 Please [Contact us]({{< ref "/#contact" >}} "Contact Us") for details and options.
+
 ## Pricing
 
 Pricing is based on the level and duration of the course, and the number of participants per application. [See here]({{< ref "/pricing" >}} "Pricing") for additional information.
