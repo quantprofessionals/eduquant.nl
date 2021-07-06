@@ -1,7 +1,17 @@
 //
 // Base styles
 //
-
+.btn-light {
+  color:#a8cece;
+  background-color:#8ba9d1;
+  border-color:#23135f
+ }
+ .btn-light:hover {
+  color:#d6f0f0;
+  background-color:#97b9e5;
+  border-color:#23135f
+ }
+ 
 .card {
   position: relative;
   display: flex;
