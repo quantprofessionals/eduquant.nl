@@ -1,11 +1,20 @@
 backend:
   name: git-gateway
   branch: master
+  squash_merges: true
+publish_mode: editorial_workflow
 media_folder: /assets/media
-public_folder: /images
-collections:
+public_folder: /media
+site_url: https://eduquant.nl
+display_url: https://eduquant.nl
+logo_url: https://eduquant.nl/media/logo_transparent.svg
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "_"
+show_preview_links: true
   - name: 'courses'
-    label: 'Courses'
+    label: 'Course Modules'
     label_singular: 'Course'
     folder: 'content/courses'
     path: '{{slug}}/index'
@@ -36,7 +45,7 @@ collections:
         required: false
         widget: object
         fields:
-          - label: "Upload an image, make sure it is named `featured.jpg/png`"
+          - label: "Upload an image, make sure it is named `featured.jpg` or `featured.png`"
             name: "filename"
             widget: "image"
             default: "featured.jpg"
