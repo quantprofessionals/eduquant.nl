@@ -55,8 +55,8 @@ collections:
                 multiple: false
           - {label: Caption, name: caption, widget: string, required: false}
           - {label: Description for screen readers, name: alt_text, widget: string, required: false}
-          - {label: "Image Focal Point (Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight)", name: focal_point, widget: string, required: false, default: "Smart"}
             # - {label: Thumbnail Only?, name: preview_only, widget: boolean, default: false}
+  
   # - name: authors
   #   label: Authors
   #   label_singular: Author
