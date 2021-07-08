@@ -1,11 +1,21 @@
 backend:
   name: git-gateway
   branch: master
+  squash_merges: true
+publish_mode: editorial_workflow
+show_preview_links: true
 media_folder: /assets/media
-public_folder: /images
+public_folder: /media
+site_url: https://eduquant.nl
+display_url: https://eduquant.nl
+logo_url: https://eduquant.nl/media/logo_transparent.svg
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "_"
 collections:
   - name: 'courses'
-    label: 'Courses'
+    label: 'Course Modules'
     label_singular: 'Course'
     folder: 'content/courses'
     path: '{{slug}}/index'
@@ -36,7 +46,7 @@ collections:
         required: false
         widget: object
         fields:
-          - label: "Upload an image, make sure it is named `featured.jpg/png`"
+          - label: "Upload an image, make sure it is named `featured.jpg` or `featured.png`"
             name: "filename"
             widget: "image"
             default: "featured.jpg"
@@ -45,8 +55,8 @@ collections:
                 multiple: false
           - {label: Caption, name: caption, widget: string, required: false}
           - {label: Description for screen readers, name: alt_text, widget: string, required: false}
-          - {label: "Image Focal Point (Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight)", name: focal_point, widget: string, required: false, default: "Smart"}
             # - {label: Thumbnail Only?, name: preview_only, widget: boolean, default: false}
+  
   # - name: authors
   #   label: Authors
   #   label_singular: Author
