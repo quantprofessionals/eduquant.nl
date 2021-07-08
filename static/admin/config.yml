@@ -3,6 +3,7 @@ backend:
   branch: master
   squash_merges: true
 publish_mode: editorial_workflow
+show_preview_links: true
 media_folder: /assets/media
 public_folder: /media
 site_url: https://eduquant.nl
@@ -12,7 +13,7 @@ slug:
   encoding: "ascii"
   clean_accents: true
   sanitize_replacement: "_"
-show_preview_links: true
+collections:
   - name: 'courses'
     label: 'Course Modules'
     label_singular: 'Course'
