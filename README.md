@@ -12,7 +12,7 @@ Usage:
  2. To edit (for example) the tags, look in `content/home/curriculum.md`
  3. To edit the title / tagline, look in `content/home/hero.md`
  4. To edit the slider / features banner, look in `content/home/slider.md`
- 5. For more info on the widgets / layout / theme etc see [academic](https://sourcethemes.com/academic/)
+ 5. For more info on the widgets / layout / theme etc see [wowchemy](https://wowchemy.com/docs/)
  6. When you are happy with your newly added courses, push your changes to origin and make a merge request.
- 7. Changes merged on `master` will be automatically built with hugo and appear online.
+ 7. Changes merged on `master` will be automatically built on netlify with hugo and appear online.
 
