@@ -6,5 +6,5 @@ then
 fi
 for f in assets/media/*.jpg content/courses/*/*.jpg; do
     echo "Colourizing $f"
-    convert $f \( +clone +matte -fill "rgb(0, 41, 96)" -colorize 50% \) -modulate 100,10 -compose overlay -composite $f;
+    convert $f \( +clone +matte -fill "rgb(10, 100, 200)" -colorize 50% \) -modulate 100,15 -compose overlay -composite $f;
 done
