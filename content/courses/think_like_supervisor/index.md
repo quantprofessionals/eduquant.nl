@@ -53,8 +53,12 @@ The module will be taught over{{< param nr_sessions >}} sessions of each {{< par
 
 For this module, case studies will focus on 
 
+ * identifying key regulatory instruments in specific decisions regarding internal models
+ * understanding regulatory requirements regarding internal models from a macro-prudential perspective
+ * recognizing important trade-offs in model supervision from the point of view of a supervisor in simulated cases
 
 Please [Contact us]({{< ref "#contact" >}} "Contact Us") for details and options.
+
 ## Pricing
 
 Pricing is based on the level and duration of the course, and the number of participants per application. [See here]({{< ref "/pricing" >}} "Pricing") for additional information.

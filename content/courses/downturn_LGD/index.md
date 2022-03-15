@@ -17,7 +17,7 @@ image:
   filename: featured.jpg
 
 
-nr_sessions : "3"
+nr_sessions : "4"
 session : "4 hours"
 
 ---
@@ -94,7 +94,6 @@ Participants are advised to come equipped with aasic understanding of:
 ## Schedule
 
 The module will be taught over{{< param nr_sessions >}} sessions of each {{< param session >}}. The track schedule will be planned in coordination with the client based on the selection of modules.
-
 
 
 #### Example case studies
