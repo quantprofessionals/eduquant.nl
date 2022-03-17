@@ -5,11 +5,11 @@ draft: false
 ---
 
 
-Test embedding a jupyter-lite REPL from github pages:
+Test embedding a jupyter-lite notebook from github pages:
 
 
 <iframe
-  src="https://quantprofessionals.github.io/jupyterlite-demo/repl/index.html?kernel=python&toolbar=1"
+  src="https://quantprofessionals.github.io/jupyterlite-demo/retro/notebooks/?path=python.ipynb"
   width="100%"
   height="500px"
 >
